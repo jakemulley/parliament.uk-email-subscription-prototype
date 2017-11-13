@@ -8,13 +8,12 @@
     "node": "7.x"
   },
   "scripts": {
+    "postinstall": "make install",
     "start": "make serve"
   },
   "devDependencies": {
     "express": "^4.15.4",
-    "parliamentuk-pugin": "git+https://github.com/ukparliament/parliament.uk-pugin.git#1.6.3"
-  },
-  "dependencies": {
+    "parliamentuk-pugin": "git+https://github.com/ukparliament/parliament.uk-pugin.git#1.6.3",
     "pug": "^2.0.0-rc.4"
   }
 }
