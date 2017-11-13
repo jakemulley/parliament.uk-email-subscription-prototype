@@ -4,21 +4,14 @@ const
 	port    = process.env.PORT || 5000,
 	path    = require('path');
 
-app.use(express.static(path.join(__dirname, '/_public')));
-
-// app root
+app.set('view engine', 'pug');
+app.set('views', './src/templates');
+app.use(express.static('_public'));
 app.get('/', function(req, res) {
-	res.sendFile(path.join(__dirname, '/_public/templates/index.html'));
+	res.render('index');
 });
-
-app.get('/confirmation.html', function(req, res) {
-	res.sendFile(path.join(__dirname, '/_public/templates/confirmation.html'));
-});
-
-// requested views
-// using regexp to match request to path
-app.get(/([^\/]+)$/g, function(req, res) {
-	res.sendFile(path.join(__dirname, req.path));
+app.get('/confirmation', function(req, res) {
+	res.render('confirmation', { email: req.query.email });
 });
 
 app.listen(port, function() {

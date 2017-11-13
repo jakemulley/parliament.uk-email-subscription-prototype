@@ -5,8 +5,9 @@ block content
     h2 Keep up to date
     p.lead Get email updates about the work of UK Parliament that matters most to you. Be the first to know what is happening, how you can get involved and what’s coming up.
     p UK Parliament will only send you emails about the topics you’ve signed up for. You can unsubscribe or change how often you receive emails any time.
-    form(action='confirmation.html')
-      label(for='email') Email address
+    form(action='confirmation')
+      label(for='email')
+        strong Email address
       input(type='text', name='email', id='email', required)
       br
       button.btn--primary.btn--large(type='submit', value='Submit')
