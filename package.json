@@ -8,7 +8,8 @@
     "node": "7.x"
   },
   "scripts": {
-    "start": "make serve"
+    "start": "make serve",
+    "postinstall": "make install"
   },
   "devDependencies": {
     "express": "^4.15.4",
