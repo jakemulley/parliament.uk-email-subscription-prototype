@@ -13,6 +13,9 @@ app.get('/', function(req, res) {
 app.get('/confirmation', function(req, res) {
 	res.render('confirmation', { email: req.query.email });
 });
+app.get('/context', function(req, res) {
+	res.render('context');
+});
 
 app.listen(port, function() {
 	console.log('Server started on port: ' + port);
