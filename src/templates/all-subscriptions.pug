@@ -1,0 +1,102 @@
+extends ../layouts/layout.pug
+
+block content
+    .container(style='max-width:960px;margin-top:36px;').block.theme--transparent
+            p(style='margin-bottom:0') Email preferences
+            h1 All available subscriptions
+            p(style='margin-top:36px') Edit the email updates you get from us
+            a(href='#') Manage your settings and personal details
+    .container(style='max-width:960px')
+        ul.list--tab
+            li
+                a(href='/subscriptions') Your subscriptions
+            li.active All available subscriptions
+    .container(style='display:flex;max-width:960px;justify-content:space-between;')
+        .left(style='flex: 0 0 20%;')
+            strong Categories
+            ul.category-list.sticky
+                li.active
+                    a(href='#newsletters') Newsletters
+                li
+                    a(href='#debates') Debates, questions and what's on
+                li
+                    a(href='#accountability') MPs and Lords accountability
+                li
+                    a(href='#research') Research and publications
+                li
+                    a(href='#news') News
+                li
+                    a(href='#committees') Committee updates
+                li
+                    a(href='#bills') Bill updates
+        .right(style='flex: 0 0 75%')
+            h2.lead(style='margin-top:0;margin-bottom:0;') Newsletters
+            +form(id='newsletters' action='#')
+                +fieldset
+                ul.list--block
+                    each topic in data.ee
+                        li
+                            .list--details
+                                strong
+                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                p.input--description Alerts on any updates to this bill.
+            h2.lead(style='margin-top:0;margin-bottom:0;') Debates, questions and what's on
+            +form(id='debates' action='#')
+                +fieldset
+                ul.list--block
+                    each topic in data.debates
+                        li
+                            .list--details
+                                strong
+                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                p.input--description Alerts on any updates to this bill.
+            h2.lead(style='margin-top:0;margin-bottom:0;') MPs and Lords accountability
+            +form(id='accountability' action='#')
+                +fieldset
+                ul.list--block
+                    each topic in data.accountability
+                        li
+                            .list--details
+                                strong
+                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                p.input--description Alerts on any updates to this bill.
+            h2.lead(style='margin-top:0;margin-bottom:0;') Research and publications
+            +form(id='research' action='#')
+                +fieldset
+                ul.list--block
+                    each topic in data.research
+                        li
+                            .list--details
+                                strong
+                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                p.input--description Alerts on any updates to this bill.
+            h2.lead(style='margin-top:0;margin-bottom:0;') News
+            +form(id='news' action='#')
+                +fieldset
+                ul.list--block
+                    each topic in data.news
+                        li
+                            .list--details
+                                strong
+                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                p.input--description Alerts on any updates to this bill.
+            h2.lead(style='margin-top:0;margin-bottom:0;') Committee updates
+            +form(id='committees' action='#')
+                +fieldset
+                ul.list--block
+                    each topic in data.committees
+                        li
+                            .list--details
+                                strong
+                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                p.input--description Alerts on any updates to this bill.
+            h2.lead(style='margin-top:0;margin-bottom:0;') Bill updates
+            +form(id='bills' action='#')
+                +fieldset
+                ul.list--block
+                    each topic in data.bills
+                        li
+                            .list--details
+                                strong
+                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                p.input--description Alerts on any updates to this bill.

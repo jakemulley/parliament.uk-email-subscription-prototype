@@ -1,16 +1,16 @@
 extends ../layouts/layout.pug
 
 block content
-  .container
-    h2 Keep up to date
-    p.lead Get email updates about the work of UK Parliament that matters most to you. Be the first to know what is happening, how you can get involved and what’s coming up.
-    p UK Parliament will only send you emails about the topics you’ve signed up for. You can unsubscribe or change how often you receive emails any time.
-    form(action='confirmation')
-      label(for='email')
-        strong Email address
-      input(type='text', name='email', id='email', required)
-      br
-      button.btn--primary.btn--large(type='submit', value='Submit')
-        span.btn--loading__text Submit
-        span.btn--loading__icon
-    a(href='#') View our privacy policy.
+  section#content
+    .container
+      h2 Keep up to date
+      p.lead Get email updates about the work of UK Parliament that matters most to you. Be the first to know what is happening, how you can get involved and what’s coming up.
+      p UK Parliament will only send you emails about the topics you’ve signed up for. You can unsubscribe or change how often you receive emails any time.
+  section
+    .container
+      +form(id='signup', action='confirmation')
+        +fieldset
+          strong
+            +input('text', 'Email address', 'email', 'email')(required)
+        +button('Sign up', 'btn--primary', 'submit')
+      a(href='http://www.parliament.uk/site-information/data-protection/uk-parliament-email-privacy-policy/' rel='external') View our privacy policy
