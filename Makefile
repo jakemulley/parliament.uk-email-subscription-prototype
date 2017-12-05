@@ -82,4 +82,4 @@ test:
 	@node $(PUGIN)/scripts/w3c.js
 
 # Builds application
-build: lint css js images icons templates json
+build: lint css js images icons json
