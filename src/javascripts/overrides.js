@@ -54,4 +54,19 @@
   var sticky = document.querySelector('.sticky');
   if (sticky)
     Sticky.init(sticky);
+
+  // Active states
+  var catList = document.querySelectorAll('.category-list li');
+  function toggleActive(e) {
+    for (var i = catList.length - 1; i >= 0; i--) {
+      catList[i].classList.remove('active');
+    }
+    e.target.parentElement.classList.add('active');
+  }
+
+  if(catList.length) {
+    for (var i = catList.length - 1; i >= 0; i--) {
+      catList[i].onclick = toggleActive;
+    }
+  }
 })();
