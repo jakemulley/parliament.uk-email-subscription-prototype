@@ -30,8 +30,8 @@ block content
                 li
                     a(href='#bills') Bill updates
         .right(style='flex: 0 0 75%')
-            h2.lead(style='margin-top:0;margin-bottom:0;') Newsletters
-            +form(id='newsletters' action='#')
+            h2#newsletters.lead(style='margin-top:0;margin-bottom:0;') Newsletters
+            +form(action='#')
                 +fieldset
                 ul.list--block
                     each topic in data.ee
@@ -40,8 +40,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
-            h2.lead(style='margin-top:0;margin-bottom:0;') Debates, questions and what's on
-            +form(id='debates' action='#')
+            h2#debates.lead(style='margin-top:0;margin-bottom:0;') Debates, questions and what's on
+            +form(action='#')
                 +fieldset
                 ul.list--block
                     each topic in data.debates
@@ -50,8 +50,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
-            h2.lead(style='margin-top:0;margin-bottom:0;') MPs and Lords accountability
-            +form(id='accountability' action='#')
+            h2#accountability.lead(style='margin-top:0;margin-bottom:0;') MPs and Lords accountability
+            +form(action='#')
                 +fieldset
                 ul.list--block
                     each topic in data.accountability
@@ -60,8 +60,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
-            h2.lead(style='margin-top:0;margin-bottom:0;') Research and publications
-            +form(id='research' action='#')
+            h2#research.lead(style='margin-top:0;margin-bottom:0;') Research and publications
+            +form(action='#')
                 +fieldset
                 ul.list--block
                     each topic in data.research
@@ -70,8 +70,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
-            h2.lead(style='margin-top:0;margin-bottom:0;') News
-            +form(id='news' action='#')
+            h2#news.lead(style='margin-top:0;margin-bottom:0;') News
+            +form(action='#')
                 +fieldset
                 ul.list--block
                     each topic in data.news
@@ -80,8 +80,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
-            h2.lead(style='margin-top:0;margin-bottom:0;') Committee updates
-            +form(id='committees' action='#')
+            h2#committees.lead(style='margin-top:0;margin-bottom:0;') Committee updates
+            +form(action='#')
                 +fieldset
                 ul.list--block
                     each topic in data.committees
@@ -90,8 +90,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates from this committee
-            h2.lead(style='margin-top:0;margin-bottom:0;') Bill updates
-            +form(id='bills' action='#')
+            h2#bills(style='margin-top:0;margin-bottom:0;') Bill updates
+            +form(action='#')
                 +fieldset
                 ul.list--block
                     each topic in data.bills

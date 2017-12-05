@@ -28,7 +28,7 @@
         }
       },
       getWidth: function() {
-      	return this.element.getBoundingClientRect().width;
+        return this.element.getBoundingClientRect().width;
       },
       setFixed: function() {
         this.element.classList.add(CSS_CLASS_ACTIVE);
