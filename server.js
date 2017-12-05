@@ -128,6 +128,83 @@ function properJson() {
 			newJson.research.push(jsonFile[i]);
 			done = true;
 		}
+		if(jsonFile[i].Name.includes('Works of Art')) {
+			newJson.committees.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('The Leader\'s Group on Governance')) {
+			newJson.committees.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Public Accounts Commission')) {
+			newJson.committees.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Read yesterday’s House of Lords debates')) {
+			newJson.debates.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Public Bills before Parliament')) {
+			newJson.bills.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Private Bills before Parliament')) {
+			newJson.bills.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Parliament’s YouTube channel')) {
+			newJson.news.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Parliament on Flickr')) {
+			newJson.news.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('parks')) {
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Parliament Week Partner Updates')) {
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Lords Library notes')) {
+			newJson.research.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Lord Speaker\'s committee on the size of the House')) {
+			newJson.committees.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('LiberTeas update')) {
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Latest committee inquiries')) {
+			newJson.committees.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('House of Lords Commission')) {
+			newJson.committees.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('House of Commons Commission')) {
+			newJson.committees.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('High Speed Rail (London – West Midlands) Bill (Lords)')) {
+			newJson.bills.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Early Day Motions')) {
+			newJson.debates.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Latest news from the House of Lords')) {
+			newJson.news.push(jsonFile[i]);
+			done = true;
+		}
+		if(jsonFile[i].Name.includes('Latest news from the House of Commons')) {
+			newJson.news.push(jsonFile[i]);
+			done = true;
+		}
 		if(done == false) {
 			newJson.ee.push(jsonFile[i]);
 		}

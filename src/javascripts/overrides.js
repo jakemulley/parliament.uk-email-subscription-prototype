@@ -28,7 +28,6 @@
         }
       },
       getWidth: function() {
-      	console.log(this.element.getBoundingClientRect());
       	return this.element.getBoundingClientRect().width;
       },
       setFixed: function() {

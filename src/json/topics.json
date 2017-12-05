@@ -7207,5 +7207,14 @@
     "Page Watch Enabled": "No",
     "Page Watch Suspended": "No",
     "Autosend": "No"
+  },
+  {
+    "Name": "House of Lords newsletter",
+    "Code": "UKPARLIAMENT_1407",
+    "Subscriptions": "30,724",
+    "Visibility": "Listed",
+    "Page Watch Enabled": "No",
+    "Page Watch Suspended": "No",
+    "Autosend": "No"
   }
 ]
