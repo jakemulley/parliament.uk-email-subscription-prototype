@@ -1,0 +1,9 @@
+extends ../layouts/layout.pug
+
+block content
+    section#content.section--primary
+        .container
+            h1 Remove your details
+            p Would you like to remove your details from our system? If so, you will have to sign up again to get our email updates.
+            a.btn--delete(href='/delete-success') Yes, delete me
+            .btn--primary--inverse No, keep my details

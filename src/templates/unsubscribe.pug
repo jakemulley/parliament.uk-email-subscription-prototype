@@ -1,0 +1,16 @@
+extends ../layouts/layout.pug
+
+block content
+    section#content.section--primary
+        .container
+            h1 You have successfully
+                br
+                = ' unsubscribed from all emails'
+            p We’ve unsubscribed you, which means you won’t get any email updates from us. If you’d prefer to, you can also
+                = ' '
+                a(href='/delete') delete your details
+                = ' from our system.'
+            .status--highlight Did you mean to unsubscribe? If not, please
+                = ' '
+                a(href='#') resubscribe here
+                = '.'

@@ -135,3 +135,45 @@ input {
     }
   }
 }
+
+.inline-alert {
+  margin-left: 48px;
+  padding: 3px 6px;
+  font-size: 16px;
+  display: none;
+  &.success {
+    background: $success--light;
+  }
+  &.removal {
+    background: $caution--light;
+  }
+}
+
+.showSuccessAlert .inline-alert.success {
+  display: inline;
+}
+
+.showRemovalAlert .inline-alert.removal {
+  display: inline;
+}
+
+a.btn--delete {
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  min-width: 70px;
+  position: relative;
+  border-radius: 4px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  background-color: #DE2E32;
+  padding: ($base-spacing-unit - 2) ($base-spacing-unit-tiny - 2);
+  margin: 0 $base-spacing-unit $base-spacing-unit-tiny 0;
+}
+
+a.btn--ghost {
+  background-color: transparent;
+  border: 2px solid #DE2E32;
+  color: #DE2E32;
+}

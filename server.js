@@ -236,6 +236,22 @@ app.get('/all-subscriptions', function(req, res) {
 	res.render('all-subscriptions', { data: properJson() });
 });
 
+app.get('/unsubscribe', function(req, res) {
+	res.render('unsubscribe');
+});
+
+app.get('/delete', function(req, res) {
+	res.render('delete');
+});
+
+app.get('/delete-success', function(req, res) {
+	res.render('delete-success');
+});
+
+app.get('/edit-details', function(req, res) {
+	res.render('edit-details');
+});
+
 app.listen(port, function() {
 	console.log('Server started on port: ' + port);
 });

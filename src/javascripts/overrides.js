@@ -69,4 +69,23 @@
       catList[i].onclick = toggleActive;
     }
   }
+
+  // Toggle alerts etc
+  var topicList = document.querySelectorAll('.right ul li label');
+  function toggleAlert(e) {
+    var parentParentClassList = e.target.parentElement.parentElement.parentElement.classList;
+    if(parentParentClassList.contains('showSuccessAlert')) {
+      parentParentClassList.remove('showSuccessAlert');
+      parentParentClassList.add('showRemovalAlert');
+    } else {
+      parentParentClassList.remove('showRemovalAlert');
+      parentParentClassList.toggle('showSuccessAlert');
+    }
+  }
+
+  if(topicList.length) {
+    for (var k = topicList.length - 1; k >= 0; k--) {
+      topicList[k].onclick = toggleAlert;
+    }
+  }
 })();

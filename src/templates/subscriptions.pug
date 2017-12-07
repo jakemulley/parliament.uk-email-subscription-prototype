@@ -11,7 +11,7 @@ block content
             p(style='margin-bottom:0') Email preferences
             h1 Manage your subscriptions
             p(style='margin-top:36px') Edit the email updates you get from us
-            a(href='#') Manage your settings and personal details
+            a(href='/edit-details') Manage your settings and personal details
     .container(style='max-width:960px')
         ul.list--tab
             li.active Your subscriptions
@@ -20,7 +20,7 @@ block content
     .container(style='display:flex;max-width:960px;justify-content:space-between;')
         .left(style='flex: 0 0 20%')
             p You are subscribed to 3 emails.
-            .btn--primary Unsubscribe from all
+            a.btn--primary(href='/unsubscribe') Unsubscribe from all
         .right(style='flex: 0 0 75%')
             h2.lead(style='margin-top:0;margin-bottom:18px;') Your subscriptions
             +form(id='subscriptions' action='#')

@@ -5,7 +5,7 @@ block content
             p(style='margin-bottom:0') Email preferences
             h1 All available subscriptions
             p(style='margin-top:36px') Edit the email updates you get from us
-            a(href='#') Manage your settings and personal details
+            a(href='/edit-details') Manage your settings and personal details
     .container(style='max-width:960px')
         ul.list--tab
             li
@@ -40,6 +40,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
+                                .inline-alert.success You are now subscribed
+                                .inline-alert.removal You are now unsubscribed
             h2#debates.lead(style='margin-top:0;margin-bottom:0;') Debates, questions and what's on
             +form(action='#')
                 +fieldset
@@ -50,6 +52,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
+                                .inline-alert.success You are now subscribed
+                                .inline-alert.removal You are now unsubscribed
             h2#accountability.lead(style='margin-top:0;margin-bottom:0;') MPs and Lords accountability
             +form(action='#')
                 +fieldset
@@ -60,6 +64,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
+                                .inline-alert.success You are now subscribed
+                                .inline-alert.removal You are now unsubscribed
             h2#research.lead(style='margin-top:0;margin-bottom:0;') Research and publications
             +form(action='#')
                 +fieldset
@@ -70,6 +76,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
+                                .inline-alert.success You are now subscribed
+                                .inline-alert.removal You are now unsubscribed
             h2#news.lead(style='margin-top:0;margin-bottom:0;') News
             +form(action='#')
                 +fieldset
@@ -80,6 +88,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
+                                .inline-alert.success You are now subscribed
+                                .inline-alert.removal You are now unsubscribed
             h2#committees.lead(style='margin-top:0;margin-bottom:0;') Committee updates
             +form(action='#')
                 +fieldset
@@ -90,6 +100,8 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates from this committee
+                                .inline-alert.success You are now subscribed
+                                .inline-alert.removal You are now unsubscribed
             h2#bills(style='margin-top:0;margin-bottom:0;') Bill updates
             +form(action='#')
                 +fieldset
@@ -100,3 +112,5 @@ block content
                                 strong
                                     +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill
+                                .inline-alert.success You are now subscribed
+                                .inline-alert.removal You are now unsubscribed

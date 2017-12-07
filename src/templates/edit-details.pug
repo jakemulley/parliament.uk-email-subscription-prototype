@@ -1,0 +1,29 @@
+extends ../layouts/layout.pug
+
+block content
+    .container(style='max-width:960px;margin-top:36px;').block.theme--transparent
+        .block--border__bottom
+            p(style='margin-bottom:0') Email preferences
+            h1 Manage your settings and personal details
+            p(style='margin-top:36px') Update your personal information and the frequency of our emails
+            a(href='/subscriptions') Manage your subscriptions from UK Parliament
+    .container(style='max-width:960px')
+        .block--border__bottom
+            h2 Change how often you receive our emails
+            +form(action='#')
+                +fieldset
+                    +input('radio', 'I want to receive immediate updates', 'time', 'immediate')
+                    +input('radio', 'I want to receive daily updates', 'time', 'daily')
+                    +input('radio', 'I want to receive weekly updates', 'time', 'weekly')
+                    .btn--primary Save
+    .container(style='max-width:960px')
+        .block--border__bottom
+            p The email address you’re subscribed with is
+                = ' '
+                strong yourname@email.com
+                = '. If you would like to update this, please '
+                a(href='#') contact support
+                = '.'
+    .container(style='max-width:960px')
+        p Would you like to remove your details from our system?
+        a.btn--delete.btn--ghost(href='/delete') Yes, delete account
