@@ -12,7 +12,7 @@ block content
             h2 Change how often you receive our emails
             +form(action='#')
                 +fieldset
-                    +input('radio', 'I want to receive immediate updates', 'time', 'immediate')
+                    +input('radio', 'I want to receive immediate updates', 'time', 'immediate')(checked)
                     +input('radio', 'I want to receive daily updates', 'time', 'daily')
                     +input('radio', 'I want to receive weekly updates', 'time', 'weekly')
                     .btn--primary Save
