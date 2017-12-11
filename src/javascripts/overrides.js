@@ -118,7 +118,7 @@
     // get current subbed cookie
     var subbed = readCookie('subbed_topics');
     var forVal = e.target.attributes.for.value;
-    var newSubs;
+    var newSubs = '';
 
     if(type == 'add') {
       if(subbed !== null) {
@@ -127,6 +127,7 @@
     } else {
       newSubs = removeValue(subbed, forVal);
     }
+
     document.cookie = 'subbed_topics=' + newSubs + ';path=/';
   }
 })();

@@ -8,6 +8,10 @@ const
 	jsonFile= require(__dirname + '/src/json/topics.json');
 
 function getTopicsSubbedTo(subbedTo) {
+	if(typeof subbedTo == 'undefined') {
+		subbedTo = 'UKParliament_Bill_2056';
+	}
+
 	var newJson = [];
 	var subbedToArray = subbedTo.split(',');
 
@@ -23,6 +27,10 @@ function getTopicsSubbedTo(subbedTo) {
 }
 
 function properJson(subbedTo) {
+	if(typeof subbedTo == 'undefined') {
+		subbedTo = 'UKParliament_Bill_2056';
+	}
+
 	var subbedToArray = subbedTo.split(',');
 
 	var newJson = {
@@ -258,13 +266,19 @@ app.get('/context', function(req, res) {
 });
 
 app.get('/subscriptions', function(req, res) {
-	var subbedTo = req.cookies.subbed_topics || 'UKParliament_Bill_2056';
+	var subbedTo = req.cookies.subbed_topics;
+	if(typeof subbedTo == 'undefined') {
+		res.cookie('subbed_topics', 'UKParliament_Bill_2056');
+	}
 	res.cookie('seen_confirmation', true);
 	res.render('subscriptions', { cookies: req.cookies, topics: getTopicsSubbedTo(subbedTo) } );
 });
 
 app.get('/all-subscriptions', function(req, res) {
-	var subbedTo = req.cookies.subbed_topics || 'UKParliament_Bill_2056';
+	var subbedTo = req.cookies.subbed_topics;
+	if(typeof subbedTo == 'undefined') {
+		res.cookie('subbed_topics', 'UKParliament_Bill_2056');
+	}
 	res.render('all-subscriptions', { data: properJson(subbedTo) });
 });
 
