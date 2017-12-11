@@ -77,11 +77,9 @@
     if(parentParentClassList.contains('showSuccessAlert')) {
       parentParentClassList.remove('showSuccessAlert');
       parentParentClassList.add('showRemovalAlert');
-      changeCount();
     } else {
       parentParentClassList.remove('showRemovalAlert');
       parentParentClassList.toggle('showSuccessAlert');
-      changeCount();
     }
   }
 
@@ -89,13 +87,5 @@
     for (var k = topicList.length - 1; k >= 0; k--) {
       topicList[k].onclick = toggleAlert;
     }
-  }
-
-  // Update subscribe count
-  var subscribeText = 'You are subscribed to 1 email.';
-  function changeCount() {
-    var checkboxCheckedCount = document.querySelectorAll('.right ul li input:checked');
-    var subscribeParagraph = document.querySelector('.subscribeParagraph');
-    // subscribeParagraph.innerHTML = checkboxCheckedCount.length;
   }
 })();

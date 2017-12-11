@@ -3,7 +3,14 @@ const
 	app     = express(),
 	port    = process.env.PORT || 5000,
 	path    = require('path')
+	cookieParser = require('cookie-parser'),
+	bodyParser = require('body-parser');
 	jsonFile= require(__dirname + '/src/json/topics.json');
+
+function getTopicsSubbedTo(cookies) {
+	var arr = [];
+	console.log(cookies);
+}
 
 function properJson() {
 	var newJson = {
@@ -215,13 +222,18 @@ function properJson() {
 app.set('view engine', 'pug');
 app.set('views', './src/templates');
 app.use(express.static('_public'));
+app.use(cookieParser());
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 
 app.get('/', function(req, res) {
 	res.render('index');
 });
 
 app.get('/confirmation', function(req, res) {
-	res.render('confirmation', { email: req.query.email });
+	res.cookie('email', req.query.email);
+	res.cookie('sub_count', '1');
+	res.render('confirmation', { cookies: { email: req.query.email } });
 });
 
 app.get('/context', function(req, res) {
@@ -229,10 +241,12 @@ app.get('/context', function(req, res) {
 });
 
 app.get('/subscriptions', function(req, res) {
-	res.render('subscriptions');
+	res.cookie('seen_confirmation', true);
+	res.render('subscriptions', { cookies: req.cookies } );
 });
 
 app.get('/all-subscriptions', function(req, res) {
+	getTopicsSubbedTo(req.cookies);
 	res.render('all-subscriptions', { data: properJson() });
 });
 
@@ -249,7 +263,22 @@ app.get('/delete-success', function(req, res) {
 });
 
 app.get('/edit-details', function(req, res) {
-	res.render('edit-details');
+	req.cookies.saved_details = 'false';
+	res.cookie('saved_details', false);
+	res.render('edit-details', { cookies: req.cookies } );
+});
+
+app.post('/edit-details', function(req, res) {
+	res.cookie('saved_details', true);
+	res.cookie('email_frequency', req.body.time);
+	req.cookies.saved_details = 'true';
+	req.cookies.email_frequency = req.body.time;
+	res.render('edit-details', { cookies: req.cookies } );
+});
+
+app.get('/reset', function(req, res) {
+	res.clearCookie('email');
+    res.send('Cookie deleted');
 });
 
 app.listen(port, function() {

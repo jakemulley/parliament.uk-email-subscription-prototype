@@ -1,6 +1,10 @@
 extends ../layouts/layout.pug
 
 block content
+    if cookies.saved_details == 'true'
+        section#content.section--primary
+            .container
+                .status--highlight.theme--success Your details have been updated.
     .container(style='max-width:960px;margin-top:36px;').block.theme--transparent
         .block--border__bottom
             p(style='margin-bottom:0') Email preferences
@@ -10,17 +14,26 @@ block content
     .container(style='max-width:960px')
         .block--border__bottom
             h2 Change how often you receive our emails
-            +form(action='#')
+            +form(action='/edit-details', method='post')
                 +fieldset
-                    +input('radio', 'I want to receive immediate updates', 'time', 'immediate')(checked)
-                    +input('radio', 'I want to receive daily updates', 'time', 'daily')
-                    +input('radio', 'I want to receive weekly updates', 'time', 'weekly')
-                    .btn--primary Save
+                    if cookies.email_frequency == 'immediate'
+                        +input('radio', 'I want to receive immediate updates', 'time', 'time[immediate]')(checked, value='immediate')
+                    else
+                        +input('radio', 'I want to receive immediate updates', 'time', 'time[immediate]')(value='immediate')
+                    if cookies.email_frequency == 'daily'
+                        +input('radio', 'I want to receive daily updates', 'time', 'time[daily]')(value='daily', checked)
+                    else
+                        +input('radio', 'I want to receive daily updates', 'time', 'time[daily]')(value='daily')
+                    if cookies.email_frequency == 'weekly'
+                        +input('radio', 'I want to receive weekly updates', 'time', 'time[weekly]')(value='weekly', checked)
+                    else
+                        +input('radio', 'I want to receive weekly updates', 'time', 'time[weekly]')(value='weekly')
+                    button.btn--primary(type='submit') Save
     .container(style='max-width:960px')
         .block--border__bottom
             p The email address you’re subscribed with is
                 = ' '
-                strong yourname@email.com
+                strong #{cookies.email}
                 = '. If you would like to update this, please '
                 a(href='#') contact support
                 = '.'

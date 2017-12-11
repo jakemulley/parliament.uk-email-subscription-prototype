@@ -1,12 +1,13 @@
 extends ../layouts/layout.pug
 
 block content
-    section#content.section--primary
-        .container
-            .status--highlight.theme--success You’ve successfully signed up to
-                = ' '
-                strong Carbon Emission Reductions Bill [HL] 2016-17
-                = ' updates.'
+    unless cookies.seen_confirmation
+        section#content.section--primary
+            .container
+                .status--highlight.theme--success You’ve successfully signed up to
+                    = ' '
+                    strong Carbon Emission Reductions Bill [HL] 2016-17
+                    = ' updates.'
     .container.block.theme--transparent
             p(style='margin-bottom:0') Email preferences
             h1 Manage your subscriptions
@@ -19,7 +20,7 @@ block content
                 a(href='/all-subscriptions') All available subscriptions
     .container(style='display:flex;justify-content:space-between;')
         .left(style='flex: 0 0 20%')
-            p.subscribeParagraph You are subscribed to 3 emails.
+            p.subscribeParagraph You are subscribed to #{cookies.sub_count} emails.
             a.btn--primary(href='/unsubscribe') Unsubscribe from all
         .right(style='flex: 0 0 75%')
             h2.lead(style='margin-top:0;margin-bottom:18px;') Your subscriptions
