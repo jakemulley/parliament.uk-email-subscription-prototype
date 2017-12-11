@@ -16,6 +16,8 @@ block content
             h2 Change how often you receive our emails
             +form(action='/edit-details', method='post')
                 +fieldset
+                    unless cookies.email_frequency
+                        +input('radio', 'I want to receive immediate updates', 'time', 'time[immediate]')(checked, value='immediate')
                     if cookies.email_frequency == 'immediate'
                         +input('radio', 'I want to receive immediate updates', 'time', 'time[immediate]')(checked, value='immediate')
                     else

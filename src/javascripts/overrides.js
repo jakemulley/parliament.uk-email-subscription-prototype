@@ -77,9 +77,11 @@
     if(parentParentClassList.contains('showSuccessAlert')) {
       parentParentClassList.remove('showSuccessAlert');
       parentParentClassList.add('showRemovalAlert');
+      updateSubbed(e, 'remove');
     } else {
       parentParentClassList.remove('showRemovalAlert');
       parentParentClassList.toggle('showSuccessAlert');
+      updateSubbed(e, 'add');
     }
   }
 
@@ -87,5 +89,45 @@
     for (var k = topicList.length - 1; k >= 0; k--) {
       topicList[k].onclick = toggleAlert;
     }
+  }
+
+  function readCookie(name) {
+      var nameEQ = name + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0;i < ca.length;i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1,c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+      }
+      return null;
+  }
+
+  var removeValue = function(list, value, separator) {
+    separator = separator || ",";
+    var values = list.split(separator);
+    for(var i = 0 ; i < values.length ; i++) {
+      if(values[i] == value) {
+        values.splice(i, 1);
+        return values.join(separator);
+      }
+    }
+    return list;
+  }
+
+  function updateSubbed(e, type) {
+    // get current subbed cookie
+    var subbed = readCookie('subbed_topics');
+    var forVal = e.target.attributes.for.value;
+
+    if(type == 'add') {
+      if(subbed == null) {
+        var newSubs = forVal;
+      } else {
+        var newSubs = subbed + ',' + forVal;
+      }
+    } else {
+      var newSubs = removeValue(subbed, forVal);
+    }
+    document.cookie = 'subbed_topics=' + newSubs + ';path=/';
   }
 })();

@@ -20,17 +20,19 @@ block content
                 a(href='/all-subscriptions') All available subscriptions
     .container(style='display:flex;justify-content:space-between;')
         .left(style='flex: 0 0 20%')
-            p.subscribeParagraph You are subscribed to #{cookies.sub_count} emails.
+            p.subscribeParagraph You are subscribed to #{topics.length} emails.
             a.btn--primary(href='/unsubscribe') Unsubscribe from all
         .right(style='flex: 0 0 75%')
             h2.lead(style='margin-top:0;margin-bottom:18px;') Your subscriptions
             +form(id='subscriptions' action='#')
                 +fieldset
                 ul.list--block
-                    li
-                        .list--details
-                            strong
-                                +input('checkbox', 'Carbon Emission Reductions Bill [HL] 2016-2017', 'test', 'one')(checked)
-                            p.input--description Alerts on any updates to this bill.
-                            //- .inline-alert.success You are now subscribed
-                            //- .inline-alert.removal You are now unsubscribed
+                    each topic in topics
+                        li
+                            .list--details
+                                strong
+                                    +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
+                                p.input--description Alerts on any updates to this bill.
+                                //- .inline-alert.success You are now subscribed
+                                //- .inline-alert.removal You are now unsubscribed
+

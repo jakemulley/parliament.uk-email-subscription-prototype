@@ -7,12 +7,24 @@ const
 	bodyParser = require('body-parser');
 	jsonFile= require(__dirname + '/src/json/topics.json');
 
-function getTopicsSubbedTo(cookies) {
-	var arr = [];
-	console.log(cookies);
+function getTopicsSubbedTo(subbedTo) {
+	var newJson = [];
+	var subbedToArray = subbedTo.split(',');
+
+	for (var i = jsonFile.length - 1; i >= 0; i--) {
+		for (var k = subbedToArray.length - 1; k >= 0; k--) {
+			if(jsonFile[i].Code === subbedToArray[k]) {
+				newJson.push(jsonFile[i]);
+			}
+		}
+	}
+
+	return newJson;
 }
 
-function properJson() {
+function properJson(subbedTo) {
+	var subbedToArray = subbedTo.split(',');
+
 	var newJson = {
 		'ee': [],
 		'debates': [],
@@ -24,6 +36,11 @@ function properJson() {
 	};
 	for (var i = jsonFile.length - 1; i >= 0; i--) {
 		var done = false;
+		for (var k = subbedToArray.length - 1; k >= 0; k--) {
+			if(jsonFile[i].Code === subbedToArray[k]) {
+				done = true;
+			}
+		}
 		if(jsonFile[i].Visibility == 'Unlisted' || jsonFile[i].Visibility == 'Restricted') {
 			done = true;
 		}
@@ -242,12 +259,11 @@ app.get('/context', function(req, res) {
 
 app.get('/subscriptions', function(req, res) {
 	res.cookie('seen_confirmation', true);
-	res.render('subscriptions', { cookies: req.cookies } );
+	res.render('subscriptions', { cookies: req.cookies, topics: getTopicsSubbedTo(req.cookies.subbed_topics) } );
 });
 
 app.get('/all-subscriptions', function(req, res) {
-	getTopicsSubbedTo(req.cookies);
-	res.render('all-subscriptions', { data: properJson() });
+	res.render('all-subscriptions', { data: properJson(req.cookies.subbed_topics) });
 });
 
 app.get('/unsubscribe', function(req, res) {
