@@ -20,7 +20,7 @@
       aboveScroll: function() {
         return this.position < window.scrollY;
       },
-      onScroll: function(event) {
+      onScroll: function() {
         if (this.aboveScroll()) {
           this.setFixed();
         } else {
@@ -92,18 +92,18 @@
   }
 
   function readCookie(name) {
-      var nameEQ = name + "=";
-      var ca = document.cookie.split(';');
-      for(var i=0;i < ca.length;i++) {
-          var c = ca[i];
-          while (c.charAt(0)==' ') c = c.substring(1,c.length);
-          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-      }
-      return null;
+    var nameEQ = name + '=';
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1,c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
   }
 
-  var removeValue = function(list, value, separator) {
-    separator = separator || ",";
+  function removeValue(list, value, separator) {
+    separator = separator || ',';
     var values = list.split(separator);
     for(var i = 0 ; i < values.length ; i++) {
       if(values[i] == value) {
@@ -118,15 +118,14 @@
     // get current subbed cookie
     var subbed = readCookie('subbed_topics');
     var forVal = e.target.attributes.for.value;
+    var newSubs;
 
     if(type == 'add') {
-      if(subbed == null) {
-        var newSubs = forVal;
-      } else {
-        var newSubs = subbed + ',' + forVal;
+      if(subbed !== null) {
+        newSubs = subbed + ',' + forVal;
       }
     } else {
-      var newSubs = removeValue(subbed, forVal);
+      newSubs = removeValue(subbed, forVal);
     }
     document.cookie = 'subbed_topics=' + newSubs + ';path=/';
   }
