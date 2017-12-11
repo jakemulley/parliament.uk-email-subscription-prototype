@@ -310,6 +310,7 @@ app.post('/edit-details', function(req, res) {
 
 app.get('/reset', function(req, res) {
 	res.clearCookie('email');
+	res.clearCookie('subbed_topics');
     res.send('Cookie deleted');
 });
 
