@@ -258,12 +258,14 @@ app.get('/context', function(req, res) {
 });
 
 app.get('/subscriptions', function(req, res) {
+	var subbedTo = req.cookies.subbed_topics || 'UKParliament_Bill_2056';
 	res.cookie('seen_confirmation', true);
-	res.render('subscriptions', { cookies: req.cookies, topics: getTopicsSubbedTo(req.cookies.subbed_topics) } );
+	res.render('subscriptions', { cookies: req.cookies, topics: getTopicsSubbedTo(subbedTo) } );
 });
 
 app.get('/all-subscriptions', function(req, res) {
-	res.render('all-subscriptions', { data: properJson(req.cookies.subbed_topics) });
+	var subbedTo = req.cookies.subbed_topics || 'UKParliament_Bill_2056';
+	res.render('all-subscriptions', { data: properJson(subbedTo) });
 });
 
 app.get('/unsubscribe', function(req, res) {
