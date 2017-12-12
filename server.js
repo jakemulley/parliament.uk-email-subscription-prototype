@@ -38,8 +38,6 @@ function properJson(subbedTo) {
 		subbedTo = 'UKParliament_Bill_2056';
 	}
 
-	var subbedToArray = subbedTo.split(',');
-
 	var newJson = {
 		'ee': [],
 		'debates': [],
@@ -51,11 +49,6 @@ function properJson(subbedTo) {
 	};
 	for (var i = jsonFile.length - 1; i >= 0; i--) {
 		var done = false;
-		for (var k = subbedToArray.length - 1; k >= 0; k--) {
-			if(jsonFile[i].Code === subbedToArray[k]) {
-				done = true;
-			}
-		}
 		if(jsonFile[i].Visibility == 'Unlisted' || jsonFile[i].Visibility == 'Restricted') {
 			done = true;
 		}
@@ -294,7 +287,8 @@ app.get('/all-subscriptions', function(req, res) {
 	if(typeof subbedTo == 'undefined') {
 		res.cookie('subbed_topics', 'UKParliament_Bill_2056');
 	}
-	res.render('all-subscriptions', { data: properJson(subbedTo) });
+	var subbedToArray = subbedTo.split(',');
+	res.render('all-subscriptions', { data: properJson(subbedTo), subbedTo: subbedToArray });
 });
 
 app.get('/unsubscribe', function(req, res) {

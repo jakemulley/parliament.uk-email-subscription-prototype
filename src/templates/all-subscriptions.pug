@@ -38,7 +38,7 @@ block content
                         li
                             .list--details
                                 strong
-                                    if topic.SubbedTo
+                                    if (subbedTo.includes(topic.Code))
                                         +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
                                     else
                                         +input('checkbox', topic.Name, topic.Code, topic.Code)
@@ -52,7 +52,10 @@ block content
                         li
                             .list--details
                                 strong
-                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                    if (subbedTo.includes(topic.Code))
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
+                                    else
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
                                 .inline-alert.success You are now subscribed
             h2#accountability.lead(style='margin-top:0;margin-bottom:0;') MPs and Lords accountability
@@ -63,7 +66,10 @@ block content
                         li
                             .list--details
                                 strong
-                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                    if (subbedTo.includes(topic.Code))
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
+                                    else
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
                                 .inline-alert.success You are now subscribed
             h2#research.lead(style='margin-top:0;margin-bottom:0;') Research and publications
@@ -74,7 +80,10 @@ block content
                         li
                             .list--details
                                 strong
-                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                    if (subbedTo.includes(topic.Code))
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
+                                    else
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
                                 .inline-alert.success You are now subscribed
             h2#news.lead(style='margin-top:0;margin-bottom:0;') News
@@ -85,7 +94,10 @@ block content
                         li
                             .list--details
                                 strong
-                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                    if (subbedTo.includes(topic.Code))
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
+                                    else
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill.
                                 .inline-alert.success You are now subscribed
             h2#committees.lead(style='margin-top:0;margin-bottom:0;') Committee updates
@@ -96,7 +108,10 @@ block content
                         li
                             .list--details
                                 strong
-                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                    if (subbedTo.includes(topic.Code))
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
+                                    else
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates from this committee
                                 .inline-alert.success You are now subscribed
             h2#bills.lead(style='margin-top:0;margin-bottom:0;') Bill updates
@@ -107,6 +122,9 @@ block content
                         li
                             .list--details
                                 strong
-                                    +input('checkbox', topic.Name, topic.Code, topic.Code)
+                                    if (subbedTo.includes(topic.Code))
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
+                                    else
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)
                                 p.input--description Alerts on any updates to this bill
                                 .inline-alert.success You are now subscribed

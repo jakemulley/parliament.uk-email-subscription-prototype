@@ -70,47 +70,34 @@
     }
   }
 
-  // Toggle alerts etc on all subs
-  var topicList = document.querySelectorAll('#allsubs.right ul li label');
+  // Toggle alerts on subscriptions
+  var topicList = document.querySelectorAll('.right ul li label');
   function toggleAlert(e) {
-    var parentParentClassList = e.target.parentElement.parentElement.parentElement.classList;
-    if(parentParentClassList.contains('showSuccessAlert')) {
-      parentParentClassList.remove('showSuccessAlert');
-      parentParentClassList.add('showRemovalAlert');
-      updateSubbed(e, 'remove');
-    } else {
-      parentParentClassList.remove('showRemovalAlert');
-      parentParentClassList.toggle('showSuccessAlert');
+    var input = e.target.parentNode.getElementsByTagName('input')[0];
+    var reallyChecked = input.checked ? false : true; // have to switch as function runs before changed
+    var parent = e.target.parentElement.parentElement.parentElement.parentElement.classList;
+    if(reallyChecked) {
       updateSubbed(e, 'add');
+    } else {
+      updateSubbed(e, 'remove');
+    }
+
+    if(input.checked === false && reallyChecked === true) {
+      parent.add('showSuccessAlert');
+      parent.remove('showRemovalAlert');
+    }
+
+    if(input.checked === true && reallyChecked === false) {
+      parent.remove('showSuccessAlert');
+      parent.add('showRemovalAlert');
     }
   }
 
   if(topicList.length) {
-    for (var k = topicList.length - 1; k >= 0; k--) {
-      topicList[k].onclick = toggleAlert;
+    for (var i = 0; i < topicList.length; i++) {
+      topicList[i].onclick = toggleAlert;
     }
   }
-  // End toggle alerts on all subs
-
-  // Toggle alerts on your subs
-  var yourTopicList = document.querySelectorAll('#yoursubs.right ul li label');
-  function yourToggleAlert(e) {
-    var parentParentClassList = e.target.parentElement.parentElement.parentElement.classList;
-    if(parentParentClassList.contains('showRemovalAlert')) {
-      parentParentClassList.remove('showRemovalAlert');
-      updateSubbed(e, 'remove');
-    } else {
-      parentParentClassList.add('showRemovalAlert');
-      updateSubbed(e, 'remove');
-    }
-  }
-
-  if(yourTopicList.length) {
-    for (var o = yourTopicList.length - 1; o >= 0; o--) {
-      yourTopicList[o].onclick = yourToggleAlert;
-    }
-  }
-  // End toggle alerts on your subs
 
   function readCookie(name) {
     var nameEQ = name + '=';
