@@ -30,7 +30,7 @@ function getTopicsSubbedTo(subbedTo) {
 		}
 	}
 
-	return newJson;
+	return sortByKey(newJson, 'Name');
 }
 
 function properJson(subbedTo) {
@@ -247,6 +247,10 @@ function properJson(subbedTo) {
 		if(done == false) {
 			newJson.ee.push(jsonFile[i]);
 		}
+	}
+
+	for(key in newJson) {
+		newJson[key] = sortByKey(newJson[key], 'Name');
 	}
 
 	return newJson;
