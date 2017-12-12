@@ -94,8 +94,8 @@
   }
 
   if(topicList.length) {
-    for (var i = 0; i < topicList.length; i++) {
-      topicList[i].onclick = toggleAlert;
+    for (var k = 0; k < topicList.length; k++) {
+      topicList[k].onclick = toggleAlert;
     }
   }
 
