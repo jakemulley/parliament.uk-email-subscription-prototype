@@ -20,7 +20,11 @@ block content
                 a(href='/all-subscriptions') All available subscriptions
     .container(style='display:flex;justify-content:space-between;')
         .left(style='flex: 0 0 20%')
-            p.subscribeParagraph You are subscribed to #{topics.length} emails.
+            p.subscribeParagraph You are subscribed to #{topics.length}
+                if topics.length == 1
+                    = ' email.'
+                else
+                    = ' emails.'
             if topics.length
                 a.btn--primary(href='/unsubscribe') Unsubscribe from all
             else

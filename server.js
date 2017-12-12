@@ -7,6 +7,13 @@ const
 	bodyParser = require('body-parser');
 	jsonFile= require(__dirname + '/src/json/topics.json');
 
+function sortByKey(array, key) {
+    return array.sort(function(a, b) {
+        var x = a[key]; var y = b[key];
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
+}
+
 function getTopicsSubbedTo(subbedTo) {
 	if(typeof subbedTo == 'undefined') {
 		subbedTo = 'UKParliament_Bill_2056';
@@ -241,6 +248,7 @@ function properJson(subbedTo) {
 			newJson.ee.push(jsonFile[i]);
 		}
 	}
+
 	return newJson;
 }
 
