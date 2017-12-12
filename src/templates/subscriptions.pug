@@ -6,7 +6,7 @@ block content
             .container
                 .status--highlight.theme--success You’ve successfully signed up to
                     = ' '
-                    strong Carbon Emission Reductions Bill [HL] 2016-17
+                    strong Carbon Emission Reductions Bill [HL] 2017-19
                     = ' updates.'
     .container.block.theme--transparent
             p(style='margin-bottom:0') Email preferences
@@ -21,18 +21,23 @@ block content
     .container(style='display:flex;justify-content:space-between;')
         .left(style='flex: 0 0 20%')
             p.subscribeParagraph You are subscribed to #{topics.length} emails.
-            a.btn--primary(href='/unsubscribe') Unsubscribe from all
+            if topics.length
+                a.btn--primary(href='/unsubscribe') Unsubscribe from all
+            else
+                a.btn--disabled(href='#') Unsubscribe from all
         .right(style='flex: 0 0 75%')
             h2.lead(style='margin-top:0;margin-bottom:18px;') Your subscriptions
-            +form(id='subscriptions' action='#')
-                +fieldset
-                ul.list--block
-                    each topic in topics
-                        li
-                            .list--details
-                                strong
-                                    +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
-                                p.input--description Alerts on any updates to this bill.
-                                //- .inline-alert.success You are now subscribed
-                                //- .inline-alert.removal You are now unsubscribed
-
+            if topics.length
+                +form(id='subscriptions' action='#')
+                    +fieldset
+                    ul.list--block
+                        each topic in topics
+                            li
+                                .list--details
+                                    strong
+                                        +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
+                                    p.input--description Alerts on any updates to this bill.
+                                    //- .inline-alert.success You are now subscribed
+                                    //- .inline-alert.removal You are now unsubscribed
+            else
+                p You aren’t currently subscribed to any emails.

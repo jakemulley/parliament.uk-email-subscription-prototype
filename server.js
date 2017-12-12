@@ -257,7 +257,6 @@ app.get('/', function(req, res) {
 
 app.get('/confirmation', function(req, res) {
 	res.cookie('email', req.query.email);
-	res.cookie('sub_count', '1');
 	res.render('confirmation', { cookies: { email: req.query.email } });
 });
 
@@ -269,6 +268,10 @@ app.get('/subscriptions', function(req, res) {
 	var subbedTo = req.cookies.subbed_topics;
 	if(typeof subbedTo == 'undefined') {
 		res.cookie('subbed_topics', 'UKParliament_Bill_2056');
+	}
+	if(req.query.resub) {
+		res.cookie('subbed_topics', req.query.resub);
+		res.redirect('/subscriptions');
 	}
 	res.cookie('seen_confirmation', true);
 	res.render('subscriptions', { cookies: req.cookies, topics: getTopicsSubbedTo(subbedTo) } );
@@ -283,7 +286,10 @@ app.get('/all-subscriptions', function(req, res) {
 });
 
 app.get('/unsubscribe', function(req, res) {
-	res.render('unsubscribe');
+	var currentSubs = req.cookies.subbed_topics;
+	console.log(currentSubs);
+	res.cookie('subbed_topics', '');
+	res.render('unsubscribe', { resub: currentSubs });
 });
 
 app.get('/delete', function(req, res) {
@@ -291,12 +297,20 @@ app.get('/delete', function(req, res) {
 });
 
 app.get('/delete-success', function(req, res) {
+	res.clearCookie('email');
+	res.clearCookie('email_frequency');
+	res.clearCookie('saved_details');
+	res.clearCookie('seen_confirmation');
+	res.clearCookie('subbed_topics');
+	// res.clearCookie('email');
 	res.render('delete-success');
 });
 
 app.get('/edit-details', function(req, res) {
 	req.cookies.saved_details = 'false';
 	res.cookie('saved_details', false);
+	res.cookie('email_frequency', 'immediate');
+	req.cookies.email_frequency = 'immediate';
 	res.render('edit-details', { cookies: req.cookies } );
 });
 

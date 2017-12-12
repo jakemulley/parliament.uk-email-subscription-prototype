@@ -10,14 +10,12 @@ block content
             p(style='margin-bottom:0') Email preferences
             h1 Manage your settings and personal details
             p(style='margin-top:36px') Update your personal information and the frequency of our emails
-            a(href='/subscriptions') Manage your subscriptions from UK Parliament
+            a(href='/subscriptions') Manage your subscriptions from UK Parliament #{cookies.email_frequency}
     .container(style='max-width:960px')
         .block--border__bottom
             h2 Change how often you receive our emails
             +form(action='/edit-details', method='post')
                 +fieldset
-                    unless cookies.email_frequency
-                        +input('radio', 'I want to receive immediate updates', 'time', 'time[immediate]')(checked, value='immediate')
                     if cookies.email_frequency == 'immediate'
                         +input('radio', 'I want to receive immediate updates', 'time', 'time[immediate]')(checked, value='immediate')
                     else
