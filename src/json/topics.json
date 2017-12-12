@@ -5023,6 +5023,7 @@
   },
   {
     "Name": "Parliament Week Updates",
+    "Description": "",
     "Code": "UKPARLIAMENT_203",
     "Subscriptions": "14,260",
     "Visibility": "Listed",
@@ -7292,6 +7293,7 @@
   {
     "Name": "House of Lords newsletter",
     "Code": "UKPARLIAMENT_TEST",
+    "Description": "A newsletter with the latest updates, debates and business from the House of Lords.",
     "Subscriptions": "30,724",
     "Visibility": "Listed",
     "Page Watch Enabled": "No",

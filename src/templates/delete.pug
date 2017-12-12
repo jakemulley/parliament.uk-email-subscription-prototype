@@ -1,9 +1,15 @@
 extends ../layouts/layout.pug
 
 block content
-    section#content.section--primary
+    section#content
+        .section--primary
+            .container
+                .block--border__bottom
+                    h1 Remove your details
+                    p Would you like to remove your details from our system? If so, you will have to sign up again to get our email updates.
+                    a.btn--delete(href='/delete-success') Yes, delete me
         .container
-            h1 Remove your details
-            p Would you like to remove your details from our system? If so, you will have to sign up again to get our email updates.
-            a.btn--delete(href='/delete-success') Yes, delete me
-            .btn--primary--inverse No, keep my details
+            p If you’ve changed your mind or clicked this by mistake, go back and
+                = ' '
+                a(href='/subscriptions') manage your subscriptions
+                = '.'

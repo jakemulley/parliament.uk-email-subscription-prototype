@@ -8,7 +8,14 @@ block content
                     = ' '
                     strong Carbon Emission Reductions Bill [HL] 2017-19
                     = ' updates.'
-    .container.block.theme--transparent
+    unless cookies.seen_confirmation
+        .container.block.theme--transparent
+            p(style='margin-bottom:0') Email preferences
+            h1 Manage your subscriptions
+            p(style='margin-top:36px') Edit the email updates you get from us
+            a(href='/edit-details') Manage your settings and personal details
+    else
+        .container(style='margin-top:36px;').block.theme--transparent
             p(style='margin-bottom:0') Email preferences
             h1 Manage your subscriptions
             p(style='margin-top:36px') Edit the email updates you get from us
@@ -19,7 +26,7 @@ block content
             li
                 a(href='/all-subscriptions') All available subscriptions
     .container(style='display:flex;justify-content:space-between;')
-        .left(style='flex: 0 0 20%')
+        .left(style='flex: 0 0 20%;font-size: 16px;')
             p.subscribeParagraph You are subscribed to #{topics.length}
                 if topics.length == 1
                     = ' email.'
