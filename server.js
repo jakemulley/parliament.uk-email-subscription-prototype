@@ -302,7 +302,6 @@ app.get('/delete-success', function(req, res) {
 	res.clearCookie('saved_details');
 	res.clearCookie('seen_confirmation');
 	res.clearCookie('subbed_topics');
-	// res.clearCookie('email');
 	res.render('delete-success');
 });
 

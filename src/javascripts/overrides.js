@@ -70,8 +70,8 @@
     }
   }
 
-  // Toggle alerts etc
-  var topicList = document.querySelectorAll('.right ul li label');
+  // Toggle alerts etc on all subs
+  var topicList = document.querySelectorAll('#allsubs.right ul li label');
   function toggleAlert(e) {
     var parentParentClassList = e.target.parentElement.parentElement.parentElement.classList;
     if(parentParentClassList.contains('showSuccessAlert')) {
@@ -90,6 +90,27 @@
       topicList[k].onclick = toggleAlert;
     }
   }
+  // End toggle alerts on all subs
+
+  // Toggle alerts on your subs
+  var yourTopicList = document.querySelectorAll('#yoursubs.right ul li label');
+  function yourToggleAlert(e) {
+    var parentParentClassList = e.target.parentElement.parentElement.parentElement.classList;
+    if(parentParentClassList.contains('showRemovalAlert')) {
+      parentParentClassList.remove('showRemovalAlert');
+      updateSubbed(e, 'remove');
+    } else {
+      parentParentClassList.add('showRemovalAlert');
+      updateSubbed(e, 'remove');
+    }
+  }
+
+  if(yourTopicList.length) {
+    for (var o = yourTopicList.length - 1; o >= 0; o--) {
+      yourTopicList[o].onclick = yourToggleAlert;
+    }
+  }
+  // End toggle alerts on your subs
 
   function readCookie(name) {
     var nameEQ = name + '=';
@@ -130,4 +151,18 @@
 
     document.cookie = 'subbed_topics=' + newSubs + ';path=/';
   }
+
+  // Add nav classes
+  // window.onscroll = function changeNav(){
+  //     var navBar = document.getElementById('navBar'),
+  //           secondSection = document.getElementById('secondSection'),
+  //           secondSectionTop = aboutSection.getBoundingClientRect().top,
+  //           navBarHeight = navBar.getBoundingClientRect().height;
+
+  //     if(secondSectionTop <= navBarHeight) {
+  //           navBar.className = ('basic-classname');
+  //     } else if(aboutSectionTop >= navBarHeight) {
+  //          navBar.className =  ('basic-classname added-classname');
+  //     }
+  // }
 })();

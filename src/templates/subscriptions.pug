@@ -25,7 +25,7 @@ block content
                 a.btn--primary(href='/unsubscribe') Unsubscribe from all
             else
                 a.btn--disabled(href='#') Unsubscribe from all
-        .right(style='flex: 0 0 75%')
+        #yoursubs.right(style='flex: 0 0 75%')
             h2.lead(style='margin-top:0;margin-bottom:18px;') Your subscriptions
             if topics.length
                 +form(id='subscriptions' action='#')
@@ -37,7 +37,6 @@ block content
                                     strong
                                         +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
                                     p.input--description Alerts on any updates to this bill.
-                                    //- .inline-alert.success You are now subscribed
-                                    //- .inline-alert.removal You are now unsubscribed
+                                    .inline-alert.removal You are now unsubscribed
             else
                 p You aren’t currently subscribed to any emails.
