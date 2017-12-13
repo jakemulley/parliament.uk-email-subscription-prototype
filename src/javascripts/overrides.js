@@ -140,16 +140,29 @@
   }
 
   // Add nav classes
-  // window.onscroll = function changeNav(){
-  //     var navBar = document.getElementById('navBar'),
-  //           secondSection = document.getElementById('secondSection'),
-  //           secondSectionTop = aboutSection.getBoundingClientRect().top,
-  //           navBarHeight = navBar.getBoundingClientRect().height;
+  window.addEventListener('scroll', updateNav);
+  var headings = document.querySelectorAll('.right h2');
 
-  //     if(secondSectionTop <= navBarHeight) {
-  //           navBar.className = ('basic-classname');
-  //     } else if(aboutSectionTop >= navBarHeight) {
-  //          navBar.className =  ('basic-classname added-classname');
-  //     }
-  // }
+  function updateNav() {
+    var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    var currentActive;
+    for (var a = 0; a < headings.length; a++) {
+      var topOfHeading = headings[a].getBoundingClientRect().top;
+      if(scrollTop >= topOfHeading && topOfHeading <= 0) {
+        currentActive = headings[a].id;
+      }
+    }
+    if(typeof currentActive === 'undefined') {
+      currentActive = 'newsletters';
+    }
+    var sideBar = document.querySelectorAll('.category-list li');
+    for (var k = 0; k < sideBar.length; k++) {
+      sideBar[k].classList.remove('active');
+    }
+    var sideActive = document.querySelectorAll('a[href="#' + currentActive + '"]');
+    for (var i = 0; i < sideActive.length; i++) {
+      sideActive[i].parentNode.classList.add('active');
+    }
+  }
+
 })();
