@@ -52,6 +52,9 @@ function properJson(subbedTo) {
 		if(jsonFile[i].Visibility == 'Unlisted' || jsonFile[i].Visibility == 'Restricted') {
 			done = true;
 		}
+		if(jsonFile[i].Name.includes('Supply and Appropriation')) {
+			done = true;
+		}
 		if(jsonFile[i].Name.includes('Committee news') && done == false) {
 			newJson.news.push(jsonFile[i]);
 			done = true;
@@ -172,7 +175,7 @@ function properJson(subbedTo) {
 			newJson.committees.push(jsonFile[i]);
 			done = true;
 		}
-		if(jsonFile[i].Name.includes('Read yesterday’s House of Lords debates')) {
+		if(jsonFile[i].Name.includes('Read yesterday\'s House of Lords debates')) {
 			newJson.debates.push(jsonFile[i]);
 			done = true;
 		}
@@ -184,7 +187,7 @@ function properJson(subbedTo) {
 			newJson.bills.push(jsonFile[i]);
 			done = true;
 		}
-		if(jsonFile[i].Name.includes('Parliament’s YouTube channel')) {
+		if(jsonFile[i].Name.includes('Parliament\'s YouTube channel')) {
 			newJson.news.push(jsonFile[i]);
 			done = true;
 		}
@@ -327,10 +330,8 @@ app.post('/edit-details', function(req, res) {
 	res.render('edit-details', { cookies: req.cookies } );
 });
 
-app.get('/reset', function(req, res) {
-	res.clearCookie('email');
-	res.clearCookie('subbed_topics');
-    res.send('Cookie deleted');
+app.get('/email-confirmation', function(req, res) {
+	res.render('email-confirmation');
 });
 
 app.listen(port, function() {

@@ -1,6 +1,7 @@
 [
   {
     "Name": "Abortion (Disability Equality) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1790",
     "Subscriptions": "3,072",
     "Visibility": "Unlisted",
@@ -10,6 +11,7 @@
   },
   {
     "Name": "Abortion (Disability Equality) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2043",
     "Subscriptions": "1,182",
     "Visibility": "Listed",
@@ -19,6 +21,7 @@
   },
   {
     "Name": "Abortion (Foetus Protection) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2028",
     "Subscriptions": "1,219",
     "Visibility": "Listed",
@@ -28,6 +31,7 @@
   },
   {
     "Name": "Access to Medical Treatments (Innovation) Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1632",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -37,6 +41,7 @@
   },
   {
     "Name": "Access to Palliative Care Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1589",
     "Subscriptions": "4,370",
     "Visibility": "Listed",
@@ -46,6 +51,7 @@
   },
   {
     "Name": "Access to Palliative Care Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1819",
     "Subscriptions": "2,961",
     "Visibility": "Listed",
@@ -55,6 +61,7 @@
   },
   {
     "Name": "Access to Palliative Care Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2025",
     "Subscriptions": "1,223",
     "Visibility": "Listed",
@@ -64,6 +71,7 @@
   },
   {
     "Name": "Access to Radiotherapy Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1931",
     "Subscriptions": "2,191",
     "Visibility": "Listed",
@@ -73,6 +81,7 @@
   },
   {
     "Name": "Accessible Sports Grounds Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1583",
     "Subscriptions": "4,046",
     "Visibility": "Listed",
@@ -82,6 +91,7 @@
   },
   {
     "Name": "Administration and Works Committee (Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_129",
     "Subscriptions": "2,463",
     "Visibility": "Unlisted",
@@ -91,6 +101,7 @@
   },
   {
     "Name": "Administration Committee (Commons)",
+    "Description": "",
     "Code": "UKPARLIAMENT_149",
     "Subscriptions": "4,496",
     "Visibility": "Listed",
@@ -100,6 +111,7 @@
   },
   {
     "Name": "Advertising of Prostitution (Prohibition) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1595",
     "Subscriptions": "4,095",
     "Visibility": "Listed",
@@ -109,6 +121,7 @@
   },
   {
     "Name": "Affordable Childcare Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1308",
     "Subscriptions": "3,959",
     "Visibility": "Unlisted",
@@ -118,6 +131,7 @@
   },
   {
     "Name": "Affordable Home Ownership Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2168",
     "Subscriptions": 392,
     "Visibility": "Listed",
@@ -127,6 +141,7 @@
   },
   {
     "Name": "Age of Criminal Responsibility Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1597",
     "Subscriptions": "4,492",
     "Visibility": "Listed",
@@ -136,6 +151,7 @@
   },
   {
     "Name": "Age of Criminal Responsibility Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1820",
     "Subscriptions": "3,000",
     "Visibility": "Listed",
@@ -145,6 +161,7 @@
   },
   {
     "Name": "Age of Criminal Responsibility Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1992",
     "Subscriptions": "1,365",
     "Visibility": "Listed",
@@ -154,6 +171,7 @@
   },
   {
     "Name": "Air Quality (Diesel Emissions in Urban Centres) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1747",
     "Subscriptions": "3,274",
     "Visibility": "Listed",
@@ -163,6 +181,7 @@
   },
   {
     "Name": "Air Quality (Diesel Emissions in Urban Centres) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1902",
     "Subscriptions": "2,586",
     "Visibility": "Listed",
@@ -172,6 +191,7 @@
   },
   {
     "Name": "Air Travel Organisers' Licensing Act 2017 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1988",
     "Subscriptions": "1,133",
     "Visibility": "Unlisted",
@@ -181,6 +201,7 @@
   },
   {
     "Name": "Airports Act 1986 (Amendment) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1575",
     "Subscriptions": "4,116",
     "Visibility": "Listed",
@@ -190,6 +211,7 @@
   },
   {
     "Name": "Allowances and expenses claims",
+    "Description": "Information on the claims by members for travel costs and attendance.",
     "Code": "UKPARLIAMENT_125",
     "Subscriptions": "3,941",
     "Visibility": "Listed",
@@ -199,6 +221,7 @@
   },
   {
     "Name": "Analytics",
+    "Description": "",
     "Code": "UKPARLIAMENT_1425",
     "Subscriptions": 0,
     "Visibility": "Restricted",
@@ -208,6 +231,7 @@
   },
   {
     "Name": "Animal Cruelty (Sentencing) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1876",
     "Subscriptions": "2,875",
     "Visibility": "Listed",
@@ -217,6 +241,7 @@
   },
   {
     "Name": "Animal Fighting (Sentencing) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1863",
     "Subscriptions": "2,775",
     "Visibility": "Listed",
@@ -226,6 +251,7 @@
   },
   {
     "Name": "Anonymity (Arrested Persons) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2022",
     "Subscriptions": "1,211",
     "Visibility": "Listed",
@@ -235,6 +261,7 @@
   },
   {
     "Name": "Arbitration and Mediation Services (Equality) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1588",
     "Subscriptions": "4,207",
     "Visibility": "Listed",
@@ -244,6 +271,7 @@
   },
   {
     "Name": "Arbitration and Mediation Services (Equality) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1793",
     "Subscriptions": "2,971",
     "Visibility": "Listed",
@@ -253,6 +281,7 @@
   },
   {
     "Name": "Arctic Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1297",
     "Subscriptions": "3,932",
     "Visibility": "Unlisted",
@@ -262,6 +291,7 @@
   },
   {
     "Name": "Armed Forces (Flexible Working) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2002",
     "Subscriptions": "1,228",
     "Visibility": "Listed",
@@ -271,6 +301,7 @@
   },
   {
     "Name": "Armed Forces (Statute of Limitations) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2171",
     "Subscriptions": 339,
     "Visibility": "Listed",
@@ -280,6 +311,7 @@
   },
   {
     "Name": "Armed Forces (Volunteer Reserve) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2117",
     "Subscriptions": 687,
     "Visibility": "Listed",
@@ -289,6 +321,7 @@
   },
   {
     "Name": "Armed Forces Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1694",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -298,6 +331,7 @@
   },
   {
     "Name": "Armed Forces Bill Committee 2015",
+    "Description": "",
     "Code": "UKPARLIAMENT_1380",
     "Subscriptions": "4,054",
     "Visibility": "Listed",
@@ -307,6 +341,7 @@
   },
   {
     "Name": "Armed Forces Covenant (Implementation) (United Kingdom) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1727",
     "Subscriptions": "3,421",
     "Visibility": "Listed",
@@ -316,6 +351,7 @@
   },
   {
     "Name": "Armed Forces Deployment (Royal Prerogative) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1615",
     "Subscriptions": "4,038",
     "Visibility": "Listed",
@@ -325,6 +361,7 @@
   },
   {
     "Name": "Armed Forces Deployment (Royal Prerogative) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1783",
     "Subscriptions": "2,941",
     "Visibility": "Listed",
@@ -334,6 +371,7 @@
   },
   {
     "Name": "Arms Export Controls (Countries of Concern) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1897",
     "Subscriptions": "2,491",
     "Visibility": "Listed",
@@ -343,6 +381,7 @@
   },
   {
     "Name": "Artificial Intelligence Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1457",
     "Subscriptions": "3,854",
     "Visibility": "Listed",
@@ -352,6 +391,7 @@
   },
   {
     "Name": "Assaults on Emergency Workers (Offences) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2058",
     "Subscriptions": "1,180",
     "Visibility": "Listed",
@@ -361,6 +401,7 @@
   },
   {
     "Name": "Assessment of Government Policies (Impact on Families) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1650",
     "Subscriptions": "4,178",
     "Visibility": "Listed",
@@ -370,6 +411,7 @@
   },
   {
     "Name": "Asset Freezing (Compensation) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1778",
     "Subscriptions": "2,955",
     "Visibility": "Listed",
@@ -379,6 +421,7 @@
   },
   {
     "Name": "Asset Freezing (Compensation) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1995",
     "Subscriptions": "1,235",
     "Visibility": "Listed",
@@ -388,6 +431,7 @@
   },
   {
     "Name": "Assets of Community Value Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1847",
     "Subscriptions": "2,826",
     "Visibility": "Listed",
@@ -397,6 +441,7 @@
   },
   {
     "Name": "Assisted Dying (No. 2) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1631",
     "Subscriptions": "4,523",
     "Visibility": "Listed",
@@ -406,6 +451,7 @@
   },
   {
     "Name": "Assisted Dying Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1605",
     "Subscriptions": "4,592",
     "Visibility": "Listed",
@@ -415,6 +461,7 @@
   },
   {
     "Name": "Assisted Dying Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1818",
     "Subscriptions": "3,113",
     "Visibility": "Listed",
@@ -424,6 +471,7 @@
   },
   {
     "Name": "Asylum (Unaccompanied Children Displaced by Conflict) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1726",
     "Subscriptions": "3,599",
     "Visibility": "Listed",
@@ -433,6 +481,7 @@
   },
   {
     "Name": "Audit Committee (House of Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_1405",
     "Subscriptions": "2,235",
     "Visibility": "Listed",
@@ -442,6 +491,7 @@
   },
   {
     "Name": "Automated and Electric Vehicles Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2163",
     "Subscriptions": 539,
     "Visibility": "Listed",
@@ -451,6 +501,7 @@
   },
   {
     "Name": "Automatic Electoral Registration (No. 2) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1741",
     "Subscriptions": "3,232",
     "Visibility": "Listed",
@@ -460,6 +511,7 @@
   },
   {
     "Name": "Automatic Electoral Registration (No. 2) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2179",
     "Subscriptions": 223,
     "Visibility": "Listed",
@@ -469,6 +521,7 @@
   },
   {
     "Name": "Automatic Electoral Registration (School Students) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1817",
     "Subscriptions": "2,842",
     "Visibility": "Listed",
@@ -478,6 +531,7 @@
   },
   {
     "Name": "Automatic Electoral Registration Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1616",
     "Subscriptions": "4,115",
     "Visibility": "Listed",
@@ -487,6 +541,7 @@
   },
   {
     "Name": "Automatic Electoral Registration Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2057",
     "Subscriptions": "1,137",
     "Visibility": "Listed",
@@ -496,6 +551,7 @@
   },
   {
     "Name": "Automatic Travel Compensation Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2182",
     "Subscriptions": 172,
     "Visibility": "Listed",
@@ -505,6 +561,7 @@
   },
   {
     "Name": "Awards for Valour (Protection) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1842",
     "Subscriptions": "2,755",
     "Visibility": "Listed",
@@ -514,6 +571,7 @@
   },
   {
     "Name": "Awards for Valour (Protection) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2050",
     "Subscriptions": "1,122",
     "Visibility": "Listed",
@@ -523,6 +581,7 @@
   },
   {
     "Name": "Backbench Business Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_151",
     "Subscriptions": "4,747",
     "Visibility": "Listed",
@@ -532,6 +591,7 @@
   },
   {
     "Name": "Bank of England and Financial Services Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1703",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -541,6 +601,7 @@
   },
   {
     "Name": "Basement Excavation (Restriction of Permitted Development) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1698",
     "Subscriptions": "3,720",
     "Visibility": "Listed",
@@ -550,6 +611,7 @@
   },
   {
     "Name": "Bat Habitats Regulation (No. 2) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2100",
     "Subscriptions": 690,
     "Visibility": "Listed",
@@ -559,6 +621,7 @@
   },
   {
     "Name": "Bat Habitats Regulation (No.2) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1664",
     "Subscriptions": "4,025",
     "Visibility": "Listed",
@@ -568,6 +631,7 @@
   },
   {
     "Name": "Bat Habitats Regulation Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1625",
     "Subscriptions": "4,094",
     "Visibility": "Listed",
@@ -577,6 +641,7 @@
   },
   {
     "Name": "Bat Habitats Regulation Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1807",
     "Subscriptions": "2,911",
     "Visibility": "Listed",
@@ -586,6 +651,7 @@
   },
   {
     "Name": "Bat Habitats Regulation Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2016",
     "Subscriptions": "1,220",
     "Visibility": "Listed",
@@ -595,6 +661,7 @@
   },
   {
     "Name": "BBC (Independence) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2023",
     "Subscriptions": "1,219",
     "Visibility": "Listed",
@@ -604,6 +671,7 @@
   },
   {
     "Name": "BBC Licence Fee (Civil Penalty) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2085",
     "Subscriptions": 691,
     "Visibility": "Listed",
@@ -613,6 +681,7 @@
   },
   {
     "Name": "BBC Licence Fee Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2048",
     "Subscriptions": "1,177",
     "Visibility": "Listed",
@@ -622,6 +691,7 @@
   },
   {
     "Name": "BBC Privatisation Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1657",
     "Subscriptions": "4,344",
     "Visibility": "Listed",
@@ -631,6 +701,7 @@
   },
   {
     "Name": "BBC Royal Charter Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1810",
     "Subscriptions": "2,927",
     "Visibility": "Listed",
@@ -640,6 +711,7 @@
   },
   {
     "Name": "Benefit Claimants Sanctions (Required Assessment) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1843",
     "Subscriptions": "2,943",
     "Visibility": "Listed",
@@ -649,6 +721,7 @@
   },
   {
     "Name": "Benefit Entitlement (Restriction) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1668",
     "Subscriptions": "4,489",
     "Visibility": "Listed",
@@ -658,6 +731,7 @@
   },
   {
     "Name": "Benefit Sanctions Regime (Entitlement to Automatic Hardship Payments) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1708",
     "Subscriptions": "3,835",
     "Visibility": "Listed",
@@ -667,6 +741,7 @@
   },
   {
     "Name": "Benefits and Public Services (Restriction) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2104",
     "Subscriptions": 712,
     "Visibility": "Listed",
@@ -676,6 +751,7 @@
   },
   {
     "Name": "Betting Licences (Category B2 Gaming Machines) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1825",
     "Subscriptions": "2,817",
     "Visibility": "Listed",
@@ -685,6 +761,7 @@
   },
   {
     "Name": "Blood Donor (Equality) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1742",
     "Subscriptions": "3,242",
     "Visibility": "Listed",
@@ -694,6 +771,7 @@
   },
   {
     "Name": "Border Control Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2093",
     "Subscriptions": 710,
     "Visibility": "Listed",
@@ -703,6 +781,7 @@
   },
   {
     "Name": "Bread and Flour Regulations (Folic Acid) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1662",
     "Subscriptions": "3,936",
     "Visibility": "Listed",
@@ -712,6 +791,7 @@
   },
   {
     "Name": "Bread and Flour Regulations (Folic Acid) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1782",
     "Subscriptions": "2,908",
     "Visibility": "Listed",
@@ -721,6 +801,7 @@
   },
   {
     "Name": "Briefing Papers - Europe",
+    "Description": "The latest briefing papers about Europe.",
     "Code": "UKPARLIAMENT_1443",
     "Subscriptions": "6,187",
     "Visibility": "Listed",
@@ -730,6 +811,7 @@
   },
   {
     "Name": "British Broadcasting Corporation (Oversight) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2131",
     "Subscriptions": 684,
     "Visibility": "Listed",
@@ -739,6 +821,7 @@
   },
   {
     "Name": "British Victims of Terrorism (Asset-Freezing and Compensation) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1920",
     "Subscriptions": "2,327",
     "Visibility": "Listed",
@@ -748,6 +831,7 @@
   },
   {
     "Name": "Broadcasting (Radio Multiplex Services)  Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1861",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -757,6 +841,7 @@
   },
   {
     "Name": "Budget Responsibility and National Audit (Fiscal Mandate) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1788",
     "Subscriptions": "2,946",
     "Visibility": "Listed",
@@ -766,6 +851,7 @@
   },
   {
     "Name": "Built Environment Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1363",
     "Subscriptions": "3,886",
     "Visibility": "Unlisted",
@@ -775,6 +861,7 @@
   },
   {
     "Name": "Burial Rights Reform Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1948",
     "Subscriptions": "2,038",
     "Visibility": "Listed",
@@ -784,6 +871,7 @@
   },
   {
     "Name": "Bus Services Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1775",
     "Subscriptions": "3,008",
     "Visibility": "Unlisted",
@@ -793,6 +881,7 @@
   },
   {
     "Name": "Business of the House Bulletin",
+    "Description": "",
     "Code": "UKPARLIAMENT_1423",
     "Subscriptions": 1,
     "Visibility": "Restricted",
@@ -802,6 +891,7 @@
   },
   {
     "Name": "Business of the House Commission Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2157",
     "Subscriptions": 616,
     "Visibility": "Listed",
@@ -811,6 +901,7 @@
   },
   {
     "Name": "Business, Energy and Industrial Strategy Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_152",
     "Subscriptions": "8,884",
     "Visibility": "Listed",
@@ -820,6 +911,7 @@
   },
   {
     "Name": "Cannabis (Legalisation and Regulation) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1761",
     "Subscriptions": "3,820",
     "Visibility": "Listed",
@@ -829,6 +921,7 @@
   },
   {
     "Name": "CAPS News",
+    "Description": "",
     "Code": "UKPARLIAMENT_1381",
     "Subscriptions": 1,
     "Visibility": "Restricted",
@@ -838,6 +931,7 @@
   },
   {
     "Name": "Carbon Emission Reductions Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1832",
     "Subscriptions": "2,943",
     "Visibility": "Listed",
@@ -847,6 +941,7 @@
   },
   {
     "Name": "Carbon Emission Reductions Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2056",
     "Subscriptions": "1,161",
     "Visibility": "Listed",
@@ -856,6 +951,7 @@
   },
   {
     "Name": "Carbon Monoxide (Detection and Safety) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2159",
     "Subscriptions": 607,
     "Visibility": "Listed",
@@ -865,6 +961,7 @@
   },
   {
     "Name": "Carbon Monoxide Poisoning (Safety Abroad) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1871",
     "Subscriptions": "2,737",
     "Visibility": "Listed",
@@ -874,6 +971,7 @@
   },
   {
     "Name": "Card Sort - 17th October 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1495",
     "Subscriptions": 108,
     "Visibility": "Restricted",
@@ -883,6 +981,7 @@
   },
   {
     "Name": "Card Sort - 19th October 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1496",
     "Subscriptions": 290,
     "Visibility": "Restricted",
@@ -892,6 +991,7 @@
   },
   {
     "Name": "Careers Guidance (Access to Schools) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1965",
     "Subscriptions": "1,799",
     "Visibility": "Listed",
@@ -901,6 +1001,7 @@
   },
   {
     "Name": "Carers (Leave Entitlement) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1623",
     "Subscriptions": "4,394",
     "Visibility": "Listed",
@@ -910,6 +1011,7 @@
   },
   {
     "Name": "Carers (Leave Entitlement) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1821",
     "Subscriptions": "2,973",
     "Visibility": "Listed",
@@ -919,6 +1021,7 @@
   },
   {
     "Name": "Catering",
+    "Description": "",
     "Code": "UKPARLIAMENT_1435",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -928,6 +1031,7 @@
   },
   {
     "Name": "Catering Services Newsletter",
+    "Description": "",
     "Code": "UKPARLIAMENT_1454",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -937,6 +1041,7 @@
   },
   {
     "Name": "CCT Announcements",
+    "Description": "",
     "Code": "UKPARLIAMENT_1448",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -946,6 +1051,7 @@
   },
   {
     "Name": "Central Support Services",
+    "Description": "",
     "Code": "UKPARLIAMENT_1421",
     "Subscriptions": 1,
     "Visibility": "Restricted",
@@ -955,6 +1061,7 @@
   },
   {
     "Name": "Certificate of Loss Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2034",
     "Subscriptions": "1,154",
     "Visibility": "Listed",
@@ -964,6 +1071,7 @@
   },
   {
     "Name": "Chancel Repairs Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1601",
     "Subscriptions": "4,014",
     "Visibility": "Listed",
@@ -973,6 +1081,7 @@
   },
   {
     "Name": "Changes in Membership - Deaths",
+    "Description": "",
     "Code": "UKPARLIAMENT_56",
     "Subscriptions": "3,312",
     "Visibility": "Unlisted",
@@ -982,6 +1091,7 @@
   },
   {
     "Name": "Changes in Membership - New Peers",
+    "Description": "",
     "Code": "UKPARLIAMENT_55",
     "Subscriptions": "3,495",
     "Visibility": "Unlisted",
@@ -991,6 +1101,7 @@
   },
   {
     "Name": "Changes in Membership - Statistics  (Analysis of Composition)",
+    "Description": "",
     "Code": "UKPARLIAMENT_54",
     "Subscriptions": "3,174",
     "Visibility": "Unlisted",
@@ -1000,6 +1111,7 @@
   },
   {
     "Name": "Channel 4 (Relocation) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2165",
     "Subscriptions": 408,
     "Visibility": "Listed",
@@ -1009,6 +1121,7 @@
   },
   {
     "Name": "Charities (Protection and Social Investment) Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1574",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -1018,6 +1131,7 @@
   },
   {
     "Name": "Child Contact Centres (Accreditation)  Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1802",
     "Subscriptions": "2,960",
     "Visibility": "Listed",
@@ -1027,6 +1141,7 @@
   },
   {
     "Name": "Child Maintenance (Assessment of Parents' Income) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2185",
     "Subscriptions": 117,
     "Visibility": "Listed",
@@ -1035,7 +1150,8 @@
     "Autosend": "No"
   },
   {
-    "Name": "Child Maintenance (Assessment of Parents’ Income) Bill 2016-17",
+    "Name": "Child Maintenance (Assessment of Parents' Income) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1981",
     "Subscriptions": "1,524",
     "Visibility": "Listed",
@@ -1045,6 +1161,7 @@
   },
   {
     "Name": "Child Poverty in the UK (Target for Reduction) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1857",
     "Subscriptions": "3,013",
     "Visibility": "Listed",
@@ -1054,6 +1171,7 @@
   },
   {
     "Name": "Child Safety (Cycle Helmets) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2141",
     "Subscriptions": 688,
     "Visibility": "Listed",
@@ -1063,6 +1181,7 @@
   },
   {
     "Name": "Child Victims of Human Trafficking (Central Government Responsibility) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1653",
     "Subscriptions": "4,362",
     "Visibility": "Listed",
@@ -1072,6 +1191,7 @@
   },
   {
     "Name": "Childcare Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1592",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -1081,6 +1201,7 @@
   },
   {
     "Name": "Children Act 1989 (Amendment) (Female Genital Mutilation) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2020",
     "Subscriptions": "1,271",
     "Visibility": "Listed",
@@ -1090,6 +1211,7 @@
   },
   {
     "Name": "Children and Social Work Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1774",
     "Subscriptions": 22,
     "Visibility": "Unlisted",
@@ -1099,6 +1221,7 @@
   },
   {
     "Name": "Children of Armed Services Personnel (Schools Admission) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1937",
     "Subscriptions": "2,163",
     "Visibility": "Listed",
@@ -1108,6 +1231,7 @@
   },
   {
     "Name": "Cities and Local Government Devolution Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1584",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -1117,6 +1241,7 @@
   },
   {
     "Name": "Citizenship and Civic Engagement Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1456",
     "Subscriptions": "3,680",
     "Visibility": "Listed",
@@ -1126,6 +1251,7 @@
   },
   {
     "Name": "City of London Corporation (Open Spaces) Bill 2015-16 to 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1721",
     "Subscriptions": "3,527",
     "Visibility": "Listed",
@@ -1135,6 +1261,7 @@
   },
   {
     "Name": "Civil Enforcement Officers and Traffic Wardens (Integration of Duties and Powers) (England) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1682",
     "Subscriptions": 218,
     "Visibility": "Listed",
@@ -1144,6 +1271,7 @@
   },
   {
     "Name": "Civil Partnership Act 2004 (Amendment) (Mixed Sex Couples) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2053",
     "Subscriptions": "1,176",
     "Visibility": "Listed",
@@ -1153,6 +1281,7 @@
   },
   {
     "Name": "Civil Partnership Act 2004 (Amendment) (Sibling Couples) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2017",
     "Subscriptions": "1,229",
     "Visibility": "Listed",
@@ -1162,6 +1291,7 @@
   },
   {
     "Name": "Civil Partnership Act 2004 (Amendment) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1707",
     "Subscriptions": "3,686",
     "Visibility": "Listed",
@@ -1171,6 +1301,7 @@
   },
   {
     "Name": "Civil Partnership Act 2004 (Amendment) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1887",
     "Subscriptions": "2,763",
     "Visibility": "Listed",
@@ -1180,6 +1311,7 @@
   },
   {
     "Name": "Civil Partnerships, Marriages and Deaths (Registration Etc.) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2063",
     "Subscriptions": "1,158",
     "Visibility": "Listed",
@@ -1189,6 +1321,7 @@
   },
   {
     "Name": "Clean Air Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1924",
     "Subscriptions": "2,377",
     "Visibility": "Listed",
@@ -1198,6 +1331,7 @@
   },
   {
     "Name": "Clean Air Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2183",
     "Subscriptions": 181,
     "Visibility": "Listed",
@@ -1207,6 +1341,7 @@
   },
   {
     "Name": "Clean Neighbourhoods and Environment (Amendment) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1758",
     "Subscriptions": "3,182",
     "Visibility": "Listed",
@@ -1216,6 +1351,7 @@
   },
   {
     "Name": "Coastal Path (Definition) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2121",
     "Subscriptions": 678,
     "Visibility": "Listed",
@@ -1225,6 +1361,7 @@
   },
   {
     "Name": "Cohabitation Rights Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1606",
     "Subscriptions": "4,406",
     "Visibility": "Listed",
@@ -1234,6 +1371,7 @@
   },
   {
     "Name": "Cohabitation Rights Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1824",
     "Subscriptions": "3,033",
     "Visibility": "Listed",
@@ -1243,6 +1381,7 @@
   },
   {
     "Name": "Cohabitation Rights Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2026",
     "Subscriptions": "1,260",
     "Visibility": "Listed",
@@ -1252,6 +1391,7 @@
   },
   {
     "Name": "Committee news",
+    "Description": "News from the committees in Parliament.",
     "Code": "UKPARLIAMENT_1287",
     "Subscriptions": "6,136",
     "Visibility": "Listed",
@@ -1261,6 +1401,7 @@
   },
   {
     "Name": "Committee of Selection (Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_1404",
     "Subscriptions": "2,148",
     "Visibility": "Listed",
@@ -1270,6 +1411,7 @@
   },
   {
     "Name": "Committees on Arms Export Controls",
+    "Description": "",
     "Code": "UKPARLIAMENT_186",
     "Subscriptions": "4,663",
     "Visibility": "Listed",
@@ -1279,6 +1421,7 @@
   },
   {
     "Name": "Commons Library Briefing Papers",
+    "Description": "The latest briefing papers by the Commons Library.",
     "Code": "UKPARLIAMENT_1348",
     "Subscriptions": "13,139",
     "Visibility": "Listed",
@@ -1288,6 +1431,7 @@
   },
   {
     "Name": "Commons Library Debate Packs",
+    "Description": "Updates on debate packs prepared by the Commons Library.",
     "Code": "UKPARLIAMENT_1353",
     "Subscriptions": "7,603",
     "Visibility": "Listed",
@@ -1297,6 +1441,7 @@
   },
   {
     "Name": "Commons Select Committees Calendar",
+    "Description": "Calendar updates from the Commons Select Committees",
     "Code": "UKPARLIAMENT_86",
     "Subscriptions": "24,120",
     "Visibility": "Listed",
@@ -1306,6 +1451,7 @@
   },
   {
     "Name": "Commons Speaker news",
+    "Description": "The latest news from Parliament about The Speaker.",
     "Code": "UKPARLIAMENT_1286",
     "Subscriptions": "2,890",
     "Visibility": "Listed",
@@ -1315,6 +1461,7 @@
   },
   {
     "Name": "Commonwealth Development Corporation Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1922",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -1324,6 +1471,7 @@
   },
   {
     "Name": "Communications Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_102",
     "Subscriptions": "5,436",
     "Visibility": "Listed",
@@ -1333,6 +1481,7 @@
   },
   {
     "Name": "Communities and Local Government Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_153",
     "Subscriptions": "8,208",
     "Visibility": "Listed",
@@ -1342,6 +1491,7 @@
   },
   {
     "Name": "Companies Documentation (Transgender Persons) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1966",
     "Subscriptions": "1,789",
     "Visibility": "Listed",
@@ -1351,6 +1501,7 @@
   },
   {
     "Name": "Compulsory Emergency First Aid Education (State-funded Secondary Schools) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1636",
     "Subscriptions": "4,096",
     "Visibility": "Listed",
@@ -1360,6 +1511,7 @@
   },
   {
     "Name": "Conscientious Objection (Medical Activities)  Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1607",
     "Subscriptions": "4,038",
     "Visibility": "Listed",
@@ -1369,6 +1521,7 @@
   },
   {
     "Name": "Conscientious Objection (Medical Activities) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2003",
     "Subscriptions": "1,223",
     "Visibility": "Listed",
@@ -1378,6 +1531,7 @@
   },
   {
     "Name": "Constitution Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_68",
     "Subscriptions": "6,167",
     "Visibility": "Listed",
@@ -1387,6 +1541,7 @@
   },
   {
     "Name": "Constitutional Convention (No. 2) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1688",
     "Subscriptions": 215,
     "Visibility": "Listed",
@@ -1396,6 +1551,7 @@
   },
   {
     "Name": "Constitutional Convention Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1586",
     "Subscriptions": "4,101",
     "Visibility": "Listed",
@@ -1405,6 +1561,7 @@
   },
   {
     "Name": "Construction Industry (Protection of Cash Retentions) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1987",
     "Subscriptions": "1,436",
     "Visibility": "Listed",
@@ -1414,6 +1571,7 @@
   },
   {
     "Name": "Consumer Protection (Distance Selling Delivery Charges) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1748",
     "Subscriptions": "3,203",
     "Visibility": "Listed",
@@ -1423,6 +1581,7 @@
   },
   {
     "Name": "Consumer Protection (Standards of Fire Resistance of Children's Fancy Dress and Play Costumes Etc) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1724",
     "Subscriptions": "3,424",
     "Visibility": "Listed",
@@ -1432,6 +1591,7 @@
   },
   {
     "Name": "Content team newsletter",
+    "Description": "",
     "Code": "UKPARLIAMENT_1424",
     "Subscriptions": 0,
     "Visibility": "Restricted",
@@ -1441,6 +1601,7 @@
   },
   {
     "Name": "Convicted Prisoners Voting Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1670",
     "Subscriptions": 219,
     "Visibility": "Listed",
@@ -1450,6 +1611,7 @@
   },
   {
     "Name": "Coroners and Justice Act 2009 (Duty to Investigate) (Amendment) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1713",
     "Subscriptions": "3,596",
     "Visibility": "Listed",
@@ -1459,6 +1621,7 @@
   },
   {
     "Name": "Corporate Services-Commons",
+    "Description": "",
     "Code": "UKPARLIAMENT_1412",
     "Subscriptions": 2,
     "Visibility": "Restricted",
@@ -1468,6 +1631,7 @@
   },
   {
     "Name": "Cosmetic Surgery (Standards of Practice) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1911",
     "Subscriptions": "2,339",
     "Visibility": "Listed",
@@ -1477,6 +1641,7 @@
   },
   {
     "Name": "Cosmetic Surgery (Standards) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2049",
     "Subscriptions": "1,124",
     "Visibility": "Listed",
@@ -1486,6 +1651,7 @@
   },
   {
     "Name": "Council Tax Valuation Bands Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1587",
     "Subscriptions": "4,392",
     "Visibility": "Listed",
@@ -1495,6 +1661,7 @@
   },
   {
     "Name": "Counter-Terrorism and Security Act 2015 (Amendment) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1856",
     "Subscriptions": "3,002",
     "Visibility": "Listed",
@@ -1504,6 +1671,7 @@
   },
   {
     "Name": "Creditworthiness Assessment Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2005",
     "Subscriptions": "1,287",
     "Visibility": "Listed",
@@ -1513,6 +1681,7 @@
   },
   {
     "Name": "Crime (Aggravated Murder of and Violence Against Women) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1955",
     "Subscriptions": "2,009",
     "Visibility": "Listed",
@@ -1522,6 +1691,7 @@
   },
   {
     "Name": "Crime (Assaults on Emergency Services Staff) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1957",
     "Subscriptions": "1,920",
     "Visibility": "Listed",
@@ -1531,6 +1701,7 @@
   },
   {
     "Name": "Criminal Cases Review Commission (Information) Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1644",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -1540,6 +1711,7 @@
   },
   {
     "Name": "Criminal Cases Review Commission (Supplementary Powers) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1687",
     "Subscriptions": 219,
     "Visibility": "Listed",
@@ -1549,6 +1721,7 @@
   },
   {
     "Name": "Criminal Driving (Justice for Victims) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1733",
     "Subscriptions": "3,370",
     "Visibility": "Listed",
@@ -1558,6 +1731,7 @@
   },
   {
     "Name": "Criminal Finances Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1908",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -1567,6 +1741,7 @@
   },
   {
     "Name": "Criminal Fraud (Private Prosecutions) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2124",
     "Subscriptions": 700,
     "Visibility": "Listed",
@@ -1576,6 +1751,7 @@
   },
   {
     "Name": "Criminal Offences (Misuse of Digital Technologies and Services) (Consolidation) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1754",
     "Subscriptions": "3,256",
     "Visibility": "Listed",
@@ -1585,6 +1761,7 @@
   },
   {
     "Name": "Criminal Records Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2013",
     "Subscriptions": "1,296",
     "Visibility": "Listed",
@@ -1594,6 +1771,7 @@
   },
   {
     "Name": "Crown Tenancies  Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1647",
     "Subscriptions": "3,998",
     "Visibility": "Listed",
@@ -1603,6 +1781,7 @@
   },
   {
     "Name": "Crown Tenancies Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1865",
     "Subscriptions": "2,764",
     "Visibility": "Listed",
@@ -1612,6 +1791,7 @@
   },
   {
     "Name": "Cultural Property (Armed Conflicts)  Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1776",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -1621,6 +1801,7 @@
   },
   {
     "Name": "CWC - EFRA/EAC/Health/Transport - air quality social media campaign",
+    "Description": "",
     "Code": "UKPARLIAMENT_1498",
     "Subscriptions": "3,964",
     "Visibility": "Restricted",
@@ -1630,6 +1811,7 @@
   },
   {
     "Name": "CWC - Exiting the EU - Armagh",
+    "Description": "",
     "Code": "UKPARLIAMENT_1509",
     "Subscriptions": 72,
     "Visibility": "Restricted",
@@ -1639,6 +1821,7 @@
   },
   {
     "Name": "CWC - House of Lords - Artificial intelligence",
+    "Description": "",
     "Code": "UKPARLIAMENT_1473",
     "Subscriptions": "2,144",
     "Visibility": "Restricted",
@@ -1648,6 +1831,7 @@
   },
   {
     "Name": "CWC - House of Lords - Citizenship - Clacton event",
+    "Description": "",
     "Code": "UKPARLIAMENT_1493",
     "Subscriptions": 335,
     "Visibility": "Restricted",
@@ -1657,6 +1841,7 @@
   },
   {
     "Name": "CWC - House of Lords - Citizenship - online discussion",
+    "Description": "",
     "Code": "UKPARLIAMENT_1481",
     "Subscriptions": "9,057",
     "Visibility": "Restricted",
@@ -1666,6 +1851,7 @@
   },
   {
     "Name": "CWC - House of Lords - Economic affairs - HE funding - event",
+    "Description": "",
     "Code": "UKPARLIAMENT_1490",
     "Subscriptions": 170,
     "Visibility": "Restricted",
@@ -1675,6 +1861,7 @@
   },
   {
     "Name": "CWC - House of Lords - Economic affairs - HE funding - event 2",
+    "Description": "",
     "Code": "UKPARLIAMENT_1492",
     "Subscriptions": 5,
     "Visibility": "Restricted",
@@ -1684,6 +1871,7 @@
   },
   {
     "Name": "CWC - Work & Pensions - universal credit",
+    "Description": "",
     "Code": "UKPARLIAMENT_1487",
     "Subscriptions": "1,512",
     "Visibility": "Restricted",
@@ -1693,6 +1881,7 @@
   },
   {
     "Name": "CWC- Transport Committee- Community transport - Online forum",
+    "Description": "",
     "Code": "UKPARLIAMENT_1499",
     "Subscriptions": "3,328",
     "Visibility": "Restricted",
@@ -1702,6 +1891,7 @@
   },
   {
     "Name": "CWC- Work and Pensions Committee- Universal Credit- Self employment",
+    "Description": "",
     "Code": "UKPARLIAMENT_1523",
     "Subscriptions": "2,795",
     "Visibility": "Restricted",
@@ -1711,6 +1901,7 @@
   },
   {
     "Name": "CWC-Treasury Committee-Student Loans",
+    "Description": "",
     "Code": "UKPARLIAMENT_1522",
     "Subscriptions": 248,
     "Visibility": "Restricted",
@@ -1720,6 +1911,7 @@
   },
   {
     "Name": "CWC_Scottish Affairs_Immigration_and_Scotland_Glasgow",
+    "Description": "",
     "Code": "UKPARLIAMENT_1512",
     "Subscriptions": 119,
     "Visibility": "Restricted",
@@ -1729,6 +1921,7 @@
   },
   {
     "Name": "CWC_Scottish Affairs_My Scottish Affairs_Inverness",
+    "Description": "",
     "Code": "UKPARLIAMENT_1504",
     "Subscriptions": 101,
     "Visibility": "Restricted",
@@ -1738,6 +1931,7 @@
   },
   {
     "Name": "CWC_Scottish Affairs_My Scottish Affairs_Inverness and Selkirk",
+    "Description": "",
     "Code": "UKPARLIAMENT_1501",
     "Subscriptions": 639,
     "Visibility": "Restricted",
@@ -1747,6 +1941,7 @@
   },
   {
     "Name": "CWC_Scottish Affairs_My Scottish Affairs_Selkirk",
+    "Description": "",
     "Code": "UKPARLIAMENT_1503",
     "Subscriptions": 38,
     "Visibility": "Restricted",
@@ -1756,6 +1951,7 @@
   },
   {
     "Name": "Cyber Security",
+    "Description": "",
     "Code": "UKPARLIAMENT_1413",
     "Subscriptions": 1,
     "Visibility": "Restricted",
@@ -1765,6 +1961,7 @@
   },
   {
     "Name": "Data Protection Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2158",
     "Subscriptions": "1,680",
     "Visibility": "Listed",
@@ -1774,6 +1971,7 @@
   },
   {
     "Name": "Deceased members of the House of Lords",
+    "Description": "",
     "Code": "UKPARLIAMENT_1451",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -1783,6 +1981,7 @@
   },
   {
     "Name": "Defence Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_155",
     "Subscriptions": "6,275",
     "Visibility": "Listed",
@@ -1792,6 +1991,7 @@
   },
   {
     "Name": "Defence Expenditure (NATO Target) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1633",
     "Subscriptions": "4,094",
     "Visibility": "Listed",
@@ -1801,6 +2001,7 @@
   },
   {
     "Name": "Defibrillators (Availability) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1923",
     "Subscriptions": "2,350",
     "Visibility": "Listed",
@@ -1810,6 +2011,7 @@
   },
   {
     "Name": "Delegated Powers and Regulatory Reform Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_70",
     "Subscriptions": "5,804",
     "Visibility": "Listed",
@@ -1819,6 +2021,7 @@
   },
   {
     "Name": "Democratic Political Activity (Funding and Expenditure) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1999",
     "Subscriptions": "1,247",
     "Visibility": "Listed",
@@ -1828,6 +2031,7 @@
   },
   {
     "Name": "Department of Energy and Climate Change (Abolition) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1656",
     "Subscriptions": "4,273",
     "Visibility": "Listed",
@@ -1837,6 +2041,7 @@
   },
   {
     "Name": "Deregulation Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2091",
     "Subscriptions": 697,
     "Visibility": "Listed",
@@ -1846,6 +2051,7 @@
   },
   {
     "Name": "Devolution (Bank Holidays) (Wales) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1750",
     "Subscriptions": "3,088",
     "Visibility": "Listed",
@@ -1855,6 +2061,7 @@
   },
   {
     "Name": "Devolution (London) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1690",
     "Subscriptions": 216,
     "Visibility": "Listed",
@@ -1864,6 +2071,7 @@
   },
   {
     "Name": "Diabetes Inpatient Care Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1941",
     "Subscriptions": "2,150",
     "Visibility": "Listed",
@@ -1873,6 +2081,7 @@
   },
   {
     "Name": "Digital debates - loneliness and local communities",
+    "Description": "",
     "Code": "UKPARLIAMENT_1508",
     "Subscriptions": "5,601",
     "Visibility": "Restricted",
@@ -1882,6 +2091,7 @@
   },
   {
     "Name": "Digital debates - parental bereavement leave",
+    "Description": "",
     "Code": "UKPARLIAMENT_1494",
     "Subscriptions": "1,621",
     "Visibility": "Restricted",
@@ -1891,6 +2101,7 @@
   },
   {
     "Name": "Digital Economy  Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1859",
     "Subscriptions": 17,
     "Visibility": "Unlisted",
@@ -1900,6 +2111,7 @@
   },
   {
     "Name": "Digital Economy Act 2017 (Amendment) (Definition of Extreme Pornography) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2036",
     "Subscriptions": "1,206",
     "Visibility": "Listed",
@@ -1909,6 +2121,7 @@
   },
   {
     "Name": "Digital Service Communications",
+    "Description": "",
     "Code": "UKPARLIAMENT_1408",
     "Subscriptions": 2,
     "Visibility": "Restricted",
@@ -1918,6 +2131,7 @@
   },
   {
     "Name": "Digital Skills Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1309",
     "Subscriptions": "4,411",
     "Visibility": "Unlisted",
@@ -1927,6 +2141,7 @@
   },
   {
     "Name": "Digital, Culture, Media and Sport Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_154",
     "Subscriptions": "6,985",
     "Visibility": "Listed",
@@ -1936,6 +2151,7 @@
   },
   {
     "Name": "Diplomatic Service (United Kingdom Wines and Sparkling Wines) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1972",
     "Subscriptions": "1,682",
     "Visibility": "Listed",
@@ -1945,6 +2161,7 @@
   },
   {
     "Name": "Direct Planning (Pilot) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1600",
     "Subscriptions": "4,206",
     "Visibility": "Listed",
@@ -1954,6 +2171,7 @@
   },
   {
     "Name": "Disability Employment (Gap) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1831",
     "Subscriptions": "2,989",
     "Visibility": "Listed",
@@ -1963,6 +2181,7 @@
   },
   {
     "Name": "Disability Equality Training (Taxi and Private Hire Vehicle Drivers) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1851",
     "Subscriptions": "2,846",
     "Visibility": "Listed",
@@ -1972,6 +2191,7 @@
   },
   {
     "Name": "Divorce (Financial Provision)  Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2018",
     "Subscriptions": "1,225",
     "Visibility": "Listed",
@@ -1981,6 +2201,7 @@
   },
   {
     "Name": "Divorce (Financial Provision) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1609",
     "Subscriptions": "4,159",
     "Visibility": "Listed",
@@ -1990,6 +2211,7 @@
   },
   {
     "Name": "Divorce (Financial Provision) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1796",
     "Subscriptions": "3,004",
     "Visibility": "Listed",
@@ -1999,6 +2221,7 @@
   },
   {
     "Name": "Domestic Energy (Value Added Tax) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2122",
     "Subscriptions": 686,
     "Visibility": "Listed",
@@ -2008,6 +2231,7 @@
   },
   {
     "Name": "Double Taxation Treaties (Developing Countries) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1848",
     "Subscriptions": "2,798",
     "Visibility": "Listed",
@@ -2017,6 +2241,7 @@
   },
   {
     "Name": "Driving Instructors (Registration) Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1739",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -2026,6 +2251,7 @@
   },
   {
     "Name": "Driving Licence (Mandatory First Aid Training) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1753",
     "Subscriptions": "3,185",
     "Visibility": "Listed",
@@ -2035,6 +2261,7 @@
   },
   {
     "Name": "Drone (Regulation) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2143",
     "Subscriptions": 734,
     "Visibility": "Listed",
@@ -2044,6 +2271,7 @@
   },
   {
     "Name": "Duchy of Cornwall Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1624",
     "Subscriptions": "4,001",
     "Visibility": "Listed",
@@ -2053,6 +2281,7 @@
   },
   {
     "Name": "Duchy of Cornwall Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2019",
     "Subscriptions": "1,187",
     "Visibility": "Listed",
@@ -2062,6 +2291,7 @@
   },
   {
     "Name": "Early Day Motions",
+    "Description": "Updates about the latest single sentence motions submitted by Members of Parliament.",
     "Code": "UKPARLIAMENT_25",
     "Subscriptions": "6,982",
     "Visibility": "Listed",
@@ -2071,6 +2301,7 @@
   },
   {
     "Name": "Easter Trading Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1580",
     "Subscriptions": "4,052",
     "Visibility": "Listed",
@@ -2080,6 +2311,7 @@
   },
   {
     "Name": "Ecclesiastical Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1395",
     "Subscriptions": "2,347",
     "Visibility": "Listed",
@@ -2089,6 +2321,7 @@
   },
   {
     "Name": "Economic Affairs Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_71",
     "Subscriptions": "6,419",
     "Visibility": "Listed",
@@ -2098,6 +2331,7 @@
   },
   {
     "Name": "Economic Affairs Finance Bill Sub-Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_92",
     "Subscriptions": "5,524",
     "Visibility": "Listed",
@@ -2107,6 +2341,7 @@
   },
   {
     "Name": "Economic Strategy Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1830",
     "Subscriptions": "2,921",
     "Visibility": "Listed",
@@ -2116,6 +2351,7 @@
   },
   {
     "Name": "Ecumenical Marriage Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2011",
     "Subscriptions": "1,223",
     "Visibility": "Listed",
@@ -2125,6 +2361,7 @@
   },
   {
     "Name": "Education and Adoption Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1598",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -2134,6 +2371,7 @@
   },
   {
     "Name": "Education Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_156",
     "Subscriptions": "8,749",
     "Visibility": "Listed",
@@ -2143,6 +2381,7 @@
   },
   {
     "Name": "EEA Nationals (Indefinite Leave to Remain)  Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2030",
     "Subscriptions": "1,299",
     "Visibility": "Listed",
@@ -2152,6 +2391,7 @@
   },
   {
     "Name": "Elections and Referendums (Advertising) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2042",
     "Subscriptions": "1,171",
     "Visibility": "Listed",
@@ -2161,6 +2401,7 @@
   },
   {
     "Name": "Electoral Candidate (Age) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2139",
     "Subscriptions": 691,
     "Visibility": "Listed",
@@ -2170,6 +2411,7 @@
   },
   {
     "Name": "Electoral Commission (Duties) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2111",
     "Subscriptions": 693,
     "Visibility": "Listed",
@@ -2179,6 +2421,7 @@
   },
   {
     "Name": "Electoral Reform (Local Elections and Miscellaneous Provisions) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1938",
     "Subscriptions": "2,216",
     "Visibility": "Listed",
@@ -2188,6 +2431,7 @@
   },
   {
     "Name": "Electronic Cigarettes (Regulation) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2110",
     "Subscriptions": 742,
     "Visibility": "Listed",
@@ -2197,6 +2441,7 @@
   },
   {
     "Name": "Employment and Workers' Rights Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2065",
     "Subscriptions": "1,252",
     "Visibility": "Listed",
@@ -2206,6 +2451,7 @@
   },
   {
     "Name": "Employment Opportunities Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2097",
     "Subscriptions": 709,
     "Visibility": "Listed",
@@ -2215,6 +2461,7 @@
   },
   {
     "Name": "Employment Status (Review) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1752",
     "Subscriptions": "3,265",
     "Visibility": "Listed",
@@ -2224,6 +2471,7 @@
   },
   {
     "Name": "End of Day Adjournments Debates",
+    "Description": "Information on the last debate of the day in Parliament.",
     "Code": "UKPARLIAMENT_21",
     "Subscriptions": "6,258",
     "Visibility": "Listed",
@@ -2233,6 +2481,7 @@
   },
   {
     "Name": "Energy Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1677",
     "Subscriptions": 65,
     "Visibility": "Unlisted",
@@ -2242,6 +2491,7 @@
   },
   {
     "Name": "Energy Measures (Cost Effectiveness and Efficiency) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1829",
     "Subscriptions": "2,925",
     "Visibility": "Listed",
@@ -2251,6 +2501,7 @@
   },
   {
     "Name": "English National Anthem Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1734",
     "Subscriptions": "3,420",
     "Visibility": "Listed",
@@ -2260,6 +2511,7 @@
   },
   {
     "Name": "Enterprise Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1696",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -2269,6 +2521,7 @@
   },
   {
     "Name": "Environment, Food and Rural Affairs Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_158",
     "Subscriptions": "7,611",
     "Visibility": "Listed",
@@ -2278,6 +2531,7 @@
   },
   {
     "Name": "Environmental Audit Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_159",
     "Subscriptions": "6,082",
     "Visibility": "Listed",
@@ -2287,6 +2541,7 @@
   },
   {
     "Name": "Equality Act 2010 (Amendment) (Disabled Access) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1998",
     "Subscriptions": "1,427",
     "Visibility": "Listed",
@@ -2296,6 +2551,7 @@
   },
   {
     "Name": "Equality Act 2010 (Amendment) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1628",
     "Subscriptions": "4,877",
     "Visibility": "Listed",
@@ -2305,6 +2561,7 @@
   },
   {
     "Name": "Equality Act 2010 and Disability Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1365",
     "Subscriptions": "4,305",
     "Visibility": "Unlisted",
@@ -2314,6 +2571,7 @@
   },
   {
     "Name": "Estimate Audit Committees",
+    "Description": "",
     "Code": "UKPARLIAMENT_1420",
     "Subscriptions": "3,840",
     "Visibility": "Listed",
@@ -2323,6 +2581,7 @@
   },
   {
     "Name": "Ethnicity Pay Gap  Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1812",
     "Subscriptions": "2,948",
     "Visibility": "Listed",
@@ -2332,6 +2591,7 @@
   },
   {
     "Name": "EU Citizens Resident in the United Kingdom (Right To Stay) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1880",
     "Subscriptions": "3,277",
     "Visibility": "Listed",
@@ -2341,6 +2601,7 @@
   },
   {
     "Name": "EU Energy and Environment Sub-Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_42",
     "Subscriptions": "7,030",
     "Visibility": "Listed",
@@ -2350,6 +2611,7 @@
   },
   {
     "Name": "EU External Affairs Sub-Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_40",
     "Subscriptions": "6,121",
     "Visibility": "Listed",
@@ -2359,6 +2621,7 @@
   },
   {
     "Name": "EU Financial Affairs Sub-Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_36",
     "Subscriptions": "6,418",
     "Visibility": "Listed",
@@ -2368,6 +2631,7 @@
   },
   {
     "Name": "EU Home Affairs Sub-Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_46",
     "Subscriptions": "6,370",
     "Visibility": "Listed",
@@ -2377,6 +2641,7 @@
   },
   {
     "Name": "EU Internal Market Sub-Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_38",
     "Subscriptions": "6,118",
     "Visibility": "Listed",
@@ -2386,6 +2651,7 @@
   },
   {
     "Name": "EU Justice Sub-Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_44",
     "Subscriptions": "6,454",
     "Visibility": "Listed",
@@ -2395,6 +2661,7 @@
   },
   {
     "Name": "EU Membership (Audit of Costs and Benefits) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1655",
     "Subscriptions": "4,465",
     "Visibility": "Listed",
@@ -2404,6 +2671,7 @@
   },
   {
     "Name": "EU Select Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_34",
     "Subscriptions": "7,117",
     "Visibility": "Listed",
@@ -2413,6 +2681,7 @@
   },
   {
     "Name": "European Parliament Elections Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1671",
     "Subscriptions": 220,
     "Visibility": "Listed",
@@ -2422,6 +2691,7 @@
   },
   {
     "Name": "European Scrutiny Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_160",
     "Subscriptions": "6,141",
     "Visibility": "Listed",
@@ -2431,6 +2701,7 @@
   },
   {
     "Name": "European Union (Approvals) Act 2015 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1651",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -2440,6 +2711,7 @@
   },
   {
     "Name": "European Union (Approvals) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1989",
     "Subscriptions": "1,545",
     "Visibility": "Listed",
@@ -2449,6 +2721,7 @@
   },
   {
     "Name": "European Union (Finance) Act 2015 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1599",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -2458,6 +2731,7 @@
   },
   {
     "Name": "European Union (Information, etc.) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1611",
     "Subscriptions": "4,522",
     "Visibility": "Listed",
@@ -2467,6 +2741,7 @@
   },
   {
     "Name": "European Union (Information, etc.) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1803",
     "Subscriptions": "3,224",
     "Visibility": "Listed",
@@ -2476,6 +2751,7 @@
   },
   {
     "Name": "European Union (Information, etc.) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2021",
     "Subscriptions": "1,374",
     "Visibility": "Listed",
@@ -2485,6 +2761,7 @@
   },
   {
     "Name": "European Union (Notification of Withdrawal) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1952",
     "Subscriptions": 26,
     "Visibility": "Unlisted",
@@ -2494,6 +2771,7 @@
   },
   {
     "Name": "European Union (Referendum on the Withdrawal Agreement) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2040",
     "Subscriptions": "1,426",
     "Visibility": "Listed",
@@ -2503,6 +2781,7 @@
   },
   {
     "Name": "European Union (Return of Contributions) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2136",
     "Subscriptions": 748,
     "Visibility": "Listed",
@@ -2512,6 +2791,7 @@
   },
   {
     "Name": "European Union (Withdrawal) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2045",
     "Subscriptions": "2,152",
     "Visibility": "Listed",
@@ -2521,6 +2801,7 @@
   },
   {
     "Name": "European Union Citizens (Electoral Rights) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1608",
     "Subscriptions": "4,468",
     "Visibility": "Listed",
@@ -2530,6 +2811,7 @@
   },
   {
     "Name": "European Union Referendum Act 2015 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1570",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -2539,6 +2821,7 @@
   },
   {
     "Name": "Events and Festivals (Control of Flares, Fireworks and Smoke Bombs Etc) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1762",
     "Subscriptions": "2,992",
     "Visibility": "Listed",
@@ -2548,6 +2831,7 @@
   },
   {
     "Name": "Exiting the EU Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1430",
     "Subscriptions": "5,960",
     "Visibility": "Listed",
@@ -2557,6 +2841,7 @@
   },
   {
     "Name": "Extension of Franchise (House of Lords) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1815",
     "Subscriptions": "2,836",
     "Visibility": "Listed",
@@ -2566,6 +2851,7 @@
   },
   {
     "Name": "Extension of Franchise (House of Lords) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2029",
     "Subscriptions": "1,162",
     "Visibility": "Listed",
@@ -2575,6 +2861,7 @@
   },
   {
     "Name": "Extradition Law Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1310",
     "Subscriptions": "3,832",
     "Visibility": "Unlisted",
@@ -2584,6 +2871,7 @@
   },
   {
     "Name": "Families with Children and Young People in Debt (Respite) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1845",
     "Subscriptions": "2,929",
     "Visibility": "Listed",
@@ -2593,6 +2881,7 @@
   },
   {
     "Name": "Family Justice  Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1977",
     "Subscriptions": "1,709",
     "Visibility": "Listed",
@@ -2602,6 +2891,7 @@
   },
   {
     "Name": "Family Relationships (Impact Assessment and Targets) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2012",
     "Subscriptions": "1,235",
     "Visibility": "Listed",
@@ -2611,6 +2901,7 @@
   },
   {
     "Name": "Farm Produce (Labelling Requirements) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1764",
     "Subscriptions": "2,988",
     "Visibility": "Listed",
@@ -2620,6 +2911,7 @@
   },
   {
     "Name": "Farriers (Registration) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1849",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -2629,6 +2921,7 @@
   },
   {
     "Name": "Faversham Oyster Fishery Company Act 2017 2015-16 to 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1722",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -2638,6 +2931,7 @@
   },
   {
     "Name": "Feeding Products for Babies and Children (Advertising and Promotion) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1925",
     "Subscriptions": "2,263",
     "Visibility": "Listed",
@@ -2647,6 +2941,7 @@
   },
   {
     "Name": "Fetal Dopplers (Regulation) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2162",
     "Subscriptions": 441,
     "Visibility": "Listed",
@@ -2656,6 +2951,7 @@
   },
   {
     "Name": "Finance  Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1970",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -2665,6 +2961,7 @@
   },
   {
     "Name": "Finance (No.2) Act 2017 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2153",
     "Subscriptions": "1,093",
     "Visibility": "Unlisted",
@@ -2674,6 +2971,7 @@
   },
   {
     "Name": "Finance (No.2) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2181",
     "Subscriptions": 210,
     "Visibility": "Listed",
@@ -2683,6 +2981,7 @@
   },
   {
     "Name": "Finance Act 2015 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1683",
     "Subscriptions": 66,
     "Visibility": "Unlisted",
@@ -2692,6 +2991,7 @@
   },
   {
     "Name": "Finance Act 2016 2015-16 to 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1760",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -2701,6 +3001,7 @@
   },
   {
     "Name": "Finance Committee (Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_1428",
     "Subscriptions": "3,747",
     "Visibility": "Listed",
@@ -2710,6 +3011,7 @@
   },
   {
     "Name": "Financial Exclusion Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1417",
     "Subscriptions": "3,783",
     "Visibility": "Listed",
@@ -2719,6 +3021,7 @@
   },
   {
     "Name": "Financial Guidance and Claims Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1990",
     "Subscriptions": "1,545",
     "Visibility": "Listed",
@@ -2728,6 +3031,7 @@
   },
   {
     "Name": "Financial Regulation of Funeral Services Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1940",
     "Subscriptions": "2,156",
     "Visibility": "Listed",
@@ -2737,6 +3041,7 @@
   },
   {
     "Name": "Fishing (Access to Territorial Waters) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2118",
     "Subscriptions": 688,
     "Visibility": "Listed",
@@ -2746,6 +3051,7 @@
   },
   {
     "Name": "Fixed-term Parliaments (Repeal)  Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1890",
     "Subscriptions": "2,605",
     "Visibility": "Listed",
@@ -2755,6 +3061,7 @@
   },
   {
     "Name": "Food Insecurity Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2186",
     "Subscriptions": 107,
     "Visibility": "Listed",
@@ -2764,6 +3071,7 @@
   },
   {
     "Name": "Food Waste (Reduction) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1693",
     "Subscriptions": "4,016",
     "Visibility": "Listed",
@@ -2772,7 +3080,8 @@
     "Autosend": "Yes"
   },
   {
-    "Name": "Football Governance (Supporters’ Participation) Bill 2015-16",
+    "Name": "Football Governance (Supporters' Participation) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1675",
     "Subscriptions": 216,
     "Visibility": "Listed",
@@ -2782,6 +3091,7 @@
   },
   {
     "Name": "Football Supporters (Access) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1935",
     "Subscriptions": "2,169",
     "Visibility": "Listed",
@@ -2791,6 +3101,7 @@
   },
   {
     "Name": "Foreign Affairs Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_162",
     "Subscriptions": "7,005",
     "Visibility": "Listed",
@@ -2800,6 +3111,7 @@
   },
   {
     "Name": "Foreign National Offenders (Exclusion from the UK) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1659",
     "Subscriptions": "4,113",
     "Visibility": "Listed",
@@ -2809,6 +3121,7 @@
   },
   {
     "Name": "Foreign Nationals (Criminal Offender and Prisoner Removal) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2094",
     "Subscriptions": 692,
     "Visibility": "Listed",
@@ -2818,6 +3131,7 @@
   },
   {
     "Name": "Forensic Linguistics (Standards) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1766",
     "Subscriptions": "2,925",
     "Visibility": "Listed",
@@ -2827,6 +3141,7 @@
   },
   {
     "Name": "Forthcoming Business of the House of Commons",
+    "Description": "",
     "Code": "UKPARLIAMENT_18",
     "Subscriptions": "4,586",
     "Visibility": "Unlisted",
@@ -2836,6 +3151,7 @@
   },
   {
     "Name": "Fracking (Measurement and Regulation of Impacts) (Air, Water and Greenhouse Gas Emissions) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1725",
     "Subscriptions": "3,679",
     "Visibility": "Listed",
@@ -2845,6 +3161,7 @@
   },
   {
     "Name": "Free School Meals (Automatic Registration of Eligible Children) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1728",
     "Subscriptions": "3,553",
     "Visibility": "Listed",
@@ -2854,6 +3171,7 @@
   },
   {
     "Name": "Free Trade (Education and Reporting) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2095",
     "Subscriptions": 679,
     "Visibility": "Listed",
@@ -2863,6 +3181,7 @@
   },
   {
     "Name": "Freedom of Information (Extension) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2067",
     "Subscriptions": "1,297",
     "Visibility": "Listed",
@@ -2872,6 +3191,7 @@
   },
   {
     "Name": "Freedom of Information (Public Interest and Transparency) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1735",
     "Subscriptions": "3,787",
     "Visibility": "Listed",
@@ -2881,6 +3201,7 @@
   },
   {
     "Name": "Fruit and Vegetables (Classification) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2114",
     "Subscriptions": 680,
     "Visibility": "Listed",
@@ -2890,6 +3211,7 @@
   },
   {
     "Name": "Gambling (Categorisation and Use of B2 Gaming Machines) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1604",
     "Subscriptions": "4,058",
     "Visibility": "Listed",
@@ -2899,6 +3221,7 @@
   },
   {
     "Name": "Gangmasters (Licensing) and Labour Abuse Authority Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1852",
     "Subscriptions": "2,834",
     "Visibility": "Listed",
@@ -2908,6 +3231,7 @@
   },
   {
     "Name": "Gender Identity (Protected Characteristic) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1936",
     "Subscriptions": "2,410",
     "Visibility": "Listed",
@@ -2916,7 +3240,8 @@
     "Autosend": "No"
   },
   {
-    "Name": "General Election (Leaders’ Debate) Bill 2017-19",
+    "Name": "General Election (Leaders' Debate) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2137",
     "Subscriptions": 691,
     "Visibility": "Listed",
@@ -2926,6 +3251,7 @@
   },
   {
     "Name": "Genocide Determination (No. 2) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2151",
     "Subscriptions": 680,
     "Visibility": "Listed",
@@ -2935,6 +3261,7 @@
   },
   {
     "Name": "Genocide Determination Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1826",
     "Subscriptions": "2,841",
     "Visibility": "Listed",
@@ -2944,6 +3271,7 @@
   },
   {
     "Name": "Genocide Determination Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2054",
     "Subscriptions": "1,122",
     "Visibility": "Listed",
@@ -2953,6 +3281,7 @@
   },
   {
     "Name": "Government Departments (Abolition) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2126",
     "Subscriptions": 701,
     "Visibility": "Listed",
@@ -2962,6 +3291,7 @@
   },
   {
     "Name": "Government Departments (Decentralisation Target) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1714",
     "Subscriptions": "3,587",
     "Visibility": "Listed",
@@ -2971,6 +3301,7 @@
   },
   {
     "Name": "Government Services (Telecommunication Charges) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1961",
     "Subscriptions": "1,839",
     "Visibility": "Listed",
@@ -2980,6 +3311,7 @@
   },
   {
     "Name": "Green Belt (Protection) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2101",
     "Subscriptions": 743,
     "Visibility": "Listed",
@@ -2989,6 +3321,7 @@
   },
   {
     "Name": "Guardianship (Missing Persons) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1945",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -2998,6 +3331,7 @@
   },
   {
     "Name": "Haberdashers' Aske's Charity Act 2016 2015-16 to 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1720",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -3007,6 +3341,7 @@
   },
   {
     "Name": "Harbour, Docks and Piers Clauses Act 1847 (Amendment) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1772",
     "Subscriptions": "2,858",
     "Visibility": "Listed",
@@ -3016,6 +3351,7 @@
   },
   {
     "Name": "Harbours, Docks and Piers Clauses Act 1847 (Amendment) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1882",
     "Subscriptions": "2,708",
     "Visibility": "Listed",
@@ -3025,6 +3361,7 @@
   },
   {
     "Name": "Health and Safety Executive (Powers) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1649",
     "Subscriptions": "4,320",
     "Visibility": "Listed",
@@ -3034,6 +3371,7 @@
   },
   {
     "Name": "Health and Social Care (National Data Guardian) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1918",
     "Subscriptions": "2,508",
     "Visibility": "Listed",
@@ -3043,6 +3381,7 @@
   },
   {
     "Name": "Health and Social Care (National Data Guardian) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2145",
     "Subscriptions": 750,
     "Visibility": "Listed",
@@ -3052,6 +3391,7 @@
   },
   {
     "Name": "Health Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_163",
     "Subscriptions": "8,596",
     "Visibility": "Listed",
@@ -3061,6 +3401,7 @@
   },
   {
     "Name": "Health Service Medical Supplies (Costs) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1900",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -3070,6 +3411,7 @@
   },
   {
     "Name": "Health Services Commissioning (Equality and Accountability) (No. 2) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1678",
     "Subscriptions": 222,
     "Visibility": "Listed",
@@ -3079,6 +3421,7 @@
   },
   {
     "Name": "Health Services Commissioning (Equality and Accountability) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1674",
     "Subscriptions": 222,
     "Visibility": "Listed",
@@ -3088,6 +3431,7 @@
   },
   {
     "Name": "Health Services Commissioning (Equality and Accountability) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1903",
     "Subscriptions": "2,611",
     "Visibility": "Listed",
@@ -3097,6 +3441,7 @@
   },
   {
     "Name": "Healthcare (Local Accountability) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2082",
     "Subscriptions": 735,
     "Visibility": "Listed",
@@ -3106,6 +3451,7 @@
   },
   {
     "Name": "Heritage Railways and Tramways (Voluntary Work) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2044",
     "Subscriptions": "1,138",
     "Visibility": "Listed",
@@ -3115,6 +3461,7 @@
   },
   {
     "Name": "High Speed 2 Phase 1 (Reviews of Public Expenditure) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2087",
     "Subscriptions": 687,
     "Visibility": "Listed",
@@ -3124,6 +3471,7 @@
   },
   {
     "Name": "High Speed Rail (London - West Midlands) Act 2017 2013-14 to 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1313",
     "Subscriptions": 17,
     "Visibility": "Unlisted",
@@ -3133,6 +3481,7 @@
   },
   {
     "Name": "High Speed Rail (London - West Midlands) Bill Select Committee (Commons)",
+    "Description": "",
     "Code": "UKPARLIAMENT_1296",
     "Subscriptions": "4,730",
     "Visibility": "Listed",
@@ -3142,6 +3491,7 @@
   },
   {
     "Name": "High Speed Rail (London – West Midlands) Bill (Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_1406",
     "Subscriptions": "3,793",
     "Visibility": "Listed",
@@ -3151,6 +3501,7 @@
   },
   {
     "Name": "High Speed Rail (West Midlands - Crewe) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2046",
     "Subscriptions": "1,196",
     "Visibility": "Listed",
@@ -3160,6 +3511,7 @@
   },
   {
     "Name": "Higher Education (Information) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1645",
     "Subscriptions": "4,338",
     "Visibility": "Listed",
@@ -3169,6 +3521,7 @@
   },
   {
     "Name": "Higher Education and Research Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1773",
     "Subscriptions": 20,
     "Visibility": "Unlisted",
@@ -3178,6 +3531,7 @@
   },
   {
     "Name": "Highlights from the Parliamentary Archives",
+    "Description": "",
     "Code": "UKPARLIAMENT_14",
     "Subscriptions": "1,792",
     "Visibility": "Unlisted",
@@ -3187,6 +3541,7 @@
   },
   {
     "Name": "Highway Works (Weekend Working and Traffic Management Measures) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1866",
     "Subscriptions": "2,762",
     "Visibility": "Listed",
@@ -3196,6 +3551,7 @@
   },
   {
     "Name": "Highways (Improvement, Traffic Regulation and Traffic Management) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1643",
     "Subscriptions": "4,167",
     "Visibility": "Listed",
@@ -3205,6 +3561,7 @@
   },
   {
     "Name": "Holiday Pay Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2108",
     "Subscriptions": 709,
     "Visibility": "Listed",
@@ -3214,6 +3571,7 @@
   },
   {
     "Name": "Home Affairs Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_164",
     "Subscriptions": "6,806",
     "Visibility": "Listed",
@@ -3223,6 +3581,7 @@
   },
   {
     "Name": "Home Education (Duty of Local Authorities) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2000",
     "Subscriptions": "1,588",
     "Visibility": "Listed",
@@ -3232,6 +3591,7 @@
   },
   {
     "Name": "Homeless People (Current Accounts) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2138",
     "Subscriptions": 715,
     "Visibility": "Listed",
@@ -3241,6 +3601,7 @@
   },
   {
     "Name": "Homelessness Reduction Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1838",
     "Subscriptions": 18,
     "Visibility": "Unlisted",
@@ -3250,6 +3611,7 @@
   },
   {
     "Name": "Homes (Fitness for Human Habitation and Liability for Housing Standards) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2062",
     "Subscriptions": "1,216",
     "Visibility": "Listed",
@@ -3259,6 +3621,7 @@
   },
   {
     "Name": "Homes (Fitness for Human Habitation) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1639",
     "Subscriptions": "4,446",
     "Visibility": "Listed",
@@ -3268,6 +3631,7 @@
   },
   {
     "Name": "Hospital (Parking Charges and Business Rates) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2133",
     "Subscriptions": 714,
     "Visibility": "Listed",
@@ -3277,6 +3641,7 @@
   },
   {
     "Name": "Hospital Car Parking Charges (Abolition) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2178",
     "Subscriptions": 234,
     "Visibility": "Listed",
@@ -3286,6 +3651,7 @@
   },
   {
     "Name": "Hospital Parking Charges (Exemption for Carers) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1634",
     "Subscriptions": "4,139",
     "Visibility": "Listed",
@@ -3295,6 +3661,7 @@
   },
   {
     "Name": "House Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_126",
     "Subscriptions": "2,509",
     "Visibility": "Unlisted",
@@ -3304,6 +3671,7 @@
   },
   {
     "Name": "House of Commons (Members' Fund) Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1711",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -3313,6 +3681,7 @@
   },
   {
     "Name": "House of Commons Commission",
+    "Description": "",
     "Code": "UKPARLIAMENT_1293",
     "Subscriptions": "4,200",
     "Visibility": "Listed",
@@ -3322,6 +3691,7 @@
   },
   {
     "Name": "House of Commons Committees Digital Engagement",
+    "Description": "",
     "Code": "UKPARLIAMENT_1409",
     "Subscriptions": 28,
     "Visibility": "Unlisted",
@@ -3331,6 +3701,7 @@
   },
   {
     "Name": "House of Commons Future Business",
+    "Description": "",
     "Code": "UKPARLIAMENT_19",
     "Subscriptions": "4,432",
     "Visibility": "Unlisted",
@@ -3340,6 +3711,7 @@
   },
   {
     "Name": "House of Commons Hansard",
+    "Description": "Information on what was discussed yesterday in the House of Commons.",
     "Code": "UKPARLIAMENT_16",
     "Subscriptions": "10,127",
     "Visibility": "Listed",
@@ -3349,6 +3721,7 @@
   },
   {
     "Name": "House of Commons Library Research Papers",
+    "Description": "",
     "Code": "UKPARLIAMENT_27",
     "Subscriptions": "6,925",
     "Visibility": "Unlisted",
@@ -3358,6 +3731,7 @@
   },
   {
     "Name": "House of Commons Library Standard Notes",
+    "Description": "",
     "Code": "UKPARLIAMENT_191",
     "Subscriptions": "3,308",
     "Visibility": "Unlisted",
@@ -3367,6 +3741,7 @@
   },
   {
     "Name": "House of Commons Members' Fund Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1737",
     "Subscriptions": "3,251",
     "Visibility": "Listed",
@@ -3376,6 +3751,7 @@
   },
   {
     "Name": "House of Commons Whips (Transparency) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2135",
     "Subscriptions": 675,
     "Visibility": "Listed",
@@ -3385,6 +3761,7 @@
   },
   {
     "Name": "House of Lords (Exclusion of Hereditary Peers) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1942",
     "Subscriptions": "2,138",
     "Visibility": "Listed",
@@ -3394,6 +3771,7 @@
   },
   {
     "Name": "House of Lords (Exclusion of Hereditary Peers) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2155",
     "Subscriptions": 675,
     "Visibility": "Listed",
@@ -3403,6 +3781,7 @@
   },
   {
     "Name": "House of Lords (Hereditary Peers) (Abolition of By-Elections) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1991",
     "Subscriptions": "1,250",
     "Visibility": "Listed",
@@ -3412,6 +3791,7 @@
   },
   {
     "Name": "House of Lords (Maximum Membership) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1667",
     "Subscriptions": "4,043",
     "Visibility": "Listed",
@@ -3421,6 +3801,7 @@
   },
   {
     "Name": "House of Lords (Parliamentary Standards Etc) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1715",
     "Subscriptions": "3,551",
     "Visibility": "Listed",
@@ -3430,6 +3811,7 @@
   },
   {
     "Name": "House of Lords Act 1999 (Amendment) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1784",
     "Subscriptions": "2,962",
     "Visibility": "Listed",
@@ -3439,6 +3821,7 @@
   },
   {
     "Name": "House of Lords Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1789",
     "Subscriptions": "2,968",
     "Visibility": "Listed",
@@ -3448,6 +3831,7 @@
   },
   {
     "Name": "House of Lords Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2004",
     "Subscriptions": "1,250",
     "Visibility": "Listed",
@@ -3457,6 +3841,7 @@
   },
   {
     "Name": "House of Lords Business (Minutes of Proceedings, Order Paper and Future Business)",
+    "Description": "The agenda for the House of Lords proceedings that day.",
     "Code": "UKPARLIAMENT_52",
     "Subscriptions": "4,641",
     "Visibility": "Listed",
@@ -3466,6 +3851,7 @@
   },
   {
     "Name": "House of Lords Commission",
+    "Description": "",
     "Code": "UKPARLIAMENT_1426",
     "Subscriptions": "3,624",
     "Visibility": "Listed",
@@ -3475,6 +3861,7 @@
   },
   {
     "Name": "House of Lords Committee Bulletin",
+    "Description": "Updates about the activities from Lords and Joint Committees.",
     "Code": "UKPARLIAMENT_1361",
     "Subscriptions": "4,401",
     "Visibility": "Listed",
@@ -3484,6 +3871,7 @@
   },
   {
     "Name": "House of Lords Committees bulletin",
+    "Description": "",
     "Code": "UKPARLIAMENT_59",
     "Subscriptions": "3,558",
     "Visibility": "Unlisted",
@@ -3493,6 +3881,7 @@
   },
   {
     "Name": "House of Lords Information Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_111",
     "Subscriptions": "4,121",
     "Visibility": "Unlisted",
@@ -3502,6 +3891,7 @@
   },
   {
     "Name": "House of Lords on Twitter",
+    "Description": "Tweets from the House of Lords.",
     "Code": "UKPARLIAMENT_189",
     "Subscriptions": "4,019",
     "Visibility": "Listed",
@@ -3511,6 +3901,7 @@
   },
   {
     "Name": "House of Lords Reform (Exclusion of Hereditary Peers) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1767",
     "Subscriptions": "2,982",
     "Visibility": "Listed",
@@ -3520,6 +3911,7 @@
   },
   {
     "Name": "House of Lords Reform Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1797",
     "Subscriptions": "3,004",
     "Visibility": "Listed",
@@ -3529,6 +3921,7 @@
   },
   {
     "Name": "Housing (Tenants' Rights) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1874",
     "Subscriptions": "3,155",
     "Visibility": "Listed",
@@ -3538,6 +3931,7 @@
   },
   {
     "Name": "Housing and Planning Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1700",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -3547,6 +3941,7 @@
   },
   {
     "Name": "Housing Standards (Preparation and Storage of Food by Tenants in Receipt of Universal Credit or Housing Benefit) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1913",
     "Subscriptions": "2,485",
     "Visibility": "Listed",
@@ -3556,6 +3951,7 @@
   },
   {
     "Name": "Human Rights and Responsibilities Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2083",
     "Subscriptions": 767,
     "Visibility": "Listed",
@@ -3565,6 +3961,7 @@
   },
   {
     "Name": "Human Trafficking (Child Protection) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2142",
     "Subscriptions": 720,
     "Visibility": "Listed",
@@ -3574,6 +3971,7 @@
   },
   {
     "Name": "Humanitarian Assistance (Genocide Victims) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1816",
     "Subscriptions": "2,886",
     "Visibility": "Listed",
@@ -3583,6 +3981,7 @@
   },
   {
     "Name": "Hybrid Bills before Parliament",
+    "Description": "",
     "Code": "UKPARLIAMENT_6",
     "Subscriptions": "2,168",
     "Visibility": "Unlisted",
@@ -3592,6 +3991,7 @@
   },
   {
     "Name": "Illegal Immigrants (Criminal Sanctions) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1666",
     "Subscriptions": "4,376",
     "Visibility": "Listed",
@@ -3601,6 +4001,7 @@
   },
   {
     "Name": "Illegal Immigration (Offences) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2092",
     "Subscriptions": 701,
     "Visibility": "Listed",
@@ -3610,6 +4011,7 @@
   },
   {
     "Name": "Immigration Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1699",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -3619,6 +4021,7 @@
   },
   {
     "Name": "Immigration Control (Gross Human Rights Abuses) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2006",
     "Subscriptions": "1,306",
     "Visibility": "Listed",
@@ -3628,6 +4031,7 @@
   },
   {
     "Name": "Import Tariff (Reduction) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2096",
     "Subscriptions": 685,
     "Visibility": "Listed",
@@ -3637,6 +4041,7 @@
   },
   {
     "Name": "Improvement of Rail Passenger Services (Use of Disruption Payments) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1763",
     "Subscriptions": "2,988",
     "Visibility": "Listed",
@@ -3646,6 +4051,7 @@
   },
   {
     "Name": "In House Services",
+    "Description": "",
     "Code": "UKPARLIAMENT_1436",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -3655,6 +4061,7 @@
   },
   {
     "Name": "Income Tax (Non-Military Expenditure) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1884",
     "Subscriptions": "2,724",
     "Visibility": "Listed",
@@ -3664,6 +4071,7 @@
   },
   {
     "Name": "Ineligible members of the House of Lords",
+    "Description": "",
     "Code": "UKPARLIAMENT_1450",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -3673,6 +4081,7 @@
   },
   {
     "Name": "Inquiries Act 2005 Select Committee (Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_219",
     "Subscriptions": "1,274",
     "Visibility": "Unlisted",
@@ -3682,6 +4091,7 @@
   },
   {
     "Name": "Intellectual Property (Unjustified Threats) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1777",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -3691,6 +4101,7 @@
   },
   {
     "Name": "Intellectual Property Bill Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1422",
     "Subscriptions": "3,619",
     "Visibility": "Unlisted",
@@ -3700,6 +4111,7 @@
   },
   {
     "Name": "International Development (Official Development Assistance Target) (Amendment) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1621",
     "Subscriptions": "4,126",
     "Visibility": "Listed",
@@ -3709,6 +4121,7 @@
   },
   {
     "Name": "International Development (Official Development Assistance Target) (Amendment) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1785",
     "Subscriptions": "2,967",
     "Visibility": "Listed",
@@ -3718,6 +4131,7 @@
   },
   {
     "Name": "International Development (Population Dynamics) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1629",
     "Subscriptions": "4,098",
     "Visibility": "Listed",
@@ -3727,6 +4141,7 @@
   },
   {
     "Name": "International Development Assistance (Definition) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2098",
     "Subscriptions": 682,
     "Visibility": "Listed",
@@ -3736,6 +4151,7 @@
   },
   {
     "Name": "International Development Assistance (Limit) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2125",
     "Subscriptions": 684,
     "Visibility": "Listed",
@@ -3745,6 +4161,7 @@
   },
   {
     "Name": "International Development Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_165",
     "Subscriptions": "6,388",
     "Visibility": "Listed",
@@ -3754,6 +4171,7 @@
   },
   {
     "Name": "International Development Sub-Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1388",
     "Subscriptions": "4,398",
     "Visibility": "Listed",
@@ -3763,6 +4181,7 @@
   },
   {
     "Name": "International Payments (Audit) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2102",
     "Subscriptions": 680,
     "Visibility": "Listed",
@@ -3772,6 +4191,7 @@
   },
   {
     "Name": "International Relations Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1419",
     "Subscriptions": "3,960",
     "Visibility": "Listed",
@@ -3781,6 +4201,7 @@
   },
   {
     "Name": "International Trade Agreements (Scrutiny) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1697",
     "Subscriptions": "3,870",
     "Visibility": "Listed",
@@ -3790,6 +4211,7 @@
   },
   {
     "Name": "International Trade and Investment (NHS Protection) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1853",
     "Subscriptions": "2,819",
     "Visibility": "Listed",
@@ -3799,6 +4221,7 @@
   },
   {
     "Name": "International Trade Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1432",
     "Subscriptions": "4,549",
     "Visibility": "Listed",
@@ -3808,6 +4231,7 @@
   },
   {
     "Name": "Investigatory Powers  Act 2016 2015-16 to 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1749",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -3817,6 +4241,7 @@
   },
   {
     "Name": "Isham Bypass Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2148",
     "Subscriptions": 670,
     "Visibility": "Listed",
@@ -3826,6 +4251,7 @@
   },
   {
     "Name": "Joint Committee on Consolidation Bills",
+    "Description": "",
     "Code": "UKPARLIAMENT_142",
     "Subscriptions": "4,188",
     "Visibility": "Listed",
@@ -3835,6 +4261,7 @@
   },
   {
     "Name": "Joint Committee on Human Rights",
+    "Description": "",
     "Code": "UKPARLIAMENT_105",
     "Subscriptions": "9,304",
     "Visibility": "Listed",
@@ -3844,6 +4271,7 @@
   },
   {
     "Name": "Joint Committee on Statutory Instruments",
+    "Description": "",
     "Code": "UKPARLIAMENT_147",
     "Subscriptions": "4,887",
     "Visibility": "Listed",
@@ -3853,6 +4281,7 @@
   },
   {
     "Name": "Joint Committee on the National Security Strategy",
+    "Description": "",
     "Code": "UKPARLIAMENT_139",
     "Subscriptions": "5,455",
     "Visibility": "Listed",
@@ -3862,6 +4291,7 @@
   },
   {
     "Name": "Joint Select Committee on Parliamentary Privilege",
+    "Description": "",
     "Code": "UKPARLIAMENT_213",
     "Subscriptions": "4,128",
     "Visibility": "Listed",
@@ -3871,6 +4301,7 @@
   },
   {
     "Name": "Judicial Appointments and Retirements (Age Limits) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2120",
     "Subscriptions": 684,
     "Visibility": "Listed",
@@ -3880,6 +4311,7 @@
   },
   {
     "Name": "June Bank Holiday (Creation) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2128",
     "Subscriptions": 709,
     "Visibility": "Listed",
@@ -3889,6 +4321,7 @@
   },
   {
     "Name": "Justice Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_166",
     "Subscriptions": "7,073",
     "Visibility": "Listed",
@@ -3898,6 +4331,7 @@
   },
   {
     "Name": "Kew Gardens (Leases) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1854",
     "Subscriptions": "2,759",
     "Visibility": "Listed",
@@ -3907,6 +4341,7 @@
   },
   {
     "Name": "Kew Gardens (Leases) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2055",
     "Subscriptions": "1,106",
     "Visibility": "Listed",
@@ -3916,6 +4351,7 @@
   },
   {
     "Name": "Landlord and Tenant (Reform) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1768",
     "Subscriptions": "3,227",
     "Visibility": "Listed",
@@ -3925,6 +4361,7 @@
   },
   {
     "Name": "Laser Pens (Regulation of Sale, Ownership and Usage) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1755",
     "Subscriptions": "3,100",
     "Visibility": "Listed",
@@ -3934,6 +4371,7 @@
   },
   {
     "Name": "Laser Pens (Regulation of Sale, Ownership and Usage) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1898",
     "Subscriptions": "2,488",
     "Visibility": "Listed",
@@ -3943,6 +4381,7 @@
   },
   {
     "Name": "Latest committee inquiries",
+    "Description": "An update about the latest committee inquiries.",
     "Code": "UKPARLIAMENT_1334",
     "Subscriptions": "5,829",
     "Visibility": "Listed",
@@ -3952,6 +4391,7 @@
   },
   {
     "Name": "Latest news from Parliament",
+    "Description": "An alert with the latest news from UK Parliament.",
     "Code": "UKPARLIAMENT_1",
     "Subscriptions": "49,110",
     "Visibility": "Listed",
@@ -3961,6 +4401,7 @@
   },
   {
     "Name": "Latest news from the House of Commons",
+    "Description": "An alert with the latest news from the House of Commons.",
     "Code": "UKPARLIAMENT_15",
     "Subscriptions": "10,400",
     "Visibility": "Listed",
@@ -3970,6 +4411,7 @@
   },
   {
     "Name": "Latest news from the House of Lords",
+    "Description": "An alert with the latest news from the House of Lords.",
     "Code": "UKPARLIAMENT_50",
     "Subscriptions": "8,597",
     "Visibility": "Listed",
@@ -3979,6 +4421,7 @@
   },
   {
     "Name": "Leader of the House of Commons (Election) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2129",
     "Subscriptions": 685,
     "Visibility": "Listed",
@@ -3988,6 +4431,7 @@
   },
   {
     "Name": "Learning Disabilities (Review of Services) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2039",
     "Subscriptions": "1,243",
     "Visibility": "Listed",
@@ -3997,6 +4441,7 @@
   },
   {
     "Name": "Leasehold Reform Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2173",
     "Subscriptions": 424,
     "Visibility": "Listed",
@@ -4006,6 +4451,7 @@
   },
   {
     "Name": "Lee Valley Regional Park (Amendment) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1963",
     "Subscriptions": "1,807",
     "Visibility": "Listed",
@@ -4015,6 +4461,7 @@
   },
   {
     "Name": "Legalisation of Cannabis (Medicinal Purposes) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2161",
     "Subscriptions": 532,
     "Visibility": "Listed",
@@ -4024,6 +4471,7 @@
   },
   {
     "Name": "Liaison Committee (Commons)",
+    "Description": "",
     "Code": "UKPARLIAMENT_167",
     "Subscriptions": "4,441",
     "Visibility": "Listed",
@@ -4033,6 +4481,7 @@
   },
   {
     "Name": "Liaison Committee (Lords) Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_73",
     "Subscriptions": "5,119",
     "Visibility": "Listed",
@@ -4042,6 +4491,7 @@
   },
   {
     "Name": "LiberTeas update",
+    "Description": "",
     "Code": "UKPARLIAMENT_1347",
     "Subscriptions": 230,
     "Visibility": "Listed",
@@ -4051,6 +4501,7 @@
   },
   {
     "Name": "Licensing Act 2003 Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1416",
     "Subscriptions": "3,721",
     "Visibility": "Listed",
@@ -4060,6 +4511,7 @@
   },
   {
     "Name": "Licensing of Taxis and Private Hire Vehicles (Safeguarding and Road Safety) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2066",
     "Subscriptions": "1,170",
     "Visibility": "Listed",
@@ -4069,6 +4521,7 @@
   },
   {
     "Name": "Live Animal Exports (Prohibition) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2169",
     "Subscriptions": 371,
     "Visibility": "Listed",
@@ -4078,6 +4531,7 @@
   },
   {
     "Name": "Lobbying (Transparency) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1786",
     "Subscriptions": "3,071",
     "Visibility": "Listed",
@@ -4087,6 +4541,7 @@
   },
   {
     "Name": "Local Area Referendum (Disposal of School Playing Fields)  Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1652",
     "Subscriptions": "4,054",
     "Visibility": "Listed",
@@ -4096,6 +4551,7 @@
   },
   {
     "Name": "Local Audit (Public Access to Documents) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1864",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -4105,6 +4561,7 @@
   },
   {
     "Name": "Local Audit (Public Access to Documents) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2109",
     "Subscriptions": 697,
     "Visibility": "Listed",
@@ -4114,6 +4571,7 @@
   },
   {
     "Name": "Local Authorities (Borrowing and Investment) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2103",
     "Subscriptions": 711,
     "Visibility": "Listed",
@@ -4123,6 +4581,7 @@
   },
   {
     "Name": "Local Authorities (Removal of Council Tax Restrictions) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2081",
     "Subscriptions": 718,
     "Visibility": "Listed",
@@ -4132,6 +4591,7 @@
   },
   {
     "Name": "Local Authority Roads (Wildlife Protection) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1867",
     "Subscriptions": "2,793",
     "Visibility": "Listed",
@@ -4141,6 +4601,7 @@
   },
   {
     "Name": "Local Government Elections (Referendum) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1822",
     "Subscriptions": "2,900",
     "Visibility": "Listed",
@@ -4150,6 +4611,7 @@
   },
   {
     "Name": "Local Government Elections (Referendum) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2007",
     "Subscriptions": "1,279",
     "Visibility": "Listed",
@@ -4159,6 +4621,7 @@
   },
   {
     "Name": "Local Government Finance (Tenure Information) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1641",
     "Subscriptions": "4,196",
     "Visibility": "Listed",
@@ -4168,6 +4631,7 @@
   },
   {
     "Name": "Local Government Finance Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1946",
     "Subscriptions": "2,148",
     "Visibility": "Listed",
@@ -4177,6 +4641,7 @@
   },
   {
     "Name": "Local Government Finance Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2134",
     "Subscriptions": 711,
     "Visibility": "Listed",
@@ -4186,6 +4651,7 @@
   },
   {
     "Name": "Local Housing Authority Debt Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2024",
     "Subscriptions": "1,220",
     "Visibility": "Listed",
@@ -4195,6 +4661,7 @@
   },
   {
     "Name": "Local Roads (Investment) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2107",
     "Subscriptions": 693,
     "Visibility": "Listed",
@@ -4204,6 +4671,7 @@
   },
   {
     "Name": "Lord Speaker's committee on the size of the House",
+    "Description": "",
     "Code": "UKPARLIAMENT_1437",
     "Subscriptions": "3,784",
     "Visibility": "Listed",
@@ -4213,6 +4681,7 @@
   },
   {
     "Name": "Lord Speaker's homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_104",
     "Subscriptions": "3,149",
     "Visibility": "Unlisted",
@@ -4222,6 +4691,7 @@
   },
   {
     "Name": "Lords Divisions Analysis",
+    "Description": "",
     "Code": "UKPARLIAMENT_200",
     "Subscriptions": "1,504",
     "Visibility": "Unlisted",
@@ -4231,6 +4701,7 @@
   },
   {
     "Name": "Lords In Focus",
+    "Description": "The latest briefing papers for House of Lords members.",
     "Code": "UKPARLIAMENT_1354",
     "Subscriptions": "6,530",
     "Visibility": "Listed",
@@ -4240,6 +4711,7 @@
   },
   {
     "Name": "Lords Library notes",
+    "Description": "The latest information notes by the Lords Library.",
     "Code": "UKPARLIAMENT_193",
     "Subscriptions": "8,778",
     "Visibility": "Listed",
@@ -4249,6 +4721,7 @@
   },
   {
     "Name": "Malicious Communications (Social Media) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1877",
     "Subscriptions": "2,935",
     "Visibility": "Listed",
@@ -4258,6 +4731,7 @@
   },
   {
     "Name": "Manufactured Goods (Trade) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2123",
     "Subscriptions": 682,
     "Visibility": "Listed",
@@ -4267,6 +4741,7 @@
   },
   {
     "Name": "Marriage Act 1949 (Amendment) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2037",
     "Subscriptions": "1,206",
     "Visibility": "Listed",
@@ -4276,6 +4751,7 @@
   },
   {
     "Name": "Marriage and Civil Partnership (Minimum Age) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1792",
     "Subscriptions": "3,023",
     "Visibility": "Listed",
@@ -4285,6 +4761,7 @@
   },
   {
     "Name": "Marriage and Civil Partnership Registration (Mothers' Names) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1712",
     "Subscriptions": "3,703",
     "Visibility": "Listed",
@@ -4294,6 +4771,7 @@
   },
   {
     "Name": "Marriage Registration Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1730",
     "Subscriptions": "3,446",
     "Visibility": "Listed",
@@ -4303,6 +4781,7 @@
   },
   {
     "Name": "Maternity and Paternity Leave (Premature Birth) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1917",
     "Subscriptions": "2,380",
     "Visibility": "Listed",
@@ -4312,6 +4791,7 @@
   },
   {
     "Name": "Medical Innovation Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1612",
     "Subscriptions": "4,260",
     "Visibility": "Listed",
@@ -4321,6 +4801,7 @@
   },
   {
     "Name": "Members Estimate Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1298",
     "Subscriptions": "3,923",
     "Visibility": "Listed",
@@ -4330,6 +4811,7 @@
   },
   {
     "Name": "Members' Expenses Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_168",
     "Subscriptions": "4,435",
     "Visibility": "Listed",
@@ -4339,6 +4821,7 @@
   },
   {
     "Name": "Mental Health (Independent Advocacy) (England) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1648",
     "Subscriptions": "4,585",
     "Visibility": "Listed",
@@ -4348,6 +4831,7 @@
   },
   {
     "Name": "Mental Health Units (Use of Force) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2059",
     "Subscriptions": "1,237",
     "Visibility": "Listed",
@@ -4357,6 +4841,7 @@
   },
   {
     "Name": "Merchant Shipping (Homosexual Conduct) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1855",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -4366,6 +4851,7 @@
   },
   {
     "Name": "Mesothelioma (Amendment) (No. 2) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1731",
     "Subscriptions": "3,330",
     "Visibility": "Listed",
@@ -4375,6 +4861,7 @@
   },
   {
     "Name": "Mesothelioma (Amendment) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1594",
     "Subscriptions": "4,062",
     "Visibility": "Listed",
@@ -4384,6 +4871,7 @@
   },
   {
     "Name": "Middle Level Bill 2016-17 to 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1928",
     "Subscriptions": "2,187",
     "Visibility": "Listed",
@@ -4393,6 +4881,7 @@
   },
   {
     "Name": "Missing Persons Guardianship Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1828",
     "Subscriptions": "2,859",
     "Visibility": "Listed",
@@ -4402,6 +4891,7 @@
   },
   {
     "Name": "Mobile Homes and Park Homes Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2112",
     "Subscriptions": 702,
     "Visibility": "Listed",
@@ -4411,6 +4901,7 @@
   },
   {
     "Name": "Mobile Telecommunications Network Coverage (Contractual Obligations) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1740",
     "Subscriptions": "3,301",
     "Visibility": "Listed",
@@ -4420,6 +4911,7 @@
   },
   {
     "Name": "Modern Slavery (Transparency in Supply Chains) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1779",
     "Subscriptions": "3,333",
     "Visibility": "Listed",
@@ -4429,6 +4921,7 @@
   },
   {
     "Name": "Modern Slavery (Transparency in Supply Chains) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2051",
     "Subscriptions": "1,277",
     "Visibility": "Listed",
@@ -4438,6 +4931,7 @@
   },
   {
     "Name": "Modern Slavery (Victim Support) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1993",
     "Subscriptions": "1,387",
     "Visibility": "Listed",
@@ -4447,6 +4941,7 @@
   },
   {
     "Name": "Multinational Enterprises (Financial Transparency) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1757",
     "Subscriptions": "3,070",
     "Visibility": "Listed",
@@ -4456,6 +4951,7 @@
   },
   {
     "Name": "Mutual Guarantee Societies Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1944",
     "Subscriptions": "2,024",
     "Visibility": "Listed",
@@ -4465,6 +4961,7 @@
   },
   {
     "Name": "Mutualisation of the Royal Bank of Scotland Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1939",
     "Subscriptions": "2,120",
     "Visibility": "Listed",
@@ -4474,6 +4971,7 @@
   },
   {
     "Name": "National Citizen Service Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1905",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -4483,6 +4981,7 @@
   },
   {
     "Name": "National Health Service (Co-Funding and Co-Payment) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2088",
     "Subscriptions": 726,
     "Visibility": "Listed",
@@ -4492,6 +4991,7 @@
   },
   {
     "Name": "National Health Service and Social Care (Commission) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1732",
     "Subscriptions": "3,678",
     "Visibility": "Listed",
@@ -4501,6 +5001,7 @@
   },
   {
     "Name": "National Health Service Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1663",
     "Subscriptions": "4,553",
     "Visibility": "Listed",
@@ -4510,6 +5011,7 @@
   },
   {
     "Name": "National Health Service Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1881",
     "Subscriptions": "3,000",
     "Visibility": "Listed",
@@ -4519,6 +5021,7 @@
   },
   {
     "Name": "National Health Service Provision (Local Consultation) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1915",
     "Subscriptions": "2,459",
     "Visibility": "Listed",
@@ -4528,6 +5031,7 @@
   },
   {
     "Name": "National Health Service Staff (Reporting and Registration) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1910",
     "Subscriptions": "2,430",
     "Visibility": "Listed",
@@ -4537,6 +5041,7 @@
   },
   {
     "Name": "National Insurance Contributions (Rate Ceilings) Act 2015 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1680",
     "Subscriptions": 66,
     "Visibility": "Unlisted",
@@ -4546,6 +5051,7 @@
   },
   {
     "Name": "National Living Wage (Extension to Young People) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2070",
     "Subscriptions": "1,175",
     "Visibility": "Listed",
@@ -4555,6 +5061,7 @@
   },
   {
     "Name": "National Minimum Wage (Workplace Internships) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1839",
     "Subscriptions": "2,936",
     "Visibility": "Listed",
@@ -4564,6 +5071,7 @@
   },
   {
     "Name": "Natural Environment Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1692",
     "Subscriptions": "4,002",
     "Visibility": "Listed",
@@ -4573,6 +5081,7 @@
   },
   {
     "Name": "Negligence and Damages Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1701",
     "Subscriptions": "3,774",
     "Visibility": "Listed",
@@ -4582,6 +5091,7 @@
   },
   {
     "Name": "Neighbourhood Planning Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1889",
     "Subscriptions": 17,
     "Visibility": "Unlisted",
@@ -4591,6 +5101,7 @@
   },
   {
     "Name": "NERC Act 2006 Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1459",
     "Subscriptions": "3,551",
     "Visibility": "Listed",
@@ -4600,6 +5111,7 @@
   },
   {
     "Name": "Network Rail (Scotland) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1973",
     "Subscriptions": "1,680",
     "Visibility": "Listed",
@@ -4609,6 +5121,7 @@
   },
   {
     "Name": "New Members of the House of Lords",
+    "Description": "",
     "Code": "UKPARLIAMENT_1449",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -4618,6 +5131,7 @@
   },
   {
     "Name": "New POSTnotes",
+    "Description": "",
     "Code": "UKPARLIAMENT_1480",
     "Subscriptions": 0,
     "Visibility": "Restricted",
@@ -4627,6 +5141,7 @@
   },
   {
     "Name": "New Southgate Cemetery Act 2017 2015-16 to 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1719",
     "Subscriptions": "3,293",
     "Visibility": "Unlisted",
@@ -4636,6 +5151,7 @@
   },
   {
     "Name": "News Commons Comms",
+    "Description": "",
     "Code": "UKPARLIAMENT_1410",
     "Subscriptions": 1,
     "Visibility": "Restricted",
@@ -4645,6 +5161,7 @@
   },
   {
     "Name": "News from the Library",
+    "Description": "",
     "Code": "UKPARLIAMENT_1289",
     "Subscriptions": 2,
     "Visibility": "Restricted",
@@ -4654,6 +5171,7 @@
   },
   {
     "Name": "NHS (Charitable Trusts Etc) Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1635",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -4663,6 +5181,7 @@
   },
   {
     "Name": "NHS Sustainability Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1414",
     "Subscriptions": "4,261",
     "Visibility": "Listed",
@@ -4672,6 +5191,7 @@
   },
   {
     "Name": "No Fault Divorce Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1702",
     "Subscriptions": "3,823",
     "Visibility": "Listed",
@@ -4681,6 +5201,7 @@
   },
   {
     "Name": "North Northamptonshire (Urgent Care Facilities) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2149",
     "Subscriptions": 676,
     "Visibility": "Listed",
@@ -4690,6 +5211,7 @@
   },
   {
     "Name": "Northamptonshire Clinical Commissioning Groups (Merger) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2150",
     "Subscriptions": 677,
     "Visibility": "Listed",
@@ -4699,6 +5221,7 @@
   },
   {
     "Name": "Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1984",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -4708,6 +5231,7 @@
   },
   {
     "Name": "Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1744",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -4717,6 +5241,7 @@
   },
   {
     "Name": "Northern Ireland (Welfare Reform) Act 2015 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1717",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -4726,6 +5251,7 @@
   },
   {
     "Name": "Northern Ireland Affairs Committee (Commons)",
+    "Description": "",
     "Code": "UKPARLIAMENT_169",
     "Subscriptions": "4,792",
     "Visibility": "Listed",
@@ -4735,6 +5261,7 @@
   },
   {
     "Name": "Northern Ireland Budget Act 2017 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2174",
     "Subscriptions": 83,
     "Visibility": "Unlisted",
@@ -4744,6 +5271,7 @@
   },
   {
     "Name": "Nuclear Safeguards Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2160",
     "Subscriptions": 497,
     "Visibility": "Listed",
@@ -4753,6 +5281,7 @@
   },
   {
     "Name": "Off-patent Drugs Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1638",
     "Subscriptions": "4,184",
     "Visibility": "Listed",
@@ -4762,6 +5291,7 @@
   },
   {
     "Name": "Off-Shore Wind Farm Subsidies (Restriction) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1673",
     "Subscriptions": 216,
     "Visibility": "Listed",
@@ -4771,6 +5301,7 @@
   },
   {
     "Name": "Ofsted Inspections (Schools' Rights of Challenge) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1743",
     "Subscriptions": "3,317",
     "Visibility": "Listed",
@@ -4780,6 +5311,7 @@
   },
   {
     "Name": "Olympic and Paralympic Legacy Select Committee (Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_221",
     "Subscriptions": "4,021",
     "Visibility": "Listed",
@@ -4789,6 +5321,7 @@
   },
   {
     "Name": "On-demand Audiovisual Services (Accessibility for People with Disabilities affecting Hearing or Sight or both) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1642",
     "Subscriptions": "4,033",
     "Visibility": "Listed",
@@ -4798,6 +5331,7 @@
   },
   {
     "Name": "Online Privacy Protection  Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1808",
     "Subscriptions": "3,091",
     "Visibility": "Listed",
@@ -4807,6 +5341,7 @@
   },
   {
     "Name": "Online Safety Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1579",
     "Subscriptions": "4,484",
     "Visibility": "Listed",
@@ -4816,6 +5351,7 @@
   },
   {
     "Name": "Online Safety Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1805",
     "Subscriptions": "3,099",
     "Visibility": "Listed",
@@ -4825,6 +5361,7 @@
   },
   {
     "Name": "Open Skies Agreement (Membership) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2010",
     "Subscriptions": "1,233",
     "Visibility": "Listed",
@@ -4834,6 +5371,7 @@
   },
   {
     "Name": "Opticians Act 1989 (Amendment)  Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1814",
     "Subscriptions": "2,829",
     "Visibility": "Listed",
@@ -4843,6 +5381,7 @@
   },
   {
     "Name": "Opticians Act 1989 (Amendment) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2035",
     "Subscriptions": "1,151",
     "Visibility": "Listed",
@@ -4852,6 +5391,7 @@
   },
   {
     "Name": "Organ Donation (Deemed Consent) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1947",
     "Subscriptions": "2,051",
     "Visibility": "Listed",
@@ -4861,6 +5401,7 @@
   },
   {
     "Name": "Organ Donation (Deemed Consent) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2071",
     "Subscriptions": "1,141",
     "Visibility": "Listed",
@@ -4870,6 +5411,7 @@
   },
   {
     "Name": "Organ Donors (Leave) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1926",
     "Subscriptions": "2,245",
     "Visibility": "Listed",
@@ -4879,6 +5421,7 @@
   },
   {
     "Name": "Ovarian Cancer (Information) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1654",
     "Subscriptions": "4,046",
     "Visibility": "Listed",
@@ -4888,6 +5431,7 @@
   },
   {
     "Name": "Ovarian Cancer (Public Awareness) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2144",
     "Subscriptions": 691,
     "Visibility": "Listed",
@@ -4897,6 +5441,7 @@
   },
   {
     "Name": "Overseas Electors  Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2075",
     "Subscriptions": "1,137",
     "Visibility": "Listed",
@@ -4906,6 +5451,7 @@
   },
   {
     "Name": "Overseas Voters Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1669",
     "Subscriptions": "4,025",
     "Visibility": "Listed",
@@ -4915,6 +5461,7 @@
   },
   {
     "Name": "Parental Bereavement (Leave and Pay) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2073",
     "Subscriptions": "1,201",
     "Visibility": "Listed",
@@ -4924,6 +5471,7 @@
   },
   {
     "Name": "Parental Bereavement Leave (Statutory Entitlement) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1893",
     "Subscriptions": "2,563",
     "Visibility": "Listed",
@@ -4933,6 +5481,7 @@
   },
   {
     "Name": "Parish Council Governance (Principles of Public Life) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1980",
     "Subscriptions": "1,534",
     "Visibility": "Listed",
@@ -4942,6 +5491,7 @@
   },
   {
     "Name": "Parking (Code of Practice) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2076",
     "Subscriptions": "1,217",
     "Visibility": "Listed",
@@ -4951,6 +5501,7 @@
   },
   {
     "Name": "Parking Places (Variation of Charges) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1850",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -4960,6 +5511,7 @@
   },
   {
     "Name": "parks",
+    "Description": "",
     "Code": "UKPARLIAMENT_1438",
     "Subscriptions": "4,541",
     "Visibility": "Listed",
@@ -4969,6 +5521,7 @@
   },
   {
     "Name": "Parks and Playing Fields in Public Ownership (Protection from Sale) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1679",
     "Subscriptions": 216,
     "Visibility": "Listed",
@@ -4978,6 +5531,7 @@
   },
   {
     "Name": "parks1",
+    "Description": "",
     "Code": "UKPARLIAMENT_1439",
     "Subscriptions": "3,493",
     "Visibility": "Listed",
@@ -4987,6 +5541,7 @@
   },
   {
     "Name": "Parliament on Flickr",
+    "Description": "The latest updates from UK Parliament on Flickr",
     "Code": "UKPARLIAMENT_117",
     "Subscriptions": "3,675",
     "Visibility": "Listed",
@@ -4996,6 +5551,7 @@
   },
   {
     "Name": "Parliament on Twitter",
+    "Description": "Tweets from UK Parliament",
     "Code": "UKPARLIAMENT_115",
     "Subscriptions": "4,842",
     "Visibility": "Listed",
@@ -5005,6 +5561,7 @@
   },
   {
     "Name": "Parliament Week Partner Updates",
+    "Description": "",
     "Code": "UKPARLIAMENT_207",
     "Subscriptions": 620,
     "Visibility": "Listed",
@@ -5014,6 +5571,7 @@
   },
   {
     "Name": "Parliament Week test group",
+    "Description": "",
     "Code": "UKPARLIAMENT_1377",
     "Subscriptions": 5,
     "Visibility": "Unlisted",
@@ -5022,8 +5580,8 @@
     "Autosend": "No"
   },
   {
-    "Name": "Parliament Week Updates",
-    "Description": "",
+    "Name": "Parliament Week newsletter",
+    "Description": "A newsletter letting you know how you can get involved in UK Parliament’s activities.",
     "Code": "UKPARLIAMENT_203",
     "Subscriptions": "14,260",
     "Visibility": "Listed",
@@ -5033,6 +5591,7 @@
   },
   {
     "Name": "Parliamentary Allowances (Restriction) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2140",
     "Subscriptions": 681,
     "Visibility": "Listed",
@@ -5042,6 +5601,7 @@
   },
   {
     "Name": "Parliamentary Commissioner for Standards Allegations",
+    "Description": "Updates when an MP has broken the Code of Conduct.",
     "Code": "UKPARLIAMENT_1360",
     "Subscriptions": "4,030",
     "Visibility": "Listed",
@@ -5051,6 +5611,7 @@
   },
   {
     "Name": "Parliamentary Constituencies (Amendment) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1841",
     "Subscriptions": "2,839",
     "Visibility": "Listed",
@@ -5060,6 +5621,7 @@
   },
   {
     "Name": "Parliamentary Constituencies (Amendment) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2061",
     "Subscriptions": "1,157",
     "Visibility": "Listed",
@@ -5069,6 +5631,7 @@
   },
   {
     "Name": "Parliamentary Digital Service jobs",
+    "Description": "Job opportunities from the Parliamentary Digital Service.",
     "Code": "UKPARLIAMENT_2",
     "Subscriptions": "58,265",
     "Visibility": "Listed",
@@ -5078,6 +5641,7 @@
   },
   {
     "Name": "Parliamentary Office of Science and Technology - What's New",
+    "Description": "",
     "Code": "UKPARLIAMENT_13",
     "Subscriptions": "2,761",
     "Visibility": "Unlisted",
@@ -5086,7 +5650,8 @@
     "Autosend": "No"
   },
   {
-    "Name": "Parliament’s Education Service newsletter",
+    "Name": "Parliament's Education Service newsletter",
+    "Description": "A monthly newsletter for teachers about our work.",
     "Code": "UKPARLIAMENT_107",
     "Subscriptions": "33,092",
     "Visibility": "Listed",
@@ -5095,7 +5660,8 @@
     "Autosend": "No"
   },
   {
-    "Name": "Parliament’s YouTube channel",
+    "Name": "Parliament's YouTube channel",
+    "Description": "The latest updates from UK Parliament on YouTube.",
     "Code": "UKPARLIAMENT_114",
     "Subscriptions": "4,599",
     "Visibility": "Listed",
@@ -5105,6 +5671,7 @@
   },
   {
     "Name": "ParliOUT News & Update",
+    "Description": "",
     "Code": "UKPARLIAMENT_1397",
     "Subscriptions": 0,
     "Visibility": "Restricted",
@@ -5114,6 +5681,7 @@
   },
   {
     "Name": "ParliReach",
+    "Description": "",
     "Code": "UKPARLIAMENT_1440",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -5123,6 +5691,7 @@
   },
   {
     "Name": "Parthenon Sculptures (Return to Greece) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1879",
     "Subscriptions": "2,745",
     "Visibility": "Listed",
@@ -5132,6 +5701,7 @@
   },
   {
     "Name": "Pavement Parking (Protection of Vulnerable Pedestrians) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1640",
     "Subscriptions": "4,431",
     "Visibility": "Listed",
@@ -5141,6 +5711,7 @@
   },
   {
     "Name": "Pension Schemes Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1912",
     "Subscriptions": 15,
     "Visibility": "Unlisted",
@@ -5150,6 +5721,7 @@
   },
   {
     "Name": "Pensions (Review of Women's Arrangements) (No. 2) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2156",
     "Subscriptions": 792,
     "Visibility": "Listed",
@@ -5158,7 +5730,8 @@
     "Autosend": "No"
   },
   {
-    "Name": "Pensions (Review of Women’s Arrangements) Bill 2017-19",
+    "Name": "Pensions (Review of Women's Arrangements) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2147",
     "Subscriptions": 768,
     "Visibility": "Listed",
@@ -5168,6 +5741,7 @@
   },
   {
     "Name": "Perinatal Mental Illness (NHS Family Services) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1704",
     "Subscriptions": "3,718",
     "Visibility": "Listed",
@@ -5177,6 +5751,7 @@
   },
   {
     "Name": "Perinatal Mental Illness (NHS Family Services) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1886",
     "Subscriptions": "2,748",
     "Visibility": "Listed",
@@ -5186,6 +5761,7 @@
   },
   {
     "Name": "Personal, Social, Health and Economic Education (Statutory Requirement) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1686",
     "Subscriptions": 221,
     "Visibility": "Listed",
@@ -5195,6 +5771,7 @@
   },
   {
     "Name": "Personal, Social, Health and Economic Education (Statutory Requirement) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1873",
     "Subscriptions": "2,923",
     "Visibility": "Listed",
@@ -5204,6 +5781,7 @@
   },
   {
     "Name": "Petitions Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1411",
     "Subscriptions": "4,164",
     "Visibility": "Listed",
@@ -5213,6 +5791,7 @@
   },
   {
     "Name": "Physician Associates (Regulation) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2069",
     "Subscriptions": "1,128",
     "Visibility": "Listed",
@@ -5222,6 +5801,7 @@
   },
   {
     "Name": "Pilot (Licensing) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2146",
     "Subscriptions": 672,
     "Visibility": "Listed",
@@ -5231,6 +5811,7 @@
   },
   {
     "Name": "Planning (Listed Buildings and Conservation Areas) Act 1990 (Amendment) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1710",
     "Subscriptions": "3,865",
     "Visibility": "Listed",
@@ -5240,6 +5821,7 @@
   },
   {
     "Name": "Planning (Subterranean Development) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1593",
     "Subscriptions": "4,286",
     "Visibility": "Listed",
@@ -5249,6 +5831,7 @@
   },
   {
     "Name": "Policing and Crime Act 2017 2015-16 to 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1745",
     "Subscriptions": 16,
     "Visibility": "Unlisted",
@@ -5258,6 +5841,7 @@
   },
   {
     "Name": "Policing Resources Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2033",
     "Subscriptions": "1,190",
     "Visibility": "Listed",
@@ -5267,6 +5851,7 @@
   },
   {
     "Name": "Political Parties (Funding and Expenditure) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1804",
     "Subscriptions": "2,942",
     "Visibility": "Listed",
@@ -5276,6 +5861,7 @@
   },
   {
     "Name": "Political Polling and Digital Media Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1458",
     "Subscriptions": "3,541",
     "Visibility": "Listed",
@@ -5285,6 +5871,7 @@
   },
   {
     "Name": "Polling Day (Saturday) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1619",
     "Subscriptions": "4,080",
     "Visibility": "Listed",
@@ -5294,6 +5881,7 @@
   },
   {
     "Name": "POSTbriefs",
+    "Description": "The latest briefing papers by the Parliamentary Office of Science and Technology.",
     "Code": "UKPARLIAMENT_1355",
     "Subscriptions": "7,047",
     "Visibility": "Listed",
@@ -5303,6 +5891,7 @@
   },
   {
     "Name": "POSTnotes",
+    "Description": "The latest short notes by the Parliamentary Office of Science and Technology.",
     "Code": "UKPARLIAMENT_192",
     "Subscriptions": "8,170",
     "Visibility": "Listed",
@@ -5312,6 +5901,7 @@
   },
   {
     "Name": "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1954",
     "Subscriptions": 19,
     "Visibility": "Unlisted",
@@ -5321,6 +5911,7 @@
   },
   {
     "Name": "Prime Minister (Accountability to House of Commons) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2130",
     "Subscriptions": 699,
     "Visibility": "Listed",
@@ -5330,6 +5921,7 @@
   },
   {
     "Name": "Prime Minister (Temporary Appointment) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1658",
     "Subscriptions": "4,065",
     "Visibility": "Listed",
@@ -5339,6 +5931,7 @@
   },
   {
     "Name": "Prime Minister (Temporary Replacement) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2127",
     "Subscriptions": 692,
     "Visibility": "Listed",
@@ -5348,6 +5941,7 @@
   },
   {
     "Name": "Prime Minister's Questions",
+    "Description": "A video and written update on what was discussed at Prime Minister’s Questions.",
     "Code": "UKPARLIAMENT_1285",
     "Subscriptions": "12,062",
     "Visibility": "Listed",
@@ -5357,6 +5951,7 @@
   },
   {
     "Name": "Principal Local Authorities (Grounds for Abolition) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2090",
     "Subscriptions": 697,
     "Visibility": "Listed",
@@ -5366,6 +5961,7 @@
   },
   {
     "Name": "Prisons (Interference with Wireless Telegraphy) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2060",
     "Subscriptions": "1,114",
     "Visibility": "Listed",
@@ -5375,6 +5971,7 @@
   },
   {
     "Name": "Prisons and Courts Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1962",
     "Subscriptions": "2,102",
     "Visibility": "Listed",
@@ -5384,6 +5981,7 @@
   },
   {
     "Name": "Private Bills before Parliament",
+    "Description": "",
     "Code": "UKPARLIAMENT_4",
     "Subscriptions": "5,949",
     "Visibility": "Listed",
@@ -5393,6 +5991,7 @@
   },
   {
     "Name": "Privileges and Conduct (Committee for) Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_131",
     "Subscriptions": "4,200",
     "Visibility": "Listed",
@@ -5402,6 +6001,7 @@
   },
   {
     "Name": "Privileges Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1333",
     "Subscriptions": "4,139",
     "Visibility": "Listed",
@@ -5411,6 +6011,7 @@
   },
   {
     "Name": "Procedure Committee (Commons)",
+    "Description": "",
     "Code": "UKPARLIAMENT_171",
     "Subscriptions": "4,428",
     "Visibility": "Listed",
@@ -5420,6 +6021,7 @@
   },
   {
     "Name": "Procedure Committee (Lords) Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_132",
     "Subscriptions": 7,
     "Visibility": "Listed",
@@ -5429,6 +6031,7 @@
   },
   {
     "Name": "Profit-Sharing and Company Governance (Employees' Participation) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1738",
     "Subscriptions": "3,265",
     "Visibility": "Listed",
@@ -5438,6 +6041,7 @@
   },
   {
     "Name": "Promotion of Israeli-Palestinian Peace (United Kingdom Participation) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1949",
     "Subscriptions": "2,022",
     "Visibility": "Listed",
@@ -5447,6 +6051,7 @@
   },
   {
     "Name": "Property Boundaries (Resolution of Disputes) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1590",
     "Subscriptions": "4,260",
     "Visibility": "Listed",
@@ -5456,6 +6061,7 @@
   },
   {
     "Name": "Property Boundaries (Resolution of Disputes) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1794",
     "Subscriptions": "3,042",
     "Visibility": "Listed",
@@ -5465,6 +6071,7 @@
   },
   {
     "Name": "Property Boundaries (Resolution of Disputes) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2052",
     "Subscriptions": "1,178",
     "Visibility": "Listed",
@@ -5474,6 +6081,7 @@
   },
   {
     "Name": "Property Ownership in London (Registration) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1765",
     "Subscriptions": "3,012",
     "Visibility": "Listed",
@@ -5483,6 +6091,7 @@
   },
   {
     "Name": "Protection of Family Homes (Enforcement and Permitted Development) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1718",
     "Subscriptions": "3,546",
     "Visibility": "Listed",
@@ -5492,6 +6101,7 @@
   },
   {
     "Name": "Protection of Family Homes (Enforcement and Permitted Development) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1872",
     "Subscriptions": "2,854",
     "Visibility": "Listed",
@@ -5501,6 +6111,7 @@
   },
   {
     "Name": "Providers of Health and Social Care (Schemes under Section 71 of the National Health Service Act 2006) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1870",
     "Subscriptions": "2,908",
     "Visibility": "Listed",
@@ -5510,6 +6121,7 @@
   },
   {
     "Name": "Psychoactive Substances Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1585",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -5519,6 +6131,7 @@
   },
   {
     "Name": "Public Accounts Commission",
+    "Description": "",
     "Code": "UKPARLIAMENT_1295",
     "Subscriptions": "4,438",
     "Visibility": "Listed",
@@ -5528,6 +6141,7 @@
   },
   {
     "Name": "Public Accounts Committee (Commons)",
+    "Description": "",
     "Code": "UKPARLIAMENT_172",
     "Subscriptions": "6,929",
     "Visibility": "Listed",
@@ -5537,6 +6151,7 @@
   },
   {
     "Name": "Public Administration and Constitutional Affairs Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_173",
     "Subscriptions": "5,422",
     "Visibility": "Listed",
@@ -5546,6 +6161,7 @@
   },
   {
     "Name": "Public Advocate Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1602",
     "Subscriptions": "4,080",
     "Visibility": "Listed",
@@ -5555,6 +6171,7 @@
   },
   {
     "Name": "Public Authority (Accountability) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1978",
     "Subscriptions": "1,637",
     "Visibility": "Listed",
@@ -5564,6 +6181,7 @@
   },
   {
     "Name": "Public Bills before Parliament",
+    "Description": "",
     "Code": "UKPARLIAMENT_3",
     "Subscriptions": "11,547",
     "Visibility": "Listed",
@@ -5573,6 +6191,7 @@
   },
   {
     "Name": "Public Nuisance from Wind Farms (Mandatory Liability Cover) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1689",
     "Subscriptions": 216,
     "Visibility": "Listed",
@@ -5582,6 +6201,7 @@
   },
   {
     "Name": "Public Sector Exit Payments (Limitation) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2079",
     "Subscriptions": 745,
     "Visibility": "Listed",
@@ -5591,6 +6211,7 @@
   },
   {
     "Name": "Public Service Broadcasters (Privatisation) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2084",
     "Subscriptions": 685,
     "Visibility": "Listed",
@@ -5600,6 +6221,7 @@
   },
   {
     "Name": "Public Services (Availability) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2105",
     "Subscriptions": 710,
     "Visibility": "Listed",
@@ -5609,6 +6231,7 @@
   },
   {
     "Name": "Public Services (Ownership and User Involvement) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1661",
     "Subscriptions": "4,175",
     "Visibility": "Listed",
@@ -5618,6 +6241,7 @@
   },
   {
     "Name": "Queen's Sapphire Jubilee Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1968",
     "Subscriptions": "1,823",
     "Visibility": "Listed",
@@ -5627,6 +6251,7 @@
   },
   {
     "Name": "Questions for Oral or Written Answer (The \"Question Book\")",
+    "Description": "Updates on questions that have been discussed in the Commons.",
     "Code": "UKPARLIAMENT_20",
     "Subscriptions": "6,845",
     "Visibility": "Listed",
@@ -5636,6 +6261,7 @@
   },
   {
     "Name": "Rail Ombudsman Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1943",
     "Subscriptions": "2,108",
     "Visibility": "Listed",
@@ -5645,6 +6271,7 @@
   },
   {
     "Name": "Railways Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1660",
     "Subscriptions": "4,134",
     "Visibility": "Listed",
@@ -5654,6 +6281,7 @@
   },
   {
     "Name": "Railways Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1875",
     "Subscriptions": "2,822",
     "Visibility": "Listed",
@@ -5662,7 +6290,8 @@
     "Autosend": "Yes"
   },
   {
-    "Name": "Read yesterday’s House of Lords debates",
+    "Name": "Read yesterday's House of Lords debates",
+    "Description": "Information on what was discussed yesterday in the House of Lords.",
     "Code": "UKPARLIAMENT_53",
     "Subscriptions": "6,213",
     "Visibility": "Listed",
@@ -5672,6 +6301,7 @@
   },
   {
     "Name": "Recent Select Committee publications",
+    "Description": "Updates about publications from Select Committees.",
     "Code": "UKPARLIAMENT_99",
     "Subscriptions": "13,432",
     "Visibility": "Listed",
@@ -5681,6 +6311,7 @@
   },
   {
     "Name": "Recess dates for Commons",
+    "Description": "Dates that the House of Commons goes into recess.",
     "Code": "UKPARLIAMENT_24",
     "Subscriptions": "12,438",
     "Visibility": "Listed",
@@ -5690,6 +6321,7 @@
   },
   {
     "Name": "Recess dates for Lords",
+    "Description": "Dates that the House of Lords goes into recess.",
     "Code": "UKPARLIAMENT_1373",
     "Subscriptions": "5,465",
     "Visibility": "Listed",
@@ -5699,6 +6331,7 @@
   },
   {
     "Name": "Referendum (Local Authority Governance) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1610",
     "Subscriptions": "4,286",
     "Visibility": "Listed",
@@ -5708,6 +6341,7 @@
   },
   {
     "Name": "Referendums (Franchise) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1617",
     "Subscriptions": "4,091",
     "Visibility": "Listed",
@@ -5717,6 +6351,7 @@
   },
   {
     "Name": "Refreshment Committee Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_133",
     "Subscriptions": "2,378",
     "Visibility": "Unlisted",
@@ -5726,6 +6361,7 @@
   },
   {
     "Name": "Refugees (Family Reunion) (No. 2) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2072",
     "Subscriptions": "1,143",
     "Visibility": "Listed",
@@ -5735,6 +6371,7 @@
   },
   {
     "Name": "Refugees (Family Reunion) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2001",
     "Subscriptions": "1,300",
     "Visibility": "Listed",
@@ -5744,6 +6381,7 @@
   },
   {
     "Name": "Register of All-Party Groups",
+    "Description": "Information about the current informal, cross-party groups.",
     "Code": "UKPARLIAMENT_123",
     "Subscriptions": "5,799",
     "Visibility": "Listed",
@@ -5753,6 +6391,7 @@
   },
   {
     "Name": "Register of Arms Brokers Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1780",
     "Subscriptions": "2,908",
     "Visibility": "Listed",
@@ -5762,6 +6401,7 @@
   },
   {
     "Name": "Register of Lords' Interests",
+    "Description": "Information on the financial interests of a Member of the House of Lords.",
     "Code": "UKPARLIAMENT_101",
     "Subscriptions": "5,166",
     "Visibility": "Listed",
@@ -5771,6 +6411,7 @@
   },
   {
     "Name": "Register of Members' Interests (Commons)",
+    "Description": "Information on the financial interests of an MP.",
     "Code": "UKPARLIAMENT_100",
     "Subscriptions": "5,894",
     "Visibility": "Listed",
@@ -5780,6 +6421,7 @@
   },
   {
     "Name": "Registration of Marriage (No. 2) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2175",
     "Subscriptions": 230,
     "Visibility": "Listed",
@@ -5789,6 +6431,7 @@
   },
   {
     "Name": "Registration of Marriage Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1846",
     "Subscriptions": "2,854",
     "Visibility": "Listed",
@@ -5798,6 +6441,7 @@
   },
   {
     "Name": "Registration of Marriage Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2008",
     "Subscriptions": "1,250",
     "Visibility": "Listed",
@@ -5807,6 +6451,7 @@
   },
   {
     "Name": "Regulation of Enforcement Agents (Collection of Council Tax Arrears) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1709",
     "Subscriptions": "3,609",
     "Visibility": "Listed",
@@ -5816,6 +6461,7 @@
   },
   {
     "Name": "Regulation of Health and Social Care Professions Etc. Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1630",
     "Subscriptions": "4,369",
     "Visibility": "Listed",
@@ -5825,6 +6471,7 @@
   },
   {
     "Name": "Regulation of Health and Social Care Professions Etc. Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1799",
     "Subscriptions": "3,063",
     "Visibility": "Listed",
@@ -5834,6 +6481,7 @@
   },
   {
     "Name": "Regulation of Political Opinion Polling Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1582",
     "Subscriptions": "4,165",
     "Visibility": "Listed",
@@ -5843,6 +6491,7 @@
   },
   {
     "Name": "Regulatory Reform Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_174",
     "Subscriptions": "5,186",
     "Visibility": "Listed",
@@ -5852,6 +6501,7 @@
   },
   {
     "Name": "Rehabilitation of Offenders (Amendment) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1795",
     "Subscriptions": "3,024",
     "Visibility": "Listed",
@@ -5861,6 +6511,7 @@
   },
   {
     "Name": "Rehabilitation of Offenders Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1626",
     "Subscriptions": "4,327",
     "Visibility": "Listed",
@@ -5869,7 +6520,8 @@
     "Autosend": "Yes"
   },
   {
-    "Name": "Renters’ Rights Bill [HL] 2016-17",
+    "Name": "Renters' Rights Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1781",
     "Subscriptions": "3,284",
     "Visibility": "Listed",
@@ -5879,6 +6531,7 @@
   },
   {
     "Name": "Representation of the People (Voter Proof of Identity) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1927",
     "Subscriptions": "2,242",
     "Visibility": "Listed",
@@ -5888,6 +6541,7 @@
   },
   {
     "Name": "Representation of the People (Young People's Enfranchisement and Education) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2074",
     "Subscriptions": "1,176",
     "Visibility": "Listed",
@@ -5897,6 +6551,7 @@
   },
   {
     "Name": "Representation of the People (Young People's Enfranchisement) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2068",
     "Subscriptions": "1,155",
     "Visibility": "Listed",
@@ -5905,7 +6560,8 @@
     "Autosend": "No"
   },
   {
-    "Name": "Representation of the People (Young Persons’ Enfranchisement and Education) Bill 2015-16",
+    "Name": "Representation of the People (Young Persons' Enfranchisement and Education) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1646",
     "Subscriptions": "4,178",
     "Visibility": "Listed",
@@ -5915,6 +6571,7 @@
   },
   {
     "Name": "Reproductive Health (Access to Terminations) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1971",
     "Subscriptions": "1,752",
     "Visibility": "Listed",
@@ -5924,6 +6581,7 @@
   },
   {
     "Name": "Retired members of the House of Lords",
+    "Description": "",
     "Code": "UKPARLIAMENT_1452",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -5933,6 +6591,7 @@
   },
   {
     "Name": "Richmond Burgage Pastures Bill [HL] 2016-17 to 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1929",
     "Subscriptions": "2,165",
     "Visibility": "Listed",
@@ -5942,6 +6601,7 @@
   },
   {
     "Name": "Right to Die at Home Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1618",
     "Subscriptions": "4,391",
     "Visibility": "Listed",
@@ -5951,6 +6611,7 @@
   },
   {
     "Name": "Right to Die at Home Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1801",
     "Subscriptions": "3,029",
     "Visibility": "Listed",
@@ -5960,6 +6621,7 @@
   },
   {
     "Name": "Right to Die at Home Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2038",
     "Subscriptions": "1,234",
     "Visibility": "Listed",
@@ -5969,6 +6631,7 @@
   },
   {
     "Name": "Riot Compensation Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1637",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -5978,6 +6641,7 @@
   },
   {
     "Name": "Road Traffic Act 1988 (Alcohol Limits) (Amendment) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1603",
     "Subscriptions": "4,215",
     "Visibility": "Listed",
@@ -5987,6 +6651,7 @@
   },
   {
     "Name": "Road Traffic Offenders (Surrender of Driving Licences Etc) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1869",
     "Subscriptions": "2,794",
     "Visibility": "Listed",
@@ -5996,6 +6661,7 @@
   },
   {
     "Name": "Road Traffic Offenders (Surrender of Driving Licences Etc) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2041",
     "Subscriptions": "1,176",
     "Visibility": "Listed",
@@ -6005,6 +6671,7 @@
   },
   {
     "Name": "Sanctions (Human Rights Abuse and Corruption) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2188",
     "Subscriptions": 48,
     "Visibility": "Listed",
@@ -6014,6 +6681,7 @@
   },
   {
     "Name": "Sanctions and Anti-Money Laundering Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2166",
     "Subscriptions": 527,
     "Visibility": "Listed",
@@ -6023,6 +6691,7 @@
   },
   {
     "Name": "Satellite Navigation (Updating Scheme) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1691",
     "Subscriptions": "3,817",
     "Visibility": "Listed",
@@ -6032,6 +6701,7 @@
   },
   {
     "Name": "Savings (Government Contributions) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1888",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -6041,6 +6711,7 @@
   },
   {
     "Name": "School Admissions (Special Educational Needs) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1919",
     "Subscriptions": "2,384",
     "Visibility": "Listed",
@@ -6050,6 +6721,7 @@
   },
   {
     "Name": "School Holidays (Meals and Activities) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2152",
     "Subscriptions": 714,
     "Visibility": "Listed",
@@ -6059,6 +6731,7 @@
   },
   {
     "Name": "Schools (Mental Health and Wellbeing) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2032",
     "Subscriptions": "1,268",
     "Visibility": "Listed",
@@ -6068,6 +6741,7 @@
   },
   {
     "Name": "Schools Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2099",
     "Subscriptions": 722,
     "Visibility": "Listed",
@@ -6077,6 +6751,7 @@
   },
   {
     "Name": "Science & Technology Select Committee (Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_64",
     "Subscriptions": "7,677",
     "Visibility": "Listed",
@@ -6086,6 +6761,7 @@
   },
   {
     "Name": "Science and Technology Committee (Commons) Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_175",
     "Subscriptions": "7,123",
     "Visibility": "Listed",
@@ -6095,6 +6771,7 @@
   },
   {
     "Name": "Science and Technology Sub-Committee I Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_137",
     "Subscriptions": "5,481",
     "Visibility": "Listed",
@@ -6104,6 +6781,7 @@
   },
   {
     "Name": "Scotland Act 1998 (Amendment) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1723",
     "Subscriptions": "3,515",
     "Visibility": "Listed",
@@ -6113,6 +6791,7 @@
   },
   {
     "Name": "Scotland Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1571",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -6122,6 +6801,7 @@
   },
   {
     "Name": "Scottish Affairs Committee Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_176",
     "Subscriptions": "5,205",
     "Visibility": "Listed",
@@ -6131,6 +6811,7 @@
   },
   {
     "Name": "Secondary Legislation Scrutiny Committee Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_74",
     "Subscriptions": "5,527",
     "Visibility": "Listed",
@@ -6140,6 +6821,7 @@
   },
   {
     "Name": "Select Committee on Charities",
+    "Description": "",
     "Code": "UKPARLIAMENT_1418",
     "Subscriptions": "3,891",
     "Visibility": "Listed",
@@ -6149,6 +6831,7 @@
   },
   {
     "Name": "Senior Judiciary Appointments (Disregard of Age of Candidates) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1967",
     "Subscriptions": "1,789",
     "Visibility": "Listed",
@@ -6158,6 +6841,7 @@
   },
   {
     "Name": "Service Animals (Offences) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2187",
     "Subscriptions": 53,
     "Visibility": "Listed",
@@ -6167,6 +6851,7 @@
   },
   {
     "Name": "Services Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1427",
     "Subscriptions": "3,598",
     "Visibility": "Listed",
@@ -6176,6 +6861,7 @@
   },
   {
     "Name": "Sexual Offences (Amendment) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1958",
     "Subscriptions": "1,972",
     "Visibility": "Listed",
@@ -6185,6 +6871,7 @@
   },
   {
     "Name": "Sexual Offences (Pardons Etc.) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1836",
     "Subscriptions": "2,874",
     "Visibility": "Listed",
@@ -6194,6 +6881,7 @@
   },
   {
     "Name": "Sexual Violence in Conflict Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1368",
     "Subscriptions": "3,814",
     "Visibility": "Unlisted",
@@ -6203,6 +6891,7 @@
   },
   {
     "Name": "Short and Holiday-Let Accommodation (Notification of Local Authorities) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1974",
     "Subscriptions": "1,671",
     "Visibility": "Listed",
@@ -6212,6 +6901,7 @@
   },
   {
     "Name": "Small and Medium Sized Co-operative Development Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1921",
     "Subscriptions": "2,289",
     "Visibility": "Listed",
@@ -6221,6 +6911,7 @@
   },
   {
     "Name": "Small Charitable Donations and Childcare Payments Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1895",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -6230,6 +6921,7 @@
   },
   {
     "Name": "Smart Meters Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2164",
     "Subscriptions": 464,
     "Visibility": "Listed",
@@ -6239,6 +6931,7 @@
   },
   {
     "Name": "Social Mobility Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1367",
     "Subscriptions": "3,953",
     "Visibility": "Unlisted",
@@ -6248,6 +6941,7 @@
   },
   {
     "Name": "Space Industry Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1996",
     "Subscriptions": "1,301",
     "Visibility": "Listed",
@@ -6257,6 +6951,7 @@
   },
   {
     "Name": "Speed Limits (England) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2119",
     "Subscriptions": 700,
     "Visibility": "Listed",
@@ -6266,6 +6961,7 @@
   },
   {
     "Name": "Speed Limits on Roads (Devolved Powers) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1716",
     "Subscriptions": "3,590",
     "Visibility": "Listed",
@@ -6275,6 +6971,7 @@
   },
   {
     "Name": "Stalking (Sentencing) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1909",
     "Subscriptions": "2,439",
     "Visibility": "Listed",
@@ -6284,6 +6981,7 @@
   },
   {
     "Name": "Stalking Protection Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2064",
     "Subscriptions": "1,155",
     "Visibility": "Listed",
@@ -6293,6 +6991,7 @@
   },
   {
     "Name": "Stamp Duty Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2116",
     "Subscriptions": 711,
     "Visibility": "Listed",
@@ -6302,6 +7001,7 @@
   },
   {
     "Name": "Standards Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1329",
     "Subscriptions": "4,300",
     "Visibility": "Listed",
@@ -6311,6 +7011,7 @@
   },
   {
     "Name": "Standing Orders (Private Bills) Committee Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_135",
     "Subscriptions": "4,207",
     "Visibility": "Listed",
@@ -6320,6 +7021,7 @@
   },
   {
     "Name": "Statutory Instruments Committee (Commons) Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_178",
     "Subscriptions": "4,624",
     "Visibility": "Listed",
@@ -6329,6 +7031,7 @@
   },
   {
     "Name": "Statutory Nuisance (Aircraft Noise) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1932",
     "Subscriptions": "2,204",
     "Visibility": "Listed",
@@ -6338,6 +7041,7 @@
   },
   {
     "Name": "Student Fees (Qualifying Persons) (England) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1627",
     "Subscriptions": "4,304",
     "Visibility": "Listed",
@@ -6347,6 +7051,7 @@
   },
   {
     "Name": "Student Loans (Debt Discharge) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2115",
     "Subscriptions": 715,
     "Visibility": "Listed",
@@ -6356,6 +7061,7 @@
   },
   {
     "Name": "Student Loans (Debt Interest) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2080",
     "Subscriptions": 715,
     "Visibility": "Listed",
@@ -6365,6 +7071,7 @@
   },
   {
     "Name": "Student Support (Non-Interest-Bearing Finance) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1798",
     "Subscriptions": "2,978",
     "Visibility": "Listed",
@@ -6374,6 +7081,7 @@
   },
   {
     "Name": "SU Messages",
+    "Description": "",
     "Code": "UKPARLIAMENT_1461",
     "Subscriptions": 0,
     "Visibility": "Unlisted",
@@ -6383,6 +7091,7 @@
   },
   {
     "Name": "Sub-Committee on Lords' Conduct",
+    "Description": "",
     "Code": "UKPARLIAMENT_145",
     "Subscriptions": 887,
     "Visibility": "Unlisted",
@@ -6392,6 +7101,7 @@
   },
   {
     "Name": "Sublet Property (Offences) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2113",
     "Subscriptions": 711,
     "Visibility": "Listed",
@@ -6401,6 +7111,7 @@
   },
   {
     "Name": "Succession to Peerages Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1596",
     "Subscriptions": "4,037",
     "Visibility": "Listed",
@@ -6410,6 +7121,7 @@
   },
   {
     "Name": "Succession to Peerages Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1809",
     "Subscriptions": "2,860",
     "Visibility": "Listed",
@@ -6419,6 +7131,7 @@
   },
   {
     "Name": "Succession to Peerages Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1994",
     "Subscriptions": "1,242",
     "Visibility": "Listed",
@@ -6428,6 +7141,7 @@
   },
   {
     "Name": "Sugar in Food and Drinks (Targets, Labelling and Advertising) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1706",
     "Subscriptions": "3,803",
     "Visibility": "Listed",
@@ -6437,6 +7151,7 @@
   },
   {
     "Name": "Sugar in Food and Drinks (Targets, Labelling and Advertising) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1904",
     "Subscriptions": "2,555",
     "Visibility": "Listed",
@@ -6446,6 +7161,7 @@
   },
   {
     "Name": "Summary Agendas and Orders of Business",
+    "Description": "Information on what the agenda for the House of Commons is that day.",
     "Code": "UKPARLIAMENT_17",
     "Subscriptions": "7,341",
     "Visibility": "Listed",
@@ -6455,6 +7171,7 @@
   },
   {
     "Name": "Supply and Appropriation (Anticipation and Adjustments) Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1751",
     "Subscriptions": 13,
     "Visibility": "Unlisted",
@@ -6464,6 +7181,7 @@
   },
   {
     "Name": "Supply and Appropriation (Anticipation and Adjustments) Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1964",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -6473,6 +7191,7 @@
   },
   {
     "Name": "Supply and Appropriation (Main Estimates) Act 2015 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1681",
     "Subscriptions": 214,
     "Visibility": "Listed",
@@ -6482,6 +7201,7 @@
   },
   {
     "Name": "Supply and Appropriation (Main Estimates) Act 2016 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1858",
     "Subscriptions": "2,466",
     "Visibility": "Unlisted",
@@ -6491,6 +7211,7 @@
   },
   {
     "Name": "Supply and Appropriation (Main Estimates) Act 2017 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2015",
     "Subscriptions": 887,
     "Visibility": "Unlisted",
@@ -6500,6 +7221,7 @@
   },
   {
     "Name": "Support to Exit Prostitution Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1827",
     "Subscriptions": "2,853",
     "Visibility": "Listed",
@@ -6509,6 +7231,7 @@
   },
   {
     "Name": "Survey Email",
+    "Description": "",
     "Code": "UKPARLIAMENT_1478",
     "Subscriptions": "30,183",
     "Visibility": "Restricted",
@@ -6518,6 +7241,7 @@
   },
   {
     "Name": "Tax Rates and Duties (Review) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2086",
     "Subscriptions": 706,
     "Visibility": "Listed",
@@ -6527,6 +7251,7 @@
   },
   {
     "Name": "Taxation (Cross-border Trade) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2180",
     "Subscriptions": 288,
     "Visibility": "Listed",
@@ -6536,6 +7261,7 @@
   },
   {
     "Name": "Taxi and Private Hire Vehicle Operators (Regulation) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1759",
     "Subscriptions": "3,132",
     "Visibility": "Listed",
@@ -6545,6 +7271,7 @@
   },
   {
     "Name": "Teacher Training (Special Educational Needs) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1813",
     "Subscriptions": "2,934",
     "Visibility": "Listed",
@@ -6554,6 +7281,7 @@
   },
   {
     "Name": "Technical and Further Education Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1916",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -6563,6 +7291,7 @@
   },
   {
     "Name": "Telecommunications Infrastructure (Relief from Non-Domestic Rates) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2014",
     "Subscriptions": "1,226",
     "Visibility": "Listed",
@@ -6572,6 +7301,7 @@
   },
   {
     "Name": "Terms of Withdrawal from EU (Referendum) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1878",
     "Subscriptions": "3,241",
     "Visibility": "Listed",
@@ -6581,6 +7311,7 @@
   },
   {
     "Name": "Terms of Withdrawal from EU (Referendum) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2154",
     "Subscriptions": 784,
     "Visibility": "Listed",
@@ -6590,6 +7321,7 @@
   },
   {
     "Name": "Terms of Withdrawal from the European Union (Referendum) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1976",
     "Subscriptions": "1,826",
     "Visibility": "Listed",
@@ -6599,6 +7331,7 @@
   },
   {
     "Name": "Test Education Service newsletter",
+    "Description": "",
     "Code": "UKPARLIAMENT_1374",
     "Subscriptions": 6,
     "Visibility": "Unlisted",
@@ -6608,6 +7341,7 @@
   },
   {
     "Name": "test email - Parliament Week partners",
+    "Description": "",
     "Code": "UKPARLIAMENT_110",
     "Subscriptions": 9,
     "Visibility": "Unlisted",
@@ -6617,6 +7351,7 @@
   },
   {
     "Name": "Test page watch schedule",
+    "Description": "",
     "Code": "UKPARLIAMENT_1400",
     "Subscriptions": 0,
     "Visibility": "Restricted",
@@ -6626,6 +7361,7 @@
   },
   {
     "Name": "The Annual Report",
+    "Description": "",
     "Code": "UKPARLIAMENT_57",
     "Subscriptions": "3,421",
     "Visibility": "Unlisted",
@@ -6635,6 +7371,7 @@
   },
   {
     "Name": "The Leader's Group on Governance",
+    "Description": "",
     "Code": "UKPARLIAMENT_1391",
     "Subscriptions": "2,313",
     "Visibility": "Listed",
@@ -6644,6 +7381,7 @@
   },
   {
     "Name": "The Week Ahead",
+    "Description": "",
     "Code": "UKPARLIAMENT_7",
     "Subscriptions": "2,435",
     "Visibility": "Unlisted",
@@ -6653,6 +7391,7 @@
   },
   {
     "Name": "The Work of the House of Lords",
+    "Description": "",
     "Code": "UKPARLIAMENT_58",
     "Subscriptions": "3,378",
     "Visibility": "Unlisted",
@@ -6662,6 +7401,7 @@
   },
   {
     "Name": "Today's Written Statements",
+    "Description": "Updates on the written statements from Parliament today.",
     "Code": "UKPARLIAMENT_217",
     "Subscriptions": "5,122",
     "Visibility": "Listed",
@@ -6671,6 +7411,7 @@
   },
   {
     "Name": "Town and Country Planning (Electricity Generating Consent) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1771",
     "Subscriptions": "2,975",
     "Visibility": "Listed",
@@ -6680,6 +7421,7 @@
   },
   {
     "Name": "Town and Country Planning (Electricity Generating Consent) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1953",
     "Subscriptions": "1,999",
     "Visibility": "Listed",
@@ -6689,6 +7431,7 @@
   },
   {
     "Name": "Trade Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2172",
     "Subscriptions": 381,
     "Visibility": "Listed",
@@ -6698,6 +7441,7 @@
   },
   {
     "Name": "Trade Union Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1685",
     "Subscriptions": 66,
     "Visibility": "Unlisted",
@@ -6707,6 +7451,7 @@
   },
   {
     "Name": "Trade Union Political Funds and Party Political Funding Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1398",
     "Subscriptions": "3,565",
     "Visibility": "Unlisted",
@@ -6716,6 +7461,7 @@
   },
   {
     "Name": "Transparency and Accountability (European Union) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1770",
     "Subscriptions": "2,985",
     "Visibility": "Listed",
@@ -6725,6 +7471,7 @@
   },
   {
     "Name": "Transport Committee Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_179",
     "Subscriptions": "6,209",
     "Visibility": "Listed",
@@ -6734,6 +7481,7 @@
   },
   {
     "Name": "Transport for London Act 2016 2010-12 to 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_799",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -6743,6 +7491,7 @@
   },
   {
     "Name": "Transport of Nuclear Weapons Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1736",
     "Subscriptions": "3,317",
     "Visibility": "Listed",
@@ -6752,6 +7501,7 @@
   },
   {
     "Name": "Treasury Committee Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_180",
     "Subscriptions": "6,252",
     "Visibility": "Listed",
@@ -6761,6 +7511,7 @@
   },
   {
     "Name": "Treejack (Public Sector) - 24th November 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1514",
     "Subscriptions": 990,
     "Visibility": "Restricted",
@@ -6770,6 +7521,7 @@
   },
   {
     "Name": "Treejack - 23 November 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1510",
     "Subscriptions": 994,
     "Visibility": "Unlisted",
@@ -6779,6 +7531,7 @@
   },
   {
     "Name": "Treejack A (NOT Public Sector) - 6th December 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1520",
     "Subscriptions": 500,
     "Visibility": "Restricted",
@@ -6788,6 +7541,7 @@
   },
   {
     "Name": "Treejack A (Public Sector) - 6th December 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1518",
     "Subscriptions": 500,
     "Visibility": "Restricted",
@@ -6797,6 +7551,7 @@
   },
   {
     "Name": "Treejack B (NOT Public Sector) - 6th December 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1521",
     "Subscriptions": 497,
     "Visibility": "Restricted",
@@ -6806,6 +7561,7 @@
   },
   {
     "Name": "Treejack B (Public Sector) - 6th December 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1519",
     "Subscriptions": 495,
     "Visibility": "Restricted",
@@ -6815,6 +7571,7 @@
   },
   {
     "Name": "Treejack Reengagement - 24 November 2017",
+    "Description": "",
     "Code": "UKPARLIAMENT_1513",
     "Subscriptions": 790,
     "Visibility": "Restricted",
@@ -6824,6 +7581,7 @@
   },
   {
     "Name": "Tuesday Westminster Hall Debates",
+    "Description": "Debates scheduled for Tuesday in Westminster Hall.",
     "Code": "UKPARLIAMENT_22",
     "Subscriptions": "6,462",
     "Visibility": "Listed",
@@ -6833,6 +7591,7 @@
   },
   {
     "Name": "Tyres (Buses and Coaches) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2170",
     "Subscriptions": 333,
     "Visibility": "Listed",
@@ -6842,6 +7601,7 @@
   },
   {
     "Name": "UK Borders Control  Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1665",
     "Subscriptions": "4,406",
     "Visibility": "Listed",
@@ -6851,6 +7611,7 @@
   },
   {
     "Name": "UK Environmental Protection (Maintenance of EU Standards) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1883",
     "Subscriptions": "2,926",
     "Visibility": "Listed",
@@ -6860,6 +7621,7 @@
   },
   {
     "Name": "UK International Trade and Investment Agreements (Ratification) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1885",
     "Subscriptions": "2,794",
     "Visibility": "Listed",
@@ -6869,6 +7631,7 @@
   },
   {
     "Name": "UK Parliament Week",
+    "Description": "",
     "Code": "UKPARLIAMENT_1465",
     "Subscriptions": "4,358",
     "Visibility": "Unlisted",
@@ -6878,6 +7641,7 @@
   },
   {
     "Name": "UK Parliament Week - 10 August",
+    "Description": "",
     "Code": "UKPARLIAMENT_1466",
     "Subscriptions": "4,271",
     "Visibility": "Restricted",
@@ -6887,6 +7651,7 @@
   },
   {
     "Name": "UK Parliament Week - expressions of interest",
+    "Description": "",
     "Code": "UKPARLIAMENT_1479",
     "Subscriptions": 152,
     "Visibility": "Unlisted",
@@ -6896,6 +7661,7 @@
   },
   {
     "Name": "Unaccompanied Asylum Seeking Children (Legal Advice and Appeals) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2047",
     "Subscriptions": "1,183",
     "Visibility": "Listed",
@@ -6905,6 +7671,7 @@
   },
   {
     "Name": "Unauthorised Overdrafts (Cost of Credit) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1986",
     "Subscriptions": "1,467",
     "Visibility": "Listed",
@@ -6914,6 +7681,7 @@
   },
   {
     "Name": "United Kingdom Borders (Control and Sovereignty) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1695",
     "Subscriptions": "4,065",
     "Visibility": "Listed",
@@ -6923,6 +7691,7 @@
   },
   {
     "Name": "Universal Credit (Application, Advice and Assistance) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2184",
     "Subscriptions": 140,
     "Visibility": "Listed",
@@ -6932,6 +7701,7 @@
   },
   {
     "Name": "University of London Bill [HL] 2016-17 to 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1930",
     "Subscriptions": "2,207",
     "Visibility": "Listed",
@@ -6941,6 +7711,7 @@
   },
   {
     "Name": "Unlawful Killing (Recovery of Remains) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1906",
     "Subscriptions": "2,393",
     "Visibility": "Listed",
@@ -6950,6 +7721,7 @@
   },
   {
     "Name": "Unpaid Trial Work Periods (Prohibition) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2077",
     "Subscriptions": "1,144",
     "Visibility": "Listed",
@@ -6959,6 +7731,7 @@
   },
   {
     "Name": "Unpaid Work Experience (Prohibition) Bill [HL] 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1806",
     "Subscriptions": "3,008",
     "Visibility": "Listed",
@@ -6968,6 +7741,7 @@
   },
   {
     "Name": "Unpaid Work Experience (Prohibition) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_1997",
     "Subscriptions": "1,343",
     "Visibility": "Listed",
@@ -6977,6 +7751,7 @@
   },
   {
     "Name": "Unsolicited Marketing Communications (Company Directors) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1899",
     "Subscriptions": "2,522",
     "Visibility": "Listed",
@@ -6986,6 +7761,7 @@
   },
   {
     "Name": "Use of Property (Protection) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1868",
     "Subscriptions": "2,809",
     "Visibility": "Listed",
@@ -6995,6 +7771,7 @@
   },
   {
     "Name": "Value Added Tax Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2089",
     "Subscriptions": 704,
     "Visibility": "Listed",
@@ -7004,6 +7781,7 @@
   },
   {
     "Name": "Vehicle Fuel (Publication of Tax Information) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1956",
     "Subscriptions": "1,938",
     "Visibility": "Listed",
@@ -7013,6 +7791,7 @@
   },
   {
     "Name": "Vehicle Noise Limits (Enforcement) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1860",
     "Subscriptions": "2,780",
     "Visibility": "Listed",
@@ -7022,6 +7801,7 @@
   },
   {
     "Name": "Vehicle Technology and Aviation Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1960",
     "Subscriptions": "2,001",
     "Visibility": "Listed",
@@ -7031,6 +7811,7 @@
   },
   {
     "Name": "Veterinary Nurses (Protection of Title) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1620",
     "Subscriptions": "3,940",
     "Visibility": "Listed",
@@ -7040,6 +7821,7 @@
   },
   {
     "Name": "Victims of Crime (Rights, Entitlements, and Notification of Child Sexual Abuse) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2031",
     "Subscriptions": "1,220",
     "Visibility": "Listed",
@@ -7049,6 +7831,7 @@
   },
   {
     "Name": "Victims of Crime Etc (Rights, Entitlements and Related Matters) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1705",
     "Subscriptions": "3,797",
     "Visibility": "Listed",
@@ -7058,6 +7841,7 @@
   },
   {
     "Name": "Violent Crime (Sentences) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1975",
     "Subscriptions": "1,668",
     "Visibility": "Listed",
@@ -7067,6 +7851,7 @@
   },
   {
     "Name": "Vote 100 Guestlist",
+    "Description": "",
     "Code": "UKPARLIAMENT_1524",
     "Subscriptions": 144,
     "Visibility": "Unlisted",
@@ -7076,6 +7861,7 @@
   },
   {
     "Name": "Voter Registration (No. 2) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2132",
     "Subscriptions": 695,
     "Visibility": "Listed",
@@ -7085,6 +7871,7 @@
   },
   {
     "Name": "Voter Registration Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2078",
     "Subscriptions": 704,
     "Visibility": "Listed",
@@ -7094,6 +7881,7 @@
   },
   {
     "Name": "Votes and Proceedings",
+    "Description": "A record of what happened at the House of Commons the day before.",
     "Code": "UKPARLIAMENT_89",
     "Subscriptions": "6,491",
     "Visibility": "Listed",
@@ -7103,6 +7891,7 @@
   },
   {
     "Name": "Voting Age (Reduction) Bill [HL] 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2027",
     "Subscriptions": "1,262",
     "Visibility": "Listed",
@@ -7112,6 +7901,7 @@
   },
   {
     "Name": "Wales Act 2017 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1800",
     "Subscriptions": 14,
     "Visibility": "Unlisted",
@@ -7121,6 +7911,7 @@
   },
   {
     "Name": "Wednesday Westminster Hall Debates",
+    "Description": "Debates scheduled for Wednesday in Westminster Hall.",
     "Code": "UKPARLIAMENT_23",
     "Subscriptions": "6,495",
     "Visibility": "Listed",
@@ -7130,6 +7921,7 @@
   },
   {
     "Name": "Welfare of Cats (Breeding and Sale) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1614",
     "Subscriptions": "4,061",
     "Visibility": "Listed",
@@ -7139,6 +7931,7 @@
   },
   {
     "Name": "Welfare of Women (Fertility Treatments) Bill [HL] 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1622",
     "Subscriptions": "4,177",
     "Visibility": "Listed",
@@ -7148,6 +7941,7 @@
   },
   {
     "Name": "Welfare Reform and Work Act 2016 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1676",
     "Subscriptions": 68,
     "Visibility": "Unlisted",
@@ -7157,6 +7951,7 @@
   },
   {
     "Name": "Welsh Affairs Committee Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_181",
     "Subscriptions": "4,872",
     "Visibility": "Listed",
@@ -7166,6 +7961,7 @@
   },
   {
     "Name": "West Midlands contacts",
+    "Description": "",
     "Code": "UKPARLIAMENT_1505",
     "Subscriptions": "1,199",
     "Visibility": "Restricted",
@@ -7175,6 +7971,7 @@
   },
   {
     "Name": "Wild Animals in Circuses (Prohibition) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1746",
     "Subscriptions": "3,229",
     "Visibility": "Listed",
@@ -7184,6 +7981,7 @@
   },
   {
     "Name": "Wild Animals in Circuses (Prohibition) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1862",
     "Subscriptions": "2,809",
     "Visibility": "Listed",
@@ -7193,6 +7991,7 @@
   },
   {
     "Name": "Withdrawal from the European Union (Article 50) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1933",
     "Subscriptions": "2,611",
     "Visibility": "Listed",
@@ -7202,6 +8001,7 @@
   },
   {
     "Name": "Women and Equalities Committee",
+    "Description": "",
     "Code": "UKPARLIAMENT_1356",
     "Subscriptions": "5,383",
     "Visibility": "Listed",
@@ -7211,6 +8011,7 @@
   },
   {
     "Name": "Work and Pensions Committee Homepage",
+    "Description": "",
     "Code": "UKPARLIAMENT_182",
     "Subscriptions": "7,001",
     "Visibility": "Listed",
@@ -7220,6 +8021,7 @@
   },
   {
     "Name": "Workers (Definition and Rights) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2167",
     "Subscriptions": 431,
     "Visibility": "Listed",
@@ -7229,6 +8031,7 @@
   },
   {
     "Name": "Workers' Rights (Maintenance of EU Standards) Bill 2016-17",
+    "Description": "",
     "Code": "UKParliament_Bill_1894",
     "Subscriptions": "2,696",
     "Visibility": "Listed",
@@ -7238,6 +8041,7 @@
   },
   {
     "Name": "Working Time (Regulations) Bill 2017-19",
+    "Description": "",
     "Code": "UKParliament_Bill_2106",
     "Subscriptions": 736,
     "Visibility": "Listed",
@@ -7247,6 +8051,7 @@
   },
   {
     "Name": "Working Time Directive (Limitation) Bill 2015-16",
+    "Description": "",
     "Code": "UKParliament_Bill_1672",
     "Subscriptions": 222,
     "Visibility": "Listed",
@@ -7256,6 +8061,7 @@
   },
   {
     "Name": "Works of Art (Speaker's Advisory Committee)",
+    "Description": "",
     "Code": "UKPARLIAMENT_1294",
     "Subscriptions": "4,163",
     "Visibility": "Listed",
@@ -7265,6 +8071,7 @@
   },
   {
     "Name": "Works of Art Advisory Panel (House of Lords)",
+    "Description": "",
     "Code": "UKPARLIAMENT_1394",
     "Subscriptions": "2,281",
     "Visibility": "Listed",
@@ -7274,6 +8081,7 @@
   },
   {
     "Name": "WPU Social",
+    "Description": "",
     "Code": "UKPARLIAMENT_1516",
     "Subscriptions": 0,
     "Visibility": "Restricted",
@@ -7283,6 +8091,7 @@
   },
   {
     "Name": "Your Parliament",
+    "Description": "",
     "Code": "UKPARLIAMENT_1407",
     "Subscriptions": "30,679",
     "Visibility": "Restricted",

@@ -9,7 +9,7 @@
 @import 'elements/headings';
 
 .block.theme--transparent {
-	@include theme(transparent, $deep-purple, $link, $link, $deep-purple);
+	@include theme(transparent, 'inherit','inherit','inherit', 'inherit');
 }
 
 input {

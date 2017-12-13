@@ -47,7 +47,10 @@ block content
                                 .list--details
                                     strong
                                         +input('checkbox', topic.Name, topic.Code, topic.Code)(checked)
-                                    p.input--description Alerts on any updates to this bill.
+                                    if topic.Description
+                                        p.input--description #{topic.Description}
+                                    else
+                                        p.input--description Alerts on any updates to this bill.
                                     .inline-alert.removal You are now unsubscribed
             else
                 p You aren’t currently subscribed to any emails.
